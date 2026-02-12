@@ -209,5 +209,5 @@ __marimo__/
 # Remove training data, output_map and models
 *.npz
 *output_map.json
-.pt
+*.pt
 sample*
