@@ -6,6 +6,7 @@ from PIL import Image, ImageDraw, ImageFont
 import os
 
 DATASET_DIR = os.path.join("dataset", "data")
+DATASET_FONTS_DIR = os.path.join(DATASET_DIR, "fonts")
 FONT_PATH = os.path.join(DATASET_DIR, "ipamjm.ttf")
 IMAGE_SIZE = 256
 FONT_SIZE = 220
@@ -13,22 +14,29 @@ KANJI_LIST = open(os.path.join(DATASET_DIR, "kanji_1000.txt"), encoding="utf-8")
 
 os.makedirs(os.path.join(DATASET_DIR, "raw_images"), exist_ok=True)
 
-font = ImageFont.truetype(FONT_PATH, FONT_SIZE)
+font_paths = [os.path.join(dirpath,f) for (dirpath, _, filenames) in os.walk(DATASET_FONTS_DIR) for f in filenames]
 
-for idx, kanji in enumerate(KANJI_LIST):
-    img = Image.new("L", (IMAGE_SIZE, IMAGE_SIZE), 255)
-    draw = ImageDraw.Draw(img)
+for font_idx, path in enumerate(font_paths):
+    font = ImageFont.truetype(path, FONT_SIZE)
 
-    bbox = draw.textbbox((0, 0), kanji, font=font)
-    w = bbox[2] - bbox[0]
-    h = bbox[3] - bbox[1]
+    for kanji_idx, kanji in enumerate(KANJI_LIST):
+        if font.getbbox(kanji) is None:
+            print(f"{font} doesn't have glyph {kanji}.")
+            continue
 
-    x = (IMAGE_SIZE - w) // 2
-    y = (IMAGE_SIZE - h) // 2
+        img = Image.new("L", (IMAGE_SIZE, IMAGE_SIZE), 255)
+        draw = ImageDraw.Draw(img)
 
-    draw.text((x, y), kanji, fill=0, font=font)
+        bbox = draw.textbbox((0, 0), kanji, font=font)
+        w = bbox[2] - bbox[0]
+        h = bbox[3] - bbox[1]
 
-    filename = f"{idx:04d}_{kanji}.png"
-    img.save(os.path.join(DATASET_DIR, "raw_images", filename))
+        x = (IMAGE_SIZE - w) // 2
+        y = (IMAGE_SIZE - h) // 2
+
+        draw.text((x, y), kanji, fill=0, font=font)
+
+        filename = f"{kanji_idx:04d}_{font_idx:03d}_{kanji}.png"
+        img.save(os.path.join(DATASET_DIR, "raw_images", filename))
 
 
