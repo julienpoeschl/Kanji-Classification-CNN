@@ -1,0 +1,1000 @@
+日	4	1	象形 Pictographic	5	ニチ、ジツ、ひ、か		nichi, jitsu	hi, ka	day; Sunday	sun; time; day, date	2	4
+年	6	1	会意 Com. Ideographic	5	ネン、とし		nen	toshi	year; term of service	year; age, time of life	2	3
+人	2	1	象形 Pictographic	5	ジン、ニン、ひと		jin, nin	hito	man, person, people	man, human being, mankind, person, people; character, personality; true man; man of talent; adult; other people; messenger; visitor	3	13
+会	6	2	象形 Pictographic	4	カイ、エ、あ-う	ケ	kai, e	a(u)	Buddhist ceremony; understanding; meeting, assembly; party; association, club	meet, interview	7	2
+大	3	1	象形 Pictographic	5	ダイ、タイ、おお、おお-きい、おお-いに	ダ	dai, tai	oo, oo(kii), oo(ini)	large, huge, grand; the greater; size; very; inveterate (smoker); severe (damage); success	large, great, grand, mighty, immense; severe; heavy. very, much, greatly, exceedingly. heavy (rain); loud (voice); full-size, life-size	9	15
+国	8	2	会意 Com. Ideographic	5	コク、くに		koku	kuni	country	country, land, realm; province; native land	1	5
+者	8	3	会意 Com. Ideographic	4	シャ、もの		sha	mono	person; thing	person, somebody	2	2
+月	4	1	象形 Pictographic	5	ゲツ、ガツ、つき		getsu, gatsu	tsuki	moon; month; Monday; month (of the year)	moon; month	4	2
+出	5	1	象形 Pictographic	5	シュツ、[スイ]、で-る、だ-す		shutsu, [sui]	de(ru), da(su)	born of; appearing from; going out; sending out	appear, come out, emerge; haunt, infest; be found, get back; be served (meals); lead to, enter; find (oneself) at; come out (as a result); leave, go out, get out; attend, appear; work (at); participate; launch (into); run (for an office); be published; sell; depart; graduate; break out, originate; be raised, be produced; issue from, be traced to, derive from, stem from; protrude, stick out; exceed; interfere; intrude. put out, take out, pull out, stick out; draw (a gun); stretch out, extend; save (from a fire); expose, bare; exhibit; send, forward, post; publish; hoist (a flag); hang out; present, send in, tender, submit; serve; run (extra trains); produce; pay, contribute; invest; advance (money)	4	66
+事	8	3	会意 Com. Ideographic	4	ジ、[ズ]、こと	シ、つか	ji, [zu]	koto	thing, matter	thing, matter, fact, circumstances, business, reason, experience	2	7
+長	8	2	象形 Pictographic	5	チョウ、なが-い	たけ、おさ、まさ、た	choo	naga(i)	head, chief, headman, commander, director, manager; merit, forte, advantage; superiority; length	long, lengthy	11	2
+一	1	1	指事 Ideographic	5	イチ、イツ、ひと、ひと-つ		ichi, itsu	hito, hito(tsu)	one, a	one, a unit; the same; just; once	2	5
+中	4	1	象形 Pictographic	5	チュウ、[ジュウ]、なか	うち、あ	chuu, [jyuu]	naka	center, middle; middle (course); (golden) mean; medium, mediocrity, average; second volume (of three)	inside, interior, midst, middle, mean, midway	8	6
+時	10	2	形声 Phonetic	5	ジ、とき	シ	ji	toki	hour, o'clock, time; Buddhist sect originating in the thirteenth century	time, hour, moment, occasion; season; opportunity; the times; tense	4	8
+同	6	2	会意 Com. Ideographic	4	ドウ、おな-じ		doo	ona(ji)	the same, the said, ibid	same, identical, equal; uniform; equivalent; similar; common (origin); changeless	3	8
+分	4	2	会意 Com. Ideographic	5	ブン、フン、ブ、わ-ける、わ-かれる、わ-かる、わ-かつ		bun, fun, bu	wa(keru), wa(kareru), wa(karu), wa(katsu)	dividing; part, segment; share; ration; rate; degree; one's lot, one's status; relation; duty; kind, lot. a minute of time; one-sixtieth of a degree; one-tenth of a momme. rate, part, percentage; one percent; thickness; odds; chance of winning; one-tenth of a shaku; one quarter of a ryo	understand, comprehend; know, be known, be identified; be open to reason, be sensible; can tell (what will happen); appreciate; be announced; be discovered; recognize. divide, split, separate; isolate; distribute, share; distinguish; spare. share with; distinguish between. branch off, diverge from, fork; split; be divided; part with; be divorced; bid farewell; break up, disperse, scatter	25	33
+上	3	1	指事 Ideographic	5	ジョウ、[ショウ]、うえ、[うわ]、かみ、あ-げる、あ-がる、のぼ-る、のぼ-せる、のぼ-す		joo, [shoo]	ue, [uwa], kami, a(geru), a(garu), nobo(ru), nobo(seru), nobo(su)	top; best; first volume. upper part; government. aboard a ship or vehicle; from the standpoint of; as a matter of (fact). governmental; imperial; best; high class; going up; presenting; showing	up, upper part, top, summit; surface; far better; higher; (in) authority; as far as…is concerned; besides; after; emperor, sovereign; upon (examination); influence of (liquor); lord, shogun; superior. rise, go up; climb up; advance, appreciate; be offered; accrue; be finished; (expenses) come to; go bankrupt; begin spinning (cocoons); be caught; get ruffled; eat, drink; die; weaken (as a battery); let up (rain). raise, elevate; fly (kites); praise; increase, promote, elevate; vomit; usher in, admit; send (to school); offer; present, leave with; finish; arrange (expenses); observe, perform; quote, mention, give (examples); bear (a child); improve (talents); do up (the hair); arrest; engage; fry; (rains) stop. ascend, climb; go to (the capital); add up to; be promoted; advance (in price); sail up; come up (on the agenda). record; bring up (a matter); serve (food); send some out (from Kyoto). head; upper part; upper stream; emperor; a superior; upper part of the body; the above. upward, outer	15	85
+手	4	1	象形 Pictographic	4	シュ、て、[た]	ズ	shu	te, [ta]	hand, arm; help; handwriting; handle, means; trick, snare; skill; kind; direction, side; trouble, care; control, management; possession; connection; injury	hand, arm; help; handwriting; handle, means; trick, snare; skill; kind; direction, side; trouble, care; control, management; possession; connection; injury	19	19
+後	9	2	会意 Com. Ideographic	5	ゴ、コウ、のち、うし-ろ、あと、おく-れる		go, koo	nochi, ushi(ro), ato, oku(reru)	back, rear, behind	after, since then; future; after one's death. back, rear, behind. results; remainder, sequel; posterity; successor; survivor; effect, influence; estate. be late, be delayed, be overdue; lag behind; (clocks) lose	3	21
+発	9	3	会意 Com. Ideographic	4	ハツ、ホツ		hatsu, hotsu	-	departure; discharge (of a gun)	-	2	0
+生	5	1	象形 Pictographic	5	セイ、ショウ、い-きる、い-かす、い-ける、う-まれる、う-む、お-う、は-える、は-やす、き、なま	な	sei, shoo	i(kiru), i(kasu), i(keru), u(mareru), u(mu), o(u), ha(eru), ha(yasu), ki, nama	birth; life, existence, living; subsistence; student	grow, spring up; cut (teeth). cultivate, wear (a beard). revive, resuscitate; restore to life; let live, spare a life; make the most of; give life to; stet. keep alive; arrange flowers (in a vase); living. live, subsist, exist; be enlivened; be safe (on first). be born. bear, give birth to, breed, spawn; produce, yield (interest). raw, uncooked, fresh; unripe; half-boiled; rare; hard cash; impertinent, conceited; inexperienced; (beer) on tap; crude (rubber), unprocessed. pure, undiluted, genuine; raw, crude	6	46
+行	6	2	象形 Pictographic	5	コウ、ギョウ、[アン]、い-く、ゆ-く、おこな-う		koo, gyoo, [an]	i(ku), yu(ku), okona(u)	party, suite; journey; expedition; line, row. religious austerities.	go; run (water). do, act, conduct oneself; carry out; perform, conduct (school); exercise (control); hold (a ceremony)	7	10
+合	6	2	象形 Pictographic	3	ゴウ、ガッ、[カッ]、あ-う、あ-わす、あ-わせる	コウ	goo, gaQ, [kaQ]	a(u), a(wasu), a(waseru)	one-tenth	fit, suit; agree with, match, be correct; pay, be profitable. join together; be opposite, face; unite, combine, connect; add up; mix; match; overlap; compare; check with	1	19
+本	5	1	指事 Ideographic	5	ホン、もと		hon	moto	book; this, the same, the present, the current; main; true; real; regular, normal; counter for long things	beginning, origin; foundation, basis, source; cause; root (of a tree); (raw) material, base; capital; principal; cost; forebears; formerly	11	14
+見	7	1	象形 Pictographic	5	ケン、み-る、み-える、み-せる	まみ、ら	ken	mi(ru), mi(eru), mi(seru)	hopes, chances; ideas, opinion	see, look at, witness, observe; regard as; sightsee; look through; examine; consult (a lexicon); tell (one’s future); estimate; care for; try, test; be seen, be visible, be in sight; look like, seem, appear; come, show up; be found	4	23
+回	6	2	象形 Pictographic	3	カイ、[エ]、まわ-る、まわ-す	めぐ	kai, [e]	mawa(ru), mawa(su)	time; round, game, bout, heat, inning, innings; go around	and, turn, go around; revolve, rotate, spin, gyrate; patrol, tour; take effect (medicine); be distributed; be past (time); be transferred; circularize; pass around; forward, transmit; refer to; transfer; lend money	8	20
+前	9	2	会意 Com. Ideographic	5	ゼン、まえ	セン、さき、ざき	zen	mae	before	front, fore part; head (of a line); presence; ago, before; previously; (five minutes) to	1	8
+政	9	5	形声 Phonetic	3	セイ、[ショウ]、まつりごと	ただ	sei, [shoo]	matsurigoto	government, rule	government, rule	2	2
+選	15	4	形声 Phonetic	3	セン、えら-ぶ		sen	era(bu)	selection, choice	select, choose; cull out; elect; prefer; decide on	2	6
+社	7	2	形声 Phonetic	4	シャ、やしろ		sha	yashiro	Shinto shrine; association; firm, company, office	Shinto shrine	5	1
+表	8	3	会意 Com. Ideographic	3	ヒョウ、おもて、あらわ-す、あらわ-れる		hyoo	omote, arawa(su), arawa(reru)	table, schedule, diagram, chart, list	express, show, manifest. appear, emerge, come in sight, show up; be revealed, be discovered, be mentioned; become famous. surface, right side, face; exterior, outside; front; the street; mat covers; head (of a coin); first half (of an inning)	5	21
+市	5	2	象形 Pictographic	3	シ、いち	か、が	shi	ichi	city, town; market	market; fair	3	2
+場	12	2	形声 Phonetic	4	ジョウ、ば		joo	ba	place, grounds, links, range, course, track, ring	place, site; space, seat; scene; occasion, situation	7	7
+自	6	2	象形 Pictographic	4	ジ、シ、みずか-ら	おのずか、おの、よ	ji, shi	mizuka(ra)	oneself	oneself, personally	1	2
+地	6	2	形声 Phonetic	4	チ、ジ		chi, ji	-	earth, land, ground, the surface of the earth; soil; place, region; territory; room, space; position; site; foundation. texture, weave, fabric; field (of a flag); disposition; respectability; accompaniment; narrative part; fact	-	22	0
+対	7	3	会意 Com. Ideographic	3	タイ、ツイ		tai, tsui	-	the opposite; antonym; even, equal; versus; (score of three) to (one); counter-, anti-, versus. pair, couple, set	-	12	0
+間	12	2	会意 Com. Ideographic	5	カン、ケン、あいだ、ま	あ、か、い	kan, ken	aida, ma	interval; space; between; among; discord; favorable opportunity; six feet	space, interval, gap; between, among; midway; on the way; distance; time, period; relationship; room; pause; rest (in music); a while; leisure; luck; timing, harmony	8	20
+戦	13	4	会意 Com. Ideographic	3	セン、いくさ、たたか-う	おのの	sen	ikusa, tataka(u)	war; battle; game, match	wage war; fight; engage in a contest; struggle against. war, fight, battle, encounter	4	8
+業	13	3	象形 Pictographic	4	ギョウ、ゴウ、わざ		gyoo, goo	waza	vocation, occupation, business, trade, profession; industry; undertaking; studies; arts; conduct, act; service; achievement	deed, act, work, art, trick, performance	13	6
+部	11	3	形声 Phonetic	3	ブ	フ、わ、べ	bu	-	department, bureau, section; faculty; division, class, category; part, portion, region; copy, volume, set	-	13	0
+定	8	3	会意 Com. Ideographic	3	テイ、ジョウ、さだ-める、さだ-まる、さだ-か		tei, joo	sada(meru), sada(maru), sada(ka)	deciding. be decided, be settled, quiet down	be decided, be settled, quiet down. establish, lay down, stipulate; decide, determine; appoint, set (a date); pacify. sure, positive; accurate; reliable; sound, firm; clear, evident; genuine; able, competent; sober, sane; I think; if I remember right	4	26
+学	8	1	会意 Com. Ideographic	5	ガク、まな-ぶ		gaku	mana(bu)	learning, study, science, scholarship, erudition	learn, study	5	2
+方	4	2	象形 Pictographic	4	ホウ、かた	まさ、あ	hoo	kata	direction, way; side; part; square; way, method, means, scheme, process	direction; settlement; person	10	3
+入	2	1	象形 Pictographic	5	ニュウ、い-る、い-れる、はい-る	ジュ、しお	nyuu	i(ru), i(reru), hai(ru)	go in, come in; flow into; set; set in	go in, come in; flow into; set; set in. put in, take in, bring in, let in, admit, introduce, commit (to prison), usher in; insert; set (jewels); employ; listen to; tolerate, comprehend; include; pay (interest); cast (votes). enter; break into; join; enroll; contain, hold; accommodate; have (an income of)	5	30
+相	9	3	会意 Com. Ideographic	3	ソウ、ショウ、あい		soo, shoo	ai	aspect, phase, physiognomy. minister of state, councilor	together, each other; mutually, reciprocally; fellow-; emphatic vebal prefix	5	6
+議	20	4	形声 Phonetic	3	ギ		gi	-	consultation, deliberation, debate; consideration, proposal, suggestion	-	6	0
+員	10	3	象形 Pictographic	4	イン		in	-	member; number; the one in charge	-	3	0
+的	8	4	形声 Phonetic	4	テキ、まと		teki	mato	mark, target; object; the point. adjective ending	mark, target; object; the point	5	4
+勝	12	3	形声 Phonetic	3	ショウ、か-つ、まさ-る	すぐ、た	shoo	ka(tsu), masa(ru)	victory, beauty spot	win; prevail, predominate, surpass. excel, surpass, outrival	2	7
+今	4	2	仮借 Loan	5	コン、キン、いま		kon, kin	ima	now, the present; the coming; this	now, present time; just now, soon, immediately; (one) more	4	6
+金	8	1	象形 Pictographic	5	キン、コン、かね、[かな]	こがね	kin, kon	kane, [kana]	gold; money; Friday	money, metal	3	2
+明	8	2	会意 Com. Ideographic	4	メイ、ミョウ、あ-かり、あか-るい、あか-るむ、あか-らむ、あき-らか、あ-ける、あ-く、あ-くる、あ-かす	ミン	mei, myoo	a(kari), aka(rui), aka(rumu), aka(ramu), aki(raka), a(keru), a(ku), a(kuru), a(kasu)	clearness, shining; eyesight; discernment. next (week), tomorrow (morning)	open; empty, vacate; leave (a space); clear (the table); make (a hole); reserve (a seat), stay away from; dawn; end, expire, be over; open, begin. be opened; start, commence; become vacant, become empty, be disengaged, be free; expire, be over. spend, pass the time; reveal, divulge. light, lamp; vindication. bright, cheerful, sunny; clear, clean; conversant with. plain, distinct, definite, obvious, indisputable, evident. next, following	6	44
+決	7	3	形声 Phonetic	3	ケツ、き-める、き-まる		ketsu	ki(meru), ki(maru)	decision, vote	fix, decide, agree upon; appoint, choose; resolve; be decided, be settled, be arranged; be certain to, be doomed to	2	11
+高	10	2	会意 Com. Ideographic	5	コウ、たか-い、たか、たか-まる、たか-める		koo	taka(i), taka, taka(maru), taka(meru)	high	high, tall, lofty, raised, elevated, eminent; exalted, noble; loud, stentorian; expensive; widely known. quantity, volume, amount, sum; rise (in prices); fief. rise; swell; be elevated, be promoted; increase. raise, lift, promote, elevate; improve, enhance; ennoble; heighten; boost	1	32
+内	4	2	象形 Pictographic	3	ナイ、[ダイ]、うち	ノウ、い	nai, [dai]	uchi	inside, interior, within, between, among. within, within the scope of	inside, interior; house, home; within; between, among, out of; mind; myself. inner	7	11
+現	11	5	形声 Phonetic	3	ゲン、あらわ-れる、あらわ-す	うつつ	gen	arawa(reru), arawa(su)	present, exciting, actual	appear, emerge, come in sight, show up; be revealed, be discovered; be mentioned; become famous. show, indicate, display, prove, disclose, express; represent; distinguish oneself	3	16
+子	3	1	象形 Pictographic	5	シ、ス、こ	み、ね	shi, su	ko	viscount, master; child; male; fruit; seed. offspring; the young (of animals)	child, offspring; the young (of animals)	8	3
+代	5	3	形声 Phonetic	4	ダイ、タイ、か-わる、か-える、よ、しろ		dai, tai	ka(waru), ka(eru), yo, shiro	period, age, generation; charge, rate, fee, cost, price	world, society, public; life, existence, career, lifetime; age, era, generation, times; reign. change, turn, convert, exchange, renew, substitute, replace. relieve. price; substitution	8	22
+目	5	1	象形 Pictographic	4	モク、[ボク]、め、[ま]		moku, [boku]	me, [ma]	item, division, class; order (of plants or animals)	eye; look, gaze; notice, attention; viewpoint; discrimination, insight; experience; treatment; care, favor, pity; texture, weave; mesh; grain, square; sight, vision; tooth (of a saw); weight; momme (0.1325 oz.); eye (of a needle)	4	24
+作	7	2	形声 Phonetic	4	サク、サ、つく-る		saku, sa	tsuku(ru)	a work, a production; tillage; harvest; ridge (in a field)	a work, a production; tillage; harvest; ridge (in a field)	5	17
+円	4	1	形声 Phonetic	5	エン、まる-い	まど	en	maru(i)	circle; yen	round, circular, spherical	2	3
+開	12	3	会意 Com. Ideographic	4	カイ、ひら-く、ひら-ける、あ-く、あ-ける		kai	hira(ku), hira(keru), a(ku), a(keru)	opening	open, unfold, unroll, uncover, unpack, untie, unseal; establish; clear (land); pioneer; clear the way; convene; enlighten ( a country); bloom; differ, have a margin; widen (the space between); become civilized, become modernized; become sensible; be opened to traffic; feel relief; be open; grow, develop (a town); start, commence; become vacant, become empty, be disengaged, be free; empty, vacate; leave (a space); clear (the table); make (a hole); reserve (a seat), stay away from; dawn; end, expire, be over; begin	1	43
+力	2	1	象形 Pictographic	4	リョク、リキ、ちから	つと	ryoku, riki	chikara	strain, bear up, exert one's strength; swagger, bluff, boast. strength. power	strength, energy, force, might, power; agency; authority, influence; vigor; stress, emphasis; exertions, endeavors; efficacy; help, support, good offices; ability, faculty, capability, attainment; means, resources	8	23
+新	13	2	会意 Com. Ideographic	4	シン、あたら-しい、あら-た、にい		shin	atara(shii), ara(ta), nii	newness, novelty. new, modern, novel, fresh, neo-	new, novel, fresh, recent, modern	7	5
+立	5	1	会意 Com. Ideographic	4	リツ、[リュウ]、た-つ、た-てる		ritsu, [ryuu]	ta(tsu), ta(teru)	standing	stand, rise; rouse oneself; be built, be established; go up (smoke); burn out; depart; take flight; run high (waves); stick into; be worked out; be maintained; save (face); establish oneself, begin life; spread (rumors); shut (door); be active; open (markets); be excited; come (seasons); makes (a total of thirty). stand something up, set up, raise; put up; set on edge; prick up (one's ears); build, erect; close (a door); establish; institute, enact; lay (plans); map out; set forth, lay down (a proposition); formulate; render (services), perform; look up to, respect; be loyal to; do justice to; circulate (rumors); have (an aim); establish (oneself), make (a success); support (oneself); make (an oath); sharpen, set (a saw); put up (a candidate); make (tea); save (face)	1	57
+性	8	5	形声 Phonetic	3	セイ、ショウ		sei, shoo	-	sex, gender; nature, attribute. deposition; quality; purity	-	7	0
+権	15	6	形声 Phonetic	3	ケン、[ゴン]		ken, [gon]	-	authority, power, rights, concession	-	2	0
+全	6	3	象形 Pictographic	3	ゼン、まった-く、すべ-て	まっと	zen	matta(ku), sube(te)	all	entirely, completely, wholly, perfectly; truly, indeed.	1	6
+化	4	3	会意 Com. Ideographic	3	カ、ケ、ば-ける、ば-かす		ka, ke	ba(keru), ba(kasu)	influence; bewitch, enchant, confuse, delude	bewitch, enchant, confuse, delude; appear in disguise	5	5
+問	11	3	会意 Com. Ideographic	4	モン、と-う、と-い、[とん]		mon	to(u), to(i), [ton]	question, problem, subject, discussion	ask, question, inquire; accuse. Inquiry	4	5
+体	7	2	形声 Phonetic	4	タイ、テイ、からだ		tai, tei	karada	the body; substance, object; reality; style, form; image counter. appearance, air; condition, state	body, health	11	2
+当	6	2	形声 Phonetic	3	トウ、あ-たる、あ-てる		too	a(taru), a(teru)	right, appropriateness, fairness; himself; itself; at the time	hit, strike, dash into; touch; shine on; guess right, be fulfilled; succeed; confront; lie (to the south); treat; fell out; undertake; be worth; correspond to; be related to; apply to; draw (a prize); be assigned to; be affected by; be spoiling; be exposed to; warm oneself; shave; grind; this coming (15th); turn out well; take well; be punished (by heaven); stand to reason; deal with; engage (the enemy); need not to (with negative); have (one's turn); be charged with. apply, place, put; hit (the mark); guess; succeed; expose to; sit (on a cushion); assign, allocate; call on (a pupil)	6	46
+連	10	4	会意 Com. Ideographic	3	レン、つら-なる、つら-ねる、つ-れる		ren	tsura(naru), tsura(neru), tsu(reru)	ream; set; party, company, gang, clique; series counter	range, be connected with, join; stand in a row; attend; join one's people (in death). put in a row. take (someone) along	7	8
+実	8	3	会意 Com. Ideographic	3	ジツ、み、みの-る		jitsu	mi, mino(ru)	truth, reality; sincerity, fidelity; kindness; faith; substance, essence	ripen; bear fruit. seed, berry, nut, fruit; substance, contents; ingredients; (soup) stock	8	10
+法	8	4	会意 Com. Ideographic	3	ホウ、[ハッ]、[ホッ]	のっと、のり	hoo, [haQ], [hoQ]	-	law, rule, principle; legislation, regulation; code; method, way, model, manner, system, process, art, technique; rites, religion, doctrine; reason; mood (of verbs)	-	19	0
+県	9	3	会意 Com. Ideographic	3	ケン	あがた、か、が	ken	-	prefecture; district (in China)	-	2	0
+最	12	4	会意 Com. Ideographic	3	サイ、もっと-も		sai	motto(mo)	most	most	1	1
+約	9	4	形声 Phonetic	3	ヤク		yaku	-	promise, vow; approximately; abridgment	-	4	0
+言	7	2	象形 Pictographic	4	ゲン、ゴン、い-う、こと		gen, gon	i(u), koto	word; phrase; speech; statement	say, tell, talk, speak, declare; call, term, name.word	4	9
+民	5	4	象形 Pictographic	3	ミン、たみ		min	tami	people, nation, subjects	people, nation, subjects	3	3
+万	3	2	象形 Pictographic	5	マン、バン	よろず	man, ban	-	ten thousand; myriad. fully; if by any chance	-	4	0
+度	9	3	会意 Com. Ideographic	4	ド、[ト]、[タク]、たび	わた、た	do, [to], [taku]	tabi	degree; extent, measure, limit; a time; graduation, scale; composure. save, redeem, reclaim	time, occasion; repetition	11	3
+関	14	4	会意 Com. Ideographic	3	カン、せき、かか-わる		kan	seki, kaka(waru)	barrier, gateway	concern oneself in, have to do with; affect, influence; stick to (opinions); barrier, checking station	2	7
+取	8	3	会意 Com. Ideographic	3	シュ、と-る	ス	shu	to(ru)	take, hold, seize, catch, capture; fetch; receive, procure, obtain; adopt (a measure); engage (graduates); choose; order (foodstuffs); pick, pluck; make, produce; eat; set up (camp); charge; administer; transact; take (pains); make out (the meaning); remove; take off (one's hat); take out (spots); strike out (words); weed, catch (fish); deprive of; steal; capture (territory), annex; need, require; reserve (rooms); subscribe to; press (a point home); take (a picture); possess	take, hold, seize, catch, capture; fetch; receive, procure, obtain; adopt (a measure); engage (graduates); choose; order (foodstuffs); pick, pluck; make, produce; eat; set up (camp); charge; administer; transact; take (pains); make out (the meaning); remove; take off (one's hat); take out (spots); strike out (words); weed, catch (fish); deprive of; steal; capture (territory), annex; need, require; reserve (rooms); subscribe to; press (a point home); take (a picture); possess	41	41
+主	5	3	象形 Pictographic	4	シュ、[ス]、ぬし、おも	あるじ	shu, [su]	nushi, omo	Lord; lord, master, employer; aim; main thing	owner; master, husband; lover; a god; you. main	6	7
+動	11	3	形声 Phonetic	4	ドウ、うご-く、うご-かす		doo	ugo(ku), ugo(kasu)	motion; change; confusion	move, stir, shift, shake, swing; operate, run, go, work; be touched, be influenced, waver, fluctuate, vary, change, be transferred. set in motion, inspire, rouse, influence; mobilize; deny	3	22
+理	11	2	形声 Phonetic	4	リ		ri	-	reason, justice, truth, principle	-	4	0
+家	10	2	会意 Com. Ideographic	4	カ、ケ、いえ、や		ka, ke	ie, ya	house	house, home, residence; housing; family, household; family name; fortune; shop, store, seller; dealer	1	12
+気	6	1	形声 Phonetic	5	キ、ケ	いき	ki, ke	-	spirit, mind, soul, heart; intention; bent, interest; mood, feeling; temper, disposition, nature; care, attention; air, atmosphere; flavor; odor; energy, essence; indications, symptoms; taste; touch, dash, shade, trace; spark, flash; suspicion	-	30	0
+調	15	3	形声 Phonetic	3	チョウ、しら-べる、ととの-う、ととの-える	つき	choo	shira(beru), totono(u), totono(eru)	tune, tone, meter; key (in music); style of writing; tax in kind	test, examine, investigate, survey, check up; inspect, overhaul; search for; look up (a word); refer to (a book); interrogate; correct (papers); play (on an instrument). prepare, arrange; fill (orders); supply; raise (money); put in order, tidy up, adjust (clothes); regulate; settle; purchase. be prepared, be arranged, be in order, be adjusted, be well regulated; be settled	6	30
+不	4	4	仮借 Loan	4	フ、ブ		fu, bu	-	negation; bad; clumsy; ugly	-	4	0
+期	12	3	形声 Phonetic	3	キ、[ゴ]		ki, [go]	-	time, date, period, term; an age; season; session; a stage; opportunity	-	9	0
+通	10	2	形声 Phonetic	4	ツウ、[ツ]、とお-る、とお-す、かよ-う	ドウ	tsuu, [tsu]	too(ru), too(su), kayo(u)	pass; expert	walk along, pass by; pass through; pass (exams); be knows as; be admissible; come in; be understood; reach; draw (on a piece); drain (as a sink); be consistent. let (someone) pass; pass (something) through; make way for; let in, admit; usher in; cut through; pierce; permeate, penetrate; carry one's point; persist in; look over (a book); keep on doing, continue; pose as; pass (a law); order (a meal). commute; attend (school); ply between; frequent (a place); go (for treatments); circulate; breathe; be charged with	2	38
+用	5	2	象形 Pictographic	4	ヨウ、もち-いる	ユウ	yoo	mochi(iru)	business, work; function; errand; engagement; use, service; expenses; call of nature. for, used for	use, adopt (a method), employ	11	3
+外	5	2	会意 Com. Ideographic	5	ガイ、ゲ、そと、ほか、はず-す、はず-れる	ウイ	gai, ge	soto, hoka, ha(zusu), hazu(reru)	outside, without, beside, beyond the scope off	outside, exterior, open air; some other place; outside; the rest; take off, remove, unfasten, undo, detach, disconnect, put out off gear; miss, fail; avoid, evade, dodge; be off, come off, be or get out of place, be out of gear, run off the track, slip out or off, be dislocated, be disconnected, be off the hook (a phone), be unbuttoned, be unzipped	4	29
+点	9	2	形声 Phonetic	3	テン		ten	-	point; mark; score, run; speck; stain; defect; a detail; standpoint; items, pieces; decimal point; vote	-	13	0
+首	9	2	象形 Pictographic	3	シュ、くび	こうべ	shu	kubi	head; neck; beginning, the first; poem and song counter	neck, head	5	2
+交	6	2	象形 Pictographic	3	コウ、まじ-わる、まじ-える、ま-じる、ま-ざる、ま-ぜる、か-う、か-わす		koo	maji(waru), maji(eru), maji(ru), ma(zaru), ma(zeru), ka(u), ka(wasu)	coming and going, association; change of seasons	associate with, mingle with; interest; join. mix; converse with, cross (swords). blend, mingle; include, let in on. be mixed, be blended. exchange (messages); dodge, parry, avoid, turn aside	3	18
+意	13	3	会意 Com. Ideographic	4	イ		i	-	mind, heart; care; liking, taste; inclination, will, intention; thought, idea; desire	-	11	0
+報	12	5	会意 Com. Ideographic	3	ホウ、むく-いる	し	hoo	muku(iru)	news, report; reward, retribution	reward, compensate; repay; revenge	4	4
+第	11	3	形声 Phonetic	2	ダイ		dai	-	residence. number (1, 2, 3, etc.)	-	2	0
+先	6	1	会意 Com. Ideographic	5	セン、さき	ま	sen	saki	the future; priority, precedence	point, tip, end; nozzle; head (of a line); the first priority; the future; objective, destination; sequel, remainder; the other party; future	3	13
+強	11	2	会意 Com. Ideographic	4	キョウ、ゴウ、つよ-い、つよ-まる、つよ-める、し-いる	こわ、ごわ	kyoo, goo	tsuyo(i), tsuyo(maru), tsuyo(meru), shi(iru)	strength, might; strong person	strong, powerful, mighty, robust, vigorous, healthy; brave, courageous; severe, intense; durable, solid; get strong; strengthen, intensify, invigorate; confirm; emphasize, increase, redouble; force, coerce, constrain, compel	3	24
+文	4	1	象形 Pictographic	4	ブン、モン、ふみ	あや、もじ	bun, mon	fumi	1/100 of a hyakume; crest; figures. literary text, production, composition; sentence; style; literature, art; the pen; civil affairs; decoration; characters; elegance	letter, note	15	2
+話	13	2	形声 Phonetic	5	ワ、はな-す、はなし		wa	hana(su), hanashi	talk, speak, converse; tell; explain	talk, speak, converse; tell; explain. chat, conversation; story; rumor; news; consultation, negotiations; facts, reasons	5	14
+要	9	4	象形 Pictographic	3	ヨウ、かなめ、い-る		yoo	kaname, i(ru)	main point, essence; aim; secret; need	require, need; waylay, ambush. pivot; the main point; the key (to)	5	7
+務	11	5	形声 Phonetic	3	ム、つと-める、つと-まる		mu	tsuto(meru), tsuto(maru)	serve, fill a post, serve under; exert oneself, endeavor, work, be diligent; play (the part of)	serve, fill a post, serve under; exert oneself, endeavor, work, be diligent; play (the part of)	8	8
+示	5	5	象形 Pictographic	3	ジ、シ、しめ-す		ji, shi	shime(su)	indication	show, indicate, point out, give (an example), signify, display, express	1	7
+世	5	3	象形 Pictographic	4	セイ、セ、よ		sei, se	yo	generation; world. age, counter for kings of the same name	world, society, public; life, existence, career, life-time; age, era, generation, times; reign	4	12
+経	11	5	形声 Phonetic	3	ケイ、キョウ、へ-る	キン、たていと、たて、つね	kei, kyoo	he(ru)	longitude; sutra; warp	pass, elapse; pass through; experience	3	4
+所	8	3	会意 Com. Ideographic	3	ショ、ところ	ソ、ゾ、ら	sho	tokoro	place	place, spot, scene, site, seat; locality, district; room; distance; address; point, feature; passage (in a book), part; thing; time, moment; extent; matter of course	1	19
+続	13	4	形声 Phonetic	3	ゾク、つづ-く、つづ-ける		zoku	tsuzu(ku), tsuzu(keru)	continuation, second series	continue; be contiguous	2	2
+機	16	4	形声 Phonetic	3	キ、はた		ki	hata	opportunity; occasion, time; machine, airplane	loom	5	1
+公	4	2	象形 Pictographic	2	コウ、おおやけ	ク、グ、きみ	koo	ooyake	public, duke, lord; public	public, open; official, governmental; formal	4	5
+下	3	1	指事 Ideographic	5	カ、ゲ、した、しも、もと、さ-げる、さ-がる、くだ-る、くだ-す、くだ-さる、お-ろす、お-りる		ka, ge	shita, shimo, moto, sa(geru), sa(garu), kuda(ru), kuda(su), kuda(saru), o(rosu), o(riru)	low class; inferiority; second, or last volume	come down, go down; get down, descend; be given; be less than; have diarrhea; retire; leave the capital; give, confer; oblige, favor with; let down, lower; issue (orders); hand down (decisions); have diarrhea; lay (hands) on; step down; get off; swoop down; land; take down, pull down, lift down, drop; launch; let off (passengers); wear (for the first time); cause (abortion); grate; invoke; exercise; borrow (in subtraction); lock; hang down, dangle; fall; abate; wane; stand back; go behind; be granted; hang; wear (a decoration); reduce (rank); move back; let go, dismiss; remove; grant; draw (money), withdraw; lower part, bottom, base, foot; downstairs; subordinate place; below average; part payment; under, lower; sub-, subordinate; preliminary; the foot; lower stream; latter; lower part of the body; the masses, the servants; the governed; vicinity	4	75
+制	8	5	会意 Com. Ideographic	3	セイ		sei	-	system, organization; imperial command; laws, regulation. control, govern, suppress, restrain, hold back; establish	-	11	0
+打	5	3	会意 Com. Ideographic	3	ダ、う-つ	チョウ	da	u(tsu)	striking	strike, hit, beat, knock, slap, punch, thrash, smite; clap (one's hands); beat (a drum); ring (a bell); (clocks) strike; impress, touch; shoot; pound in (a nail); water, sprinkle; braid; play (checkers); till (the soil); temper (a sword); prepare (buckwheat noodles); present (a play); cast (a net); pay (earnest money)	1	26
+持	9	3	形声 Phonetic	4	ジ、も-つ	チ	ji	mo(tsu)	hold, entertain, maintain, observe (principles)	hold, take, have, possess; carry; maintain; have charge of; wear, last long; pay; bear (a grudge)	4	11
+女	3	1	象形 Pictographic	5	ジョ、ニョ、[ニョウ]、おんな、め		jo, nyo, [nyoo]	onna, me	woman, girl, daughter	woman, female, sweetheart, girl	3	4
+数	13	2	会意 Com. Ideographic	3	スウ、[ス]、かず、かぞ-える	ジュ	suu, [su]	kazu, kazo(eru)	strength; fate; law; numbers, figures; numerical	number, figure. count, calculate, enumerate	6	5
+記	10	2	形声 Phonetic	3	キ、しる-す		ki	shiru(su)	account, narrative, history, annals; remembering; writing; the Kojiki	write down; inscribe; mention, give an account of	7	4
+思	9	2	形声 Phonetic	4	シ、おも-う		shi	omo(u)	think, believe, judge, esteem; consider, realize; feel like; regard as; anticipate; imagine, suppose, guess; mistake for; recall; intend; desire; love, care for, yearn after; wonder; suspect	think, believe, judge, esteem; consider, realize; feel like; regard as; anticipate; imagine, suppose, guess; mistake for; recall; intend; desire; love, care for, yearn after; wonder; suspect	21	21
+以	5	4	象形 Pictographic	4	イ	もち、ゆえ、も	i	-	with, by, by means of; because; in view of	-	5	0
+受	8	3	会意 Com. Ideographic	3	ジュ、う-ける、う-かる		ju	u(keru), u(karu)	receive	receive, accept, take, get, obtain; catch (a ball); stop (a blow), parry; answer (the phone); undergo (an operation); take (an exam); sustain (a loss); be exposed to (ridicule); face, front of; inherit; catch the public fancy. pass (an examination)	1	18
+書	10	2	会意 Com. Ideographic	5	ショ、か-く		sho	ka(ku)	handwriting; letter, note; book	write, compose; draw, paint	4	4
+成	6	4	会意 Com. Ideographic	3	セイ、[ジョウ]、な-る、な-す		sei, [joo]	na(ru), na(su)	become, get or grow (old), form (a part of); set in, come (time or seasons); turn into; be reduced to; consist of; be accomplished; result in; prove (fatal); amount to; play the part of; elapse; reach (a certain age); bear, stand; be promoted; be pleased to	become, get or grow (old), form (a part of); set in, come (time or seasons); turn into; be reduced to; consist of; be accomplished; result in; prove (fatal); amount to; play the part of; elapse; reach (a certain age); bear, stand; be promoted; be pleased to. do, perform, accomplish; form, make	19	24
+指	9	3	形声 Phonetic	3	シ、ゆび、さ-す		shi	yubi, sa(su)	finger	point to, indicate; name, designate; insert, put into; fill, pour into, drop into (eyes); hold up (an umbrella); wear (a sword); offer (a cup); play; move (in games); rise, flow; be tinged with; point to; proceed to; fix (a day); measure (with a ruler); measure and make (a box); play (chess or checkers). finger	1	24
+題	18	3	形声 Phonetic	4	ダイ		dai	-	subject, theme, topic; title, caption, heading; question, problem	-	8	0
+来	7	2	象形 Pictographic	5	ライ、く-る、きた-る、きた-す	き、ぎ	rai	ku(ru), kita(ru), kita(su)	come. since (last month); for (ten days). next (year)	come, arrive; be due to; next, forthcoming. cause, bring about, produce. come to hand, approach; call on; come on (rain); set in, be due; become, grow, get; come from; be caused by; derive from	4	20
+在	6	5	会意 Com. Ideographic	3	ザイ、あ-る		zai	a(ru)	outskirts, suburbs, country	there is, have, exist; occur; be located, be contained in; (it) measures; happen; be found; be held; consist of	3	11
+初	7	4	会意 Com. Ideographic	3	ショ、はじ-め、はじ-めて、はつ、うい、そ-める	うぶ	sho	haji(me), haji(mete), hatsu, ui, so(meru)	beginning, first	beginning, origin. including, and, as well as. (for) the first time; not until. first, new. first (time). begin to	2	11
+保	9	5	会意 Com. Ideographic	2	ホ、たも-つ	やす	ho	tamo(tsu)	guarantee	keep, preserve, hold, retain, maintain; support, sustain; last, endure, keep well (food), wear well, be durable	1	12
+判	7	5	形声 Phonetic	3	ハン、バン	わか	han, ban	-	stamp, seal; a monogram signature; judgment	-	4	0
+教	11	2	会意 Com. Ideographic	4	キョウ、おし-える、おそ-わる	し	kyoo	oshi(eru), oso(waru)	faith	teach, give lessons; inform; coach; learn, be taught, take lessons in	1	7
+支	4	5	会意 Com. Ideographic	3	シ、ささ-える	つか	shi	sasa(eru)	branch	support, maintain, sustain, hold; prop, bolster; check, stem	1	8
+元	4	2	象形 Pictographic	4	ゲン、ガン、もと	はじ	gen, gan	moto	yuan; origin; New Year’s Day; first year of an era. Gen Mongol (dynasty)	beginning, origin; foundation, basis, source; cause; root (of a tree); (raw) material, base; capital; principal; cost; forebears; formerly	5	14
+組	11	2	形声 Phonetic	3	ソ、く-む、くみ		so	ku(mu), kumi	take part in; be implicated in; side with; support	braid, plait; construct; assemble; cross (legs); fold (arms); unite with, cooperate with; grapple with. class, party, group; set; pack (of cards); suit; assortment; typesetting	4	17
+区	4	3	会意 Com. Ideographic	3	ク		ku	-	ward, district, section	-	3	0
+球	11	3	形声 Phonetic	3	キュウ、たま		kyuu	tama	globe, sphere, ball; bulb; (radio) tube	ball, bulb, bowl, sphere	5	4
+説	14	4	形声 Phonetic	3	セツ、[ゼイ]、と-く		setsu, [zei]	to(ku)	opinion, view, assertion; comment; theory; rumor, report; version	explain, expound, advocate, preach, teach, persuade	8	6
+安	6	3	会意 Com. Ideographic	4	アン、やす-い		an	yasu(i)	be rested, feel at ease, be relieved, repose	cheap, inexpensive; peaceful, quiet; gossipy, thoughtless	4	6
+界	9	3	形声 Phonetic	4	カイ	さかい	kai	-	circle, world, boundary, limits	-	4	0
+物	8	3	形声 Phonetic	4	ブツ、モツ、もの		butsu, motsu	mono	thing, object, matter; somebody, something, success; reason	thing, object, matter; somebody, something, success; reason	7	7
+感	13	3	形声 Phonetic	3	カン		kan	-	feeling, sensation, sentiment; sense; emotion; impression; intuition	-	7	0
+党	10	6	形声 Phonetic	2	トウ		too	-	party, faction, clique; companions	-	4	0
+都	11	3	形声 Phonetic	3	ト、ツ、みやこ	す、ず	to, tsu	miyako	capital, metropolis	capital, metropolis	2	2
+真	10	3	会意 Com. Ideographic	4	シン、ま		shin	ma	truth; reality; genuineness; Buddhist sect originating in the thirteenth century	just, right, due (east); pure, genuine, true	4	6
+査	9	5	形声 Phonetic	2	サ		sa	-	investigate	-	1	0
+位	7	4	会意 Com. Ideographic	3	イ、くらい		i	kurai	rank, place, grade	grade, rank; court order, dignity, nobility; situation; throne, crown	3	8
+写	5	3	会意 Com. Ideographic	4	シャ、うつ-す、うつ-る		sha	utsu(su), utsu(ru)	be photographed; be projected (on a screen); (light or shadows) fall on	be photographed; be projected (on a screen); (light or shadows) fall on. copy, transcribe, duplicate, reproduce, trace; describe, picture, photograph	3	11
+官	8	4	会意 Com. Ideographic	3	カン		kan	-	the Government, the authorities; the Court	-	3	0
+投	7	3	会意 Com. Ideographic	3	トウ、な-げる		too	na(geru)	throw	throw, hurl; give up; sell at a loss	1	4
+多	6	2	会意 Com. Ideographic	4	タ、おお-い		ta	oo(i)	much	many; copious, abundant; much; frequent	1	5
+心	4	2	象形 Pictographic	4	シン、こころ		shin	kokoro	heart, mind, spirit; motive, sense (of duty); padding; wick; core; marrow; vitality	mind, spirit; mentality; idea, thought; heart, feeling; wholeheartedness, sincerity, sympathy; attention; interest, care; will; intention; taste, mood; true meaning (of a poem)	10	18
+設	11	5	会意 Com. Ideographic	2	セツ、もう-ける		setsu	moo(keru)	prepare, provide; establish, found, set up, organize; enact, lay down (rules); get (a child)	prepare, provide; establish, found, set up, organize; enact, lay down (rules); get (a child)	9	9
+府	8	4	形声 Phonetic	2	フ		fu	-	urban prefecture; government office; representative body; storehouse	-	4	0
+野	11	2	形声 Phonetic	4	ヤ、の		ya	no	field, plain; the Opposition; civilian life; rustic	field, plain	5	2
+道	12	2	会意 Com. Ideographic	4	ドウ、[トウ]、みち	い	doo, [too]	michi	district, province, prefecture; road	road, path, lane, way, street, highway, route; journey; distance; course, way, means; duty, morality, moral doctrine; teachings; specialty; an art; reason, justice	4	20
+加	5	4	会意 Com. Ideographic	3	カ、くわ-える、くわ-わる	ケ	ka	kuwa(eru), kuwa(waru)	addition, increase	join in; accede to; gain in (influence); increase; add, sum up; append; include; inflict	2	9
+予	4	3	象形 Pictographic	3	ヨ	あらかじ	yo	-	I, myself, the writer	-	3	0
+向	6	3	会意 Com. Ideographic	3	コウ、む-く、む-ける、む-かう、む-こう	キョウ、さき	koo	mu(ku), mu(keru), mu(kau), mu(koo)	face, confront; oppose, defy; proceed to; get, tend toward; approach	face, confront; oppose, defy; proceed to; get, tend toward; approach. turn; point (a gun); send (a messenger of letter). (a needle) points to; lean towards; front on; suit. the other side; opposite direction; the other party; destination; the next (few years); opposition to	8	21
+件	6	5	会意 Com. Ideographic	3	ケン		ken	-	matter, case, item	-	3	0
+総	14	5	形声 Phonetic	2	ソウ	ス、ふさ、すべ	soo	-	whole, all, general, gross, total, full	-	6	0
+活	9	2	形声 Phonetic	3	カツ	い	katsu	-	living; being helped; resuscitation	-	3	0
+進	11	3	形声 Phonetic	3	シン、すす-む、すす-める		shin	susu(mu), susu(meru)	advancing	advance, proceed, progress; be promoted; be in an advanced stage; (watches) gain; feel like (doing). move forward; set (watches) ahead; promote, elevate; stimulate; speed up; present	1	14
+名	6	1	会意 Com. Ideographic	5	メイ、ミョウ、な		mei, myoo	na	distinguished, noted, wise, name	name; fame, reputation; pretext	4	4
+認	14	6	形声 Phonetic	3	ニン、みと-める	したた	nin	mito(meru)	witness; sight; discern, authorize, recognize; appreciate; approve of; judge, conclude; believe; regard as	witness; sight; discern, authorize, recognize; appreciate; approve of; judge, conclude; believe; regard as	11	11
+協	8	4	形声 Phonetic	2	キョウ		kyoo	-	cooperation	-	1	0
+情	11	5	形声 Phonetic	3	ジョウ、[セイ]、なさ-け		joo, [sei]	nasa(ke)	feeling, emotion; passion; affection; heart; human nature; sympathy; sincerity; circumstances, facts; obstinacy	sympathy, compassion	11	2
+死	6	3	会意 Com. Ideographic	4	シ、し-ぬ		shi	shi(nu)	death	die	1	1
+男	7	1	会意 Com. Ideographic	5	ダン、ナン、おとこ		dan, nan	otoko	man, male; baron. counter for sons	man, male; fellow; adult; manhood; male servant; paramour	4	7
+改	7	4	形声 Phonetic	2	カイ、あらた-める、あらた-まる		kai	arata(meru), arata(maru)	change, modify, convert; renew, renovate; reform, mend, rectify; amend, revise, improve; examine, inspect, search	change, modify, convert; renew, renovate; reform, mend, rectify; amend, revise, improve; examine, inspect, search; be renewed, be renovated; be modified, be revised; be improved, be reformed; be ceremonious	14	21
+正	5	1	会意 Com. Ideographic	4	セイ、ショウ、ただ-しい、ただ-す、まさ		sei, shoo	tada(shii), tada(su), masa	right, righteousness, justice; original; plus, positive; genuine. just; punctual; senior. Regular	correct; adjust; reform; redress, straighten; amend. right, righteous, just; honest, truthful, proper, lawful; healthy; moral; straight; straightforward; perfect	11	18
+告	7	4	象形 Pictographic	3	コク、つ-げる		koku	tsu(geru)	tell, inform, announce, proclaim; bid, order	tell, inform, announce, proclaim; bid, order	6	6
+解	13	5	会意 Com. Ideographic	3	カイ、ゲ、と-く、と-かす、と-ける	ケ	kai, ge	to(ku), to(kasu), to(keru)	explanation, notes; key; excuse; understanding	untie, undo, loosen, unpack; unravel, disentangle, unsew; dismantle; solve, answer; dispel; cancel; absolve; release; dismiss (a person); explain; comb out; get loose, come untied; relent; be solved, be dispelled; be relieved (of a job)	5	23
+集	12	3	会意 Com. Ideographic	4	シュウ、あつ-まる、あつ-める、つど-う		shuu	atsu(maru), atsu(meru), tsudo(u)	collection, gathering	meet, assemble, congregate; swarm, flock or gather together; be collected, be gathered together; converge. gather, collect; focus (something on)	2	11
+面	9	3	象形 Pictographic	3	メン、おも、おもて、つら		men	omo, omote, tsura	face features; mask, face guard; surface; plane; side, facet; aspect, phase, corner (of a board); page	face, honor, reputation. surface	11	4
+治	8	4	形声 Phonetic	3	ジ、チ、おさ-める、おさ-まる、なお-る、なお-す		chi, ji	osa(meru), osa(maru), nao(ru), nao(su)	peace; government. cure, heal; rule; conserve (resources). govern, manage, regulate; quell, subdue; patch up; heal	govern, manage, regulate; quell, subdue; patch up; heal. be at peace; calm down; be settled, be ruled. be mended; get well; be restored; return to normal; be installed (as a legal wife); change (from third to second class). mend, repair, put in order, reform, correct; revise, amend; re-do, alter; cure; restore; adjust, regulate; convert (money)	13	31
+小	3	1	象形 Pictographic	5	ショウ、ちい-さい、こ、お		shoo	chii(sai), ko, o	smallness; minor; small. humility prefix, small	small, little, diminutive, minute, fine, trivial. short; pretty; petty; nearly. nice	5	11
+容	10	5	会意 Com. Ideographic	3	ヨウ	い	yoo	-	form; looks	-	2	0
+校	10	1	形声 Phonetic	5	コウ	ギョウ	koo	-	school; (printing) proof; comparison; correction; investigation	-	5	0
+込	5	7	国字 Original	3	こ-む、こ-める		-	ko(mu), ko(meru)	-	be crowded; requiring (a lot of work). include; load (a gun); concentrate on; devote oneself to	0	6
+無	12	4	仮借 Loan	2	ム、ブ、な-い		mu, bu	na(i)	nothing, nil, negation	if there were none; were it not for; unless	3	3
+反	4	3	会意 Com. Ideographic	3	ハン、[ホン]、[タン]、そ-る、そ-らす		han, [hon], [tan]	so(ru), so(rasu)	antithesis, opposite, antagonism; anti-. roll of cloth (c. 10yds.); .245 acres, 300 tsubo	warp; curve; lean backward. bend, warp	7	5
+計	9	2	会意 Com. Ideographic	4	ケイ、はか-る、はか-らう	ケ、ゲ	kei	haka(ru), haka(rau)	plan, scheme, trick; total; meter, gauge	measure, gauge, weigh; fathom, sound; compute, estimate; manage, arrange, dispose of, see about, talk over	6	12
+重	9	3	会意 Com. Ideographic	4	ジュウ、チョウ、え、おも-い、かさ-ねる、かさ-なる		juu, choo	e, omo(i), kasa(neru), kasa(naru)	nest of boxes	pile up, heap up, add, repeat. be piled; lie on one another. heavy; massive; serious; important; severe; oppressed. double. -fold, ply	1	15
+歳	13	7	象形 Pictographic	3	サイ、[セイ]	とし	sai, [sei]	-	year, age; time; occasion; opportunity; limit; vicinity	-	7	0
+付	5	4	会意 Com. Ideographic	3	フ、つ-ける、つ-く		fu	tsu(keru), tsu(ku)	give to, submit to, refer to; affix, attach, append	attach, join, stick, glue, fasten; sew on; furnish (a house with); wear, put on; make an entry; appraise, set (a price); apply (ointment); bring alongside; place (under guard or a doctor); follow, shadow; add, append, affix; load; give (courage to); keep (an eye on); establish (relations or understanding). be connected with; be dyed; be stained; be scarred; be recorded; be attached to; (fires) start; follow; become allied to; accompany; study with; increase, be added to	6	37
+得	11	4	会意 Com. Ideographic	3	トク、え-る、う-る		toku	e(ru), u(ru)	profit, advantage, benefit	get, acquire, acquire, find, earn, win, gain, receive; can, be able to, may; commit (sin)	3	12
+資	13	5	形声 Phonetic	3	シ	もと	shi	-	resources, capital, funds; materials; data; quality, disposition; help	-	8	0
+知	8	2	会意 Com. Ideographic	4	チ、し-る		chi	shi(ru)	know, acquaintance, sense	know; understand; appreciate recognize; realize; notice, sense, feel; remember; infer, gather; be concerned with	3	11
+引	4	2	会意 Com. Ideographic	3	イン、ひ-く、ひ-ける		in	hi(ku), hi(keru)	draw, pull, haul, tug, jerk, drag, trail, bend, attract; lead (horses or captives); draw (lines); admit; install (utilities); quote, refer to; look up (words); subtract, reduce; apply, daub on; blunt (a sword); patronize; choose; draw (a line); catch (a cold); retreat, withdraw, retire; subside	draw, pull, haul, tug, jerk, drag, trail, bend, attract; lead (horses or captives); draw (lines); admit; install (utilities); quote, refer to; look up (words); subtract, reduce; apply, daub on; blunt (a sword); patronize; choose; draw (a line); catch (a cold); retreat, withdraw, retire; subside; close, be over; can discount; slink away	29	33
+団	6	5	形声 Phonetic	2	ダン、[トン]		dan, [ton]	-	body, group, corps, gang, party, company, troupe; circle	-	8	0
+疑	14	6	象形 Pictographic	3	ギ、うたが-う		gi	utaga(u)	doubt; distrust; be suspicious of	doubt; distrust; be suspicious of	3	3
+画	8	2	会意 Com. Ideographic	4	ガ、カク	エ、えが	ga, kaku	-	picture, drawing, painting, sketch; stroke (in a character)	-	5	0
+任	6	5	形声 Phonetic	3	ニン、まか-せる、まか-す		nin	maka(seru), maka(su)	duty, responsibility; office; mission; term	entrust to, leave to	5	2
+次	6	3	象形 Pictographic	3	ジ、シ、つ-ぐ、つぎ	と	ji, shi	tsu(gu), tsugi	order, sequence; times; next; below	rank next to, come later. next; stage station, stage	5	5
+品	9	3	会意 Com. Ideographic	4	ヒン、しな	ホン、ポン、ボン	hin	shina	refinement, dignity; article	article, goods, thing; quality; brand; kind, type; ways, conditions; character	3	10
+売	7	2	会意 Com. Ideographic	4	バイ、う-る、う-れる	マイ、メ	bai	u(ru), u(reru)	selling	sell, deal in, betray, deceive, impose on, tell on, pick (a quarrel). be in demand, enjoy a large sale; be well known	1	10
+再	6	5	象形 Pictographic	2	サイ、[サ]、ふたた-び		sai, [sa]	futata(bi)	again, twice	again, twice	2	2
+産	11	4	会意 Com. Ideographic	3	サン、う-む、う-まれる、うぶ		san	u(mu), u(mareru), ubu	childbirth; product; native (of a place); fortune, property	bear, give birth to, breed, spawn; produce, yield (interest). be born	5	7
+使	8	3	形声 Phonetic	4	シ、つか-う		shi	tsuka(u)	use; messenger	use; handle, manipulate; employ; need, want; spend, consume; speak (English); practice (fencing); take (one's lunch); circulate (bad money)	2	12
+考	6	2	形声 Phonetic	4	コウ、かんが-える		koo	kanga(eru)	thought, consideration; research, treatise	think, consider, believe, suspect; be of the opinion; intend; expect, hope, fear; judge, conclude; imagine, suppose; regard as; be discreet; ponder over; reconsider; be prepared for; invent	4	19
+利	7	4	会意 Com. Ideographic	3	リ、き-く	と	ri	ki(ku)	advantage, benefit, gain; interest; victory	take effect, do (a person) good; work, operate; tell (on one's strength); be available (bus or phone)	5	6
+能	10	5	象形 Pictographic	3	ノウ	ノ、あた、よ、た	noo	-	ability, talent, skill, capacity; noh play, classical drama	-	6	0
+切	4	2	会意 Com. Ideographic	4	セツ、[サイ]、き-る、き-れる		setsu, [sai]	ki(ru), ki(reru)	cut, chop, hash; carve; saw; clip, shear; slice, strip; fell, cut down; punch; sever (connections); pause, break off; disconnect, turn off; hang up; cross (a street); discount, sell below cost; shake (water) off	cut, chop, hash; carve; saw; clip, shear; slice, strip; fell, cut down; punch; sever (connections); pause, break off; disconnect, turn off; hang up; cross (a street); discount, sell below cost; shake (water) off. cut well, be sharp; break, snap; wear out; be injured; burst, collapse; break off, be disconnected; be out of; expire; sever (connections) with; sharp, shrewd; less than	22	38
+際	14	5	会意 Com. Ideographic	3	サイ、きわ		sai	kiwa	time, occasion; when	side, edge, verge	3	3
+害	10	4	会意 Com. Ideographic	3	ガイ		gai	-	injury, harm, damage, mischief, interference	-	5	0
+電	13	2	会意 Com. Ideographic	5	デン		den	-	electricity	-	1	0
+特	10	4	形声 Phonetic	4	トク		toku	-	special	-	1	0
+半	5	2	象形 Pictographic	5	ハン、なか-ば		han	naka(ba)	half; odd number; semi-, hemi-, demi-	half, semi-, middle, halfway; partly	5	5
+局	7	3	会意 Com. Ideographic	3	キョク	つぼね	kyoku	-	bureau, board, office; central; post office; affair; duty; situation; conclusion	-	9	0
+求	7	4	象形 Pictographic	3	キュウ、もと-める	グ	kyuu	moto(meru)	want, wish for, request, demand; seek, search for; pursue (pleasure); hunt (a job); buy	want, wish for, request, demand; seek, search for; pursue (pleasure); hunt (a job); buy	9	9
+車	7	1	象形 Pictographic	5	シャ、くるま		sha	kuruma	vehicle, a vehicle load	wheel; vehicle, carriage, wagon; cart, wheelbarrow; go-cart; jinricksha; van, automobile	2	10
+委	8	3	会意 Com. Ideographic	2	イ、ゆだ-ねる	まか	i	yuda(neru)	entrust to, discard	entrust to, devote (oneself) to	2	2
+論	15	6	形声 Phonetic	3	ロン		ron	-	argument; discourse	-	2	0
+終	11	3	形声 Phonetic	4	シュウ、お-わる、お-える	つい	shuu	o(waru), o(eru)	end	end, terminate, adjourn, be over; die. finish, complete	1	7
+増	14	5	形声 Phonetic	3	ゾウ、ま-す、ふ-える、ふ-やす		zoo	ma(su), fu(eru), fu(yasu)	increase	increase, add to, augment, gain; promote (health); enlarge, extend	1	7
+語	14	2	形声 Phonetic	5	ゴ、かた-る、かた-らう		go	kata(ru), kata(rau)	word, speech, language, term	talk, tell, narrate, recite. chat; pledge one's troth; invite, entice; win; conspire with	4	10
+領	14	5	形声 Phonetic	2	リョウ		ryoo	-	dominion, territory possession, fief; suit (of armor)	-	4	0
+止	4	2	象形 Pictographic	4	シ、と-まる、と-める	や	shi	to(maru), to(meru)	stop, halt, stand still, pull up; cease, be interrupted, be discontinued; be choked; alight on, perch, roost; be held in position	stop, halt, stand still, pull up; cease, be interrupted, be discontinued; be choked; alight on, perch, roost; be held in position. check; allay (pain); fasten; turn off; detain; forbid to do; dissuade	12	19
+近	7	2	形声 Phonetic	4	キン、ちか-い	ゴン、コン	kin	chika(i)	early, immediate; near, short (road), close by; akin to; nearby, bordering on, verge of, tantamount to; intimate, friendly	early, immediate; near, short (road), close by; akin to; nearby, bordering on, verge of, tantamount to; intimate, friendly	12	12
+済	11	6	形声 Phonetic	3	サイ、す-む、す-ます	セイ、わた	sai	su(mu), su(masu)	end; do without; avoid; be excusable; need not	end; do without; avoid; be excusable; need not. finish up; settle (one's account); make do	5	8
+料	10	4	会意 Com. Ideographic	4	リョウ		ryoo	-	charge, rate, fee; allowance; materials; measuring	-	6	0
+著	11	6	形声 Phonetic	2	チョ、あらわ-す、いちじる-しい		cho	arawa(su), ichijiru(shii)	literary work	write, publish. remarkable, phenomenal	1	4
+直	8	2	会意 Com. Ideographic	3	チョク、ジキ、ただ-ちに、なお-す、なお-る	た、だ	choku, jiki	tada(chini), nao(su), nao(ru)	honesty, frankness; simplicity; correctness; being straight; night duty	be mended; get well; be restored; return to normal; be installed (as a legal wife); change (from third to second class). mend, repair, put in order, reform, correct; revise, amend; re-do, alter; cure; restore; adjust, regulate; convert (money). immediately, directly, in person	6	23
+共	6	4	会意 Com. Ideographic	3	キョウ、とも		kyoo	tomo	both; neither (with neg.); all; and, as well as; including; with, together with; plural ending	both; neither (with neg.); all; and, as well as; including; with, together with; plural ending	9	9
+変	9	4	会意 Com. Ideographic	3	ヘン、か-わる、か-える		hen	ka(waru), ka(eru)	change; accident, calamity; uprising; something strange	change, vary; be revised; be different; be queer; move; be transferred. vary convert; revise, amend	5	10
+果	8	4	象形 Pictographic	3	カ、は-たす、は-てる、は-て	くだもの	ka	ha(tasu), ha(teru), ha(te)	fruit, reward	carry out, achieve, complete; realize, perform, fulfill; end, be finished, be exhausted; die, perish; limit, bounds, extremity, result; fate	2	16
+案	10	4	形声 Phonetic	2	アン		an	-	proposition, suggestion, plan, idea; opinion; expectation; bill, draft, measure; table	-	10	0
+敗	11	4	会意 Com. Ideographic	3	ハイ、やぶ-れる		hai	yabu(reru)	defeat, reversal	be defeated	2	1
+原	10	2	象形 Pictographic	3	ゲン、はら		gen	hara	original, primitive	field, plain, prairie, tundra, moor, wilderness	2	6
+確	15	5	形声 Phonetic	3	カク、たし-か、たし-かめる		kaku	tashi(ka), tashi(kameru)	firm, tight, hard, solid	ascertain, confirm, verify; sure, positive; accurate; reliable; sound, firm; clear, evident; genuine; able, competent; sober, sane; I think; if I remember right; certainly, doubtless; for certain	4	21
+基	11	5	形声 Phonetic	2	キ、もと、もとい		ki	moto, motoi	radical (in chemistry); counter for lanterns, wreaths, motors, silos, and heavy machines; foundation; fundamentals; basis	basis, foundation, origin	9	3
+職	18	5	形声 Phonetic	3	ショク		shoku	-	employment, work, job, office	-	4	0
+少	4	2	象形 Pictographic	4	ショウ、すく-ない、すこ-し		shoo	suku(nai), suko(shi)	few; small; young	a small quantity, a little; a few; something; a little while; a short distance. few, a little, scarce, insufficient, seldom	3	11
+優	17	6	形声 Phonetic	3	ユウ、やさ-しい、すぐ-れる	ウ	yuu	yasa(shii), sugu(reru)	actor; superiority; gentleness	excel, surpass; have advantages over; be excellent. gentle, tender, graceful, affectionate, kind, amiable, suave	3	11
+午	4	2	象形 Pictographic	5	ゴ	うま	go	-	11 a.m.-1 p.m.; 7th zodiac sign	-	2	0
+始	8	3	形声 Phonetic	4	シ、はじ-める、はじ-まる		shi	haji(meru), haji(maru)	beginning	begin, start, open; date from; (season) sets in; arise, break out; originate in. begin, open, start, originate, inaugurate, initiate	1	14
+減	12	5	形声 Phonetic	2	ゲン、へ-る、へ-らす		gen	he(ru), he(rasu)	decrease, decline	decrease, dwindle, subside; wear and tear; get hungry. reduce, decrease, shorten, curtail; be hungry	2	10
+営	12	5	形声 Phonetic	2	エイ、いとな-む		ei	itona(mu)	camp, performing	perform (ceremoies); build; conduct (business); follow (a profession), operate (a store)	2	5
+昨	9	4	形声 Phonetic	3	サク	きのう	saku	-	the past; yesterday, last (year)	-	3	0
+信	9	4	会意 Com. Ideographic	3	シン	の	shin	-	truth; faith, fidelity, sincerity; trust, confidence, reliance	-	7	0
+億	15	4	形声 Phonetic	2	オク		oku	-	100,000,000	-	1	0
+私	7	6	会意 Com. Ideographic	4	シ、わたくし、わたし		shi	watakushi, watashi	I; private affairs	I, myself, private (affairs)	2	3
+係	9	3	会意 Com. Ideographic	3	ケイ、かか-る、かかり		kei	kaka(ru), kakari	duty; person in charge	duty; person in charge; is the work of	2	3
+過	12	5	形声 Phonetic	3	カ、す-ぎる、す-ごす、あやま-つ、あやま-ち	よぎ	ka	su(giru), su(gosu), ayama(tsu), ayama(chi)	excess; error	pass, go past; elapse; exceed; spend; tide over; go through; live, (eat) too much; err; fault, error, indiscretion	2	13
+住	7	3	形声 Phonetic	4	ジュウ、す-む、す-まう		juu	su(mu), su(mau)	dwelling, living	live, reside, inhabit	2	3
+試	13	4	形声 Phonetic	4	シ、こころ-みる、ため-す		shi	kokoro(miru), tame(su)	testing	try, attempt. experiment, test, sample	1	5
+応	7	5	形声 Phonetic	2	オウ、こた-える		oo	kota(eru)	yes, all right	respond, answer; be affected by (pain or stimulation); be effective	2	4
+別	7	4	会意 Com. Ideographic	4	ベツ、わか-れる		betsu	waka(reru)	divide, split, separate; isolate; distribute, share; distinguish; spare	branch off, diverge from, fork; split; be divided; part with; be divorced; bid farewell; break up, disperse, scatter	8	11
+可	5	5	会意 Com. Ideographic	3	カ		ka	-	good, passable; approval; safe to say, ability to do	-	5	0
+番	12	2	象形 Pictographic	3	バン	つが	ban	-	watch, guard; duty; number; order; size, game, round, turn, bout	-	10	0
+軍	9	4	象形 Pictographic	2	グン	いくさ	gun	-	army, force, troops	-	3	0
+価	8	5	形声 Phonetic	2	カ、あたい		ka	atai	price, cost, value, worth	price, cost, value, worth	4	4
+食	9	2	象形 Pictographic	5	ショク、[ジキ]、く-う、く-らう、た-べる	は	shoku, [jiki]	ku(u), ku(rau), ta(beru)	food, provisions; eating, meal; appetite	eat; subsist on; support oneself; consume; get (a scolding); encroach; bite at, gnaw at; (shoes) pinch; be cheated. drink; receive (a blow)	5	12
+転	11	3	形声 Phonetic	4	テン、ころ-がる、ころ-げる、ころ-がす、ころ-ぶ	うた	ten	koro(garu), koro(geru), koro(gasu), koro(bu)	turn, remove, change	roll over, tumble; lie down (on the lawn); be convulsed (with laughter). knock down. fall down	3	6
+役	7	3	会意 Com. Ideographic	3	ヤク、エキ		eki, yaku	-	war, campaign, battle, expedition; exacted unpaid labor. office, post, position, appointment, duty; role; use, service, help	-	14	0
+身	7	3	象形 Pictographic	3	シン、み		shin	mi	body; person; the quick; one's station in life; self; heart, soul, mind; ability; flesh, meat; life; blade; container; garment width	body; person; the quick; one's station in life; self; heart, soul, mind; ability; flesh, meat; life; blade; container; garment width	15	15
+運	12	3	形声 Phonetic	4	ウン、はこ-ぶ		un	hako(bu)	destiny, fate, lot, fortune, luck	transport, carry; progress, advance	5	4
+有	6	3	会意 Com. Ideographic	4	ユウ、ウ、あ-る	ま	yuu, u	a(ru)	possession. being, existence	there is, have, exist; occur; be located, be contained in; (it) measures; happen; be found; be held; consist of	3	11
+流	10	3	会意 Com. Ideographic	3	リュウ、[ル]、なが-れる、なが-す		ryuu, [ru]	naga(reru), naga(su)	current; counter for flags	flow, trickle, ooze, drain, run down; be washed away; float, drift; wander; be forfeited, be foreclosed; lapse; incline to; be swayed by; (years) pass. dash, pour, sluice, let run out, flush; set adrift; spill; shed (tears); wash away, wash off; forfeit, foreclose; exile; cruise (taxis)	2	29
+置	13	4	形声 Phonetic	3	チ、お-く		chi	o(ku)	place, put, set, deposit, lay; leave behind; keep, have, leave; establish; employ; appoint; post, station; pawn; skip (one day). be formed (dew)	place, put, set, deposit, lay; leave behind; keep, have, leave; establish; employ; appoint; post, station; pawn; skip (one day). be formed (dew)	17	17
+必	5	4	象形 Pictographic	3	ヒツ、かなら-ず		hitsu	kanara(zu)	certainly	certainly, positively, invariably	1	3
+水	4	1	象形 Pictographic	5	スイ、みず		sui	mizu	water; ice water; Wednesday	water	3	1
+被	10	7	形声 Phonetic	2	ヒ、こうむ-る	かず、かぶ	hi	koomu(ru)	receiving	get, receive, sustain (an injury), be subjected to (criticism)	1	4
+式	6	3	会意 Com. Ideographic	3	シキ	ショク、のり	shiki	-	ceremony, rite, function; method, system; style, form, type, plan; formula, expression (in math); model; law; standard	-	14	0
+格	10	5	形声 Phonetic	3	カク、[コウ]		kaku, [koo]	-	status, rank; capacity, character; standard; a rule; a case (in law); case (in grammer)	-	8	0
+賞	15	4	形声 Phonetic	2	ショウ		shoo	-	prize, reward, praise	-	3	0
+演	14	5	形声 Phonetic	3	エン		en	-	perform, play, act, enact, render, stage, put on	-	7	0
+側	11	4	形声 Phonetic	3	ソク、がわ	そば	soku	gawa	lean to one side, oppose, look aside, regret	a side; surroundings; (watch) case	4	3
+二	2	1	指事 Ideographic	5	ニ、ふた、ふた-つ	ジ	ni	futa, futa(tsu)	two, second	two	2	1
+負	9	3	会意 Com. Ideographic	3	フ、ま-ける、ま-かす、お-う		fu	ma(keru), ma(kasu), o(u)	negative, minus; minus sign	be defeated; get the worst of it; be overcome with; yield to; be inferior to; lower the price; be poisoned with lacquer. overcome, outrival, defeat. bear, carry on the back; owe; assume, bear (a responsibility); be accused of; sustain (an injury)	3	17
+勢	13	5	会意 Com. Ideographic	2	セイ、いきお-い	セ、ゼ	sei	ikio(i)	energy; military strength	force, vigor, energy, spirit, life; authority, influence, power, might; impetus; course (of events), tendency; necessarily	2	13
+両	6	3	象形 Pictographic	3	リョウ		ryoo	-	old Japanese coin; both; two; vehicle counter	-	4	0
+三	3	1	指事 Ideographic	5	サン、み、み-つ、みっ-つ		san	mi, mi(tsu), mit(tsu)	three	three	1	1
+状	7	5	形声 Phonetic	3	ジョウ		joo	-	condition, circumstances; form, appearances; letter	-	5	0
+送	9	3	形声 Phonetic	4	ソウ、おく-る		soo	oku(ru)	sending	send, ship; transmit; remit; see off; see home, escort; spend (one's) time, live (a life); add	1	10
+五	4	1	仮借 Loan	5	ゴ、いつ、いつ-つ		go	itsu, itsu(tsu)	five	five; five years old	1	2
+断	11	5	会意 Com. Ideographic	3	ダン、た-つ、ことわ-る		dan	ta(tsu), kotowa(ru)	decision, judgment; cutting	sever, cut off; shut off, interrupt; abstain from; eradicate; suppress. decline, refuse; apologize; give notice; warn; dismiss; prohibit	3	14
+費	12	4	形声 Phonetic	3	ヒ、つい-やす、つい-える		hi	tsui(yasu), tsui(eru)	expenses, cost	spend, consume, waste. become less; be wasted	2	5
+参	8	4	会意 Com. Ideographic	3	サン、まい-る		san	mai(ru)	three; going; coming; visiting	go; come; call, visit; visit a shrine; be defeated; be nonplussed; be madly in love; die	4	9
+放	8	3	会意 Com. Ideographic	3	ホウ、はな-す、はな-つ、はな-れる、ほう-る	いた	hoo	hana(su), hana(tsu), hana(reru), hoo(ru)	set free, release, fire, shoot; circulate (rumors); emit, give out; set fire to; banish	set free, release, fire, shoot; circulate (rumors); emit, give out; set fire to; banish. let go, disengage; liberate. free oneself from. throw, hurl, toss; give up; neglect; let alone	9	19
+広	5	2	形声 Phonetic	4	コウ、ひろ-い、ひろ-まる、ひろ-める、ひろ-がる、ひろ-げる		koo	hiro(i), hiro(maru), hiro(meru), hiro(garu), hiro(geru)	spread out, extend, reach to	spread out, extend, reach to. expand, enlarge, widen; unfurl; open (arms of a package), stretch, spread. be diffused, prevail, be propagated, prevade, be circulated, become popular. enlargel; disseminate; popularize; advertise, introduce, announcement, advertisement. wide, broad, extensive, spacious	3	27
+収	4	6	会意 Com. Ideographic	3	シュウ、おさ-める、おさ-まる		shuu	osa(meru), osa(maru)	income	obtain, reap; dedicate, consecrate; pay; supply; store; finish; collect; restore, replace; accept (a present); bury, gather; rally (troops); sheathe (the sword). be paid; be restored; stay (in the stomach); look composed; be contented; be satisfied; be settled	1	23
+育	8	3	会意 Com. Ideographic	3	イク、そだ-つ、そだ-てる、はぐく-む		iku	soda(tsu), soda(teru), haguku(mu)	be raised, be brought up, grow, grow up	be raised, be brought up, grow, grow up; raise, rear, bring up	4	7
+町	7	1	形声 Phonetic	4	チョウ、まち		choo	machi	town; block; street; 2.45 acres; 119 yards	town; quarters; street	5	3
+補	12	6	形声 Phonetic	2	ホ、おぎな-う	フ	ho	ogina(u)	assistant, learner	supply, make good, make up (losses), stop (a gap), offset, piece out; compensate for; supplement	2	8
+与	3	7	会意 Com. Ideographic	3	ヨ、あた-える	あずか、くみ	yo	ata(eru)	give, award, impart, provide, allot, cause (pain or damage)	give, award, impart, provide, allot, cause (pain or damage)	6	6
+起	10	3	形声 Phonetic	4	キ、お-きる、お-こる、お-こす	た	ki	o(kiru), o(koru), o(kosu)	get up, rise, awake; occur; (a fire) is kindled	get up, rise, awake; occur; (a fire) is kindled; raise up, set up, pick up (someone); open, begin; promote, organize; generate; get sick; awaken; establish; plow; kindle (a fire); happen; break out; originate in; rise, flourish, spring up; be produced; have an attack of	5	26
+平	5	3	会意 Com. Ideographic	3	ヘイ、ビョウ、たい-ら、ひら	ヒョウ、ピョウ	hei, byoo	tai(ra), hira	level, peaceful	flat, smooth; calm; a plain; sitting tailor fashion. earnestly, humbly. common, ordinary	2	9
+楽	13	2	象形 Pictographic	4	ガク、ラク、たの-しい、たの-しむ		gaku, raku	tano(shii), tano(shimu)	music; comfort, ease, relief; pleasure; concluding program	enjoy; amuse oneself; anticipate; merry, pleasant, cheerful, joyful	6	7
+院	10	3	形声 Phonetic	4	イン	エン	in	-	mansion; temple; palace; hospital; school; institution; congress; ex-emperor	-	8	0
+違	13	7	形声 Phonetic	3	イ、ちが-う、ちが-える	たが	i	chiga(u), chiga(eru)	differ, vary; disagree with; be mistaken; cross or pass (someone); No (negation)	differ, vary; disagree with; be mistaken; cross or pass (someone); No (negation); change, alter, disguise; make a mistake; break (a promise); sprain, dislocate; cross (two sticks)	6	14
+割	12	6	形声 Phonetic	3	カツ、わ-る、わり、わ-れる、さ-く	き	katsu	wa(ru), wari, wa(reru), sa(ku)	divide, cut, halve; separate; split, rip; break, crack, smash; dilute	divide, break, rate, percentage	10	19
+着	12	3	形声 Phonetic	4	チャク、[ジャク]、き-る、き-せる、つ-く、つ-ける		chaku, [jaku]	ki(ru), ki(seru), tsu(ku), tsu(keru)	arrival, finish (in a race); race counter	put on, wear. clothe, dress; cover, plate, coat, gild; veneer; blame for, impute a crime to. arrive at, reach, attain to	3	14
+供	8	6	形声 Phonetic	3	キョウ、[ク]、そな-える、とも		kyoo, [ku]	sona(eru), tomo	offer, present, submit; serve (a meal); supply	offer, sacrifice, dedicte; attendant, companion, retinue	5	6
+研	9	3	形声 Phonetic	4	ケン、と-ぐ	みが	ken	to(gu)	sharpen, grind, scour, hone, polish; wash (rice)	sharpen, grind, scour, hone, polish; wash (rice)	6	6
+海	9	2	形声 Phonetic	4	カイ、うみ		kai	umi	sea, ocean	sea, ocean	2	2
+警	19	6	形声 Phonetic	3	ケイ	キョウ	kei	-	admonish, warn, prohibit	-	3	0
+工	3	2	象形 Pictographic	4	コウ、ク	たくみ	koo, ku	-	artisan, mechanic; manufacture; work	-	4	0
+防	7	5	形声 Phonetic	2	ボウ、ふせ-ぐ	ホウ	boo	fuse(gu)	defend, protect; resist; keep away, shut out, ward off; prevent	defend, protect; resist; keep away, shut out, ward off; prevent	7	7
+算	14	2	会意 Com. Ideographic	2	サン		san	-	divining (block); calculation; number; abacus; plan; probability	-	6	0
+税	12	5	形声 Phonetic	2	ゼイ		zei	-	tax, duty	-	2	0
+争	6	4	会意 Com. Ideographic	3	ソウ、あらそ-う		soo	araso(u)	dispute, argue; be at variance; compete	dispute, argue, be at variance, compete	4	4
+落	12	3	形声 Phonetic	3	ラク、お-ちる、お-とす		raku	o(chiru), o(tosu)	fall, drop, come down, go down; drip; collapse, cave in; sink; fail (in exams); be missing; come off, come out; flee; lose popularity; abate; flow into; be inferior; fall unconscious; fade; be captured, be carried away by	fall, drop, come down, go down; drip; collapse, cave in; sink; fail (in exams); be missing; come off, come out; flee; lose popularity; abate; flow into; be inferior; fall unconscious; fade; be captured, be carried away by. let fall; throw down; throw (a shadow); miss (a ball), fumble; lose; capture; omit; degrade; depreciate, detract from; decrease; make worse; drive away, exorcise; leave behind; knock down (an article); cause abortion; entrap; end (a story) with a punch; remove (stains)	21	42
+何	7	2	形声 Phonetic	5	カ、なに、[なん]	いず	ka	nani, [nan]	what	what	1	1
+医	7	3	会意 Com. Ideographic	4	イ		i	-	medicine, the healing art; doctor	-	3	0
+聞	14	2	形声 Phonetic	5	ブン、モン、き-く、き-こえる		bun, mon	ki(ku), ki(koeru)	hear, listen to; learn of; inquire; follow advice	hear, listen to; learn of; inquire; follow advice. be heard; sound, ring, seem; be well known; be reasonable	5	11
+消	10	3	形声 Phonetic	3	ショウ、き-える、け-す		shoo	ki(eru), ke(su)	extinguish, blow out; turn off, erase, cross out; neutralize (odors or poisons); deaden (noise); cancel (in fractions)	extinguish, blow out; turn off, erase, cross out; neutralize (odors or poisons); deaden (noise); cancel (in fractions). be extinguished; melt away; disappear, die out; wear away; burst (as a bubble)	8	14
+談	15	3	形声 Phonetic	3	ダン		dan	-	conversation, talk	-	2	0
+親	16	2	会意 Com. Ideographic	4	シン、おや、した-しい、した-しむ	ちか	shin	oya, shita(shii), shita(shimu)	intimacy; parents; relative	parent; dealer (in card games); banker (in gambling). intimate, familiar, friendly. be intimate with; have a liking for; take habitually	3	9
+店	8	2	形声 Phonetic	4	テン、みせ	たな、だな	ten	mise	shop, store	shop, store, booth	2	3
+担	8	6	形声 Phonetic	2	タン、かつ-ぐ、にな-う		tan	katsu(gu), nina(u)	carry; raise	shoulder (a load). carry on the shoulder; bear a burden	2	3
+術	11	5	会意 Com. Ideographic	3	ジュツ		jutsu	-	art, technique, skill; means; artifice, trick, stratagem; resources; magic, conjury	-	10	0
+準	13	5	形声 Phonetic	2	ジュン		jun	-	apply correspondingly, correspond to, be proportionate to, conform to	-	4	0
+空	8	1	形声 Phonetic	4	クウ、そら、あ-く、あ-ける、から	むな	kuu	sora, a(ku), a(keru), kara	air, sky; emptiness; vanity, unreality; hollow; void	become empty, be less crowded; empty; sky, heavens, air, weather, memory, absent-mindedness	7	9
+各	6	4	会意 Com. Ideographic	2	カク、おのおの		kaku	onoono	each	each, every, either, respectively	1	4
+難	18	6	会意 Com. Ideographic	3	ナン、かた-い、むずか-しい	ナ	nan	kata(i), muzuka(shii)	trouble, difficulty; accident, disaster; defect; criticism	impossible. hard, difficult; delicate; troublesome; doubtful; hopeless; stern; sullen; hard to please; serious; technical	6	12
+展	10	6	会意 Com. Ideographic	2	テン	の	ten	-	expand	-	1	0
+台	5	2	会意 Com. Ideographic	4	ダイ、タイ	うてな	dai, tai	-	stand, pedestal, rack, table, dais, bench, block; holder, support; mounting, setting	-	11	0
+線	15	2	形声 Phonetic	2	セン		sen	-	line; track, route, wire	-	4	0
+究	7	3	形声 Phonetic	4	キュウ、きわ-める	ク	kyuu	kiwa(meru)	investigate thoroly, master; carry to extremes	investigate thoroly, master; carry to extremes	3	3
+病	10	3	形声 Phonetic	4	ビョウ、[ヘイ]、や-む、やまい	うれ	byoo, [hei]	ya(mu), yamai	get sick, be sick, suffer from	get sick, be sick, suffer from. illness; bad habit; weakness; passion	3	7
+残	10	4	形声 Phonetic	3	ザン、のこ-る、のこ-す		zan	noko(ru), noko(su)	remainder; balance	remain, be left over; stay, linger; survive. leave behind; keep back; leave undone; reserve; save, amass; bequeath	2	12
+念	8	4	形声 Phonetic	3	ネン		nen	-	sense, idea, thought; feeling; desire; concern, attention, care	-	8	0
+備	12	5	形声 Phonetic	3	ビ、そな-える、そな-わる	つぶさ	bi	sona(eru), sona(waru)	be furnished with, be endowed with, possess; be among, be one of	be furnished with, be endowed with, possess; be among, be one of. furnish, provide, equip, install; have ready; prepare; possess, have; be endowed with; be armed with	5	15
+省	9	4	形声 Phonetic	2	セイ、ショウ、かえり-みる、はぶ-く		sei, shoo	kaeri(miru), habu(ku)	ministry, department; province (in China)	look back; turn around, look back upon, review; examine oneself; take notice of. omit, eliminate; curtail, economize	3	10
+失	5	4	象形 Pictographic	3	シツ、うしな-う		shitsu	ushina(u)	error; fault; disadvantage; loss; demerit	lose, miss (a chance)	5	2
+足	7	1	象形 Pictographic	4	ソク、あし、た-りる、た-る、た-す	ス	soku	ashi, ta(riru), ta(ru), ta(su)	foot; leg; counter for pairs of footwear	foot; leg; paw; flipper, tentacles, arms; walk, step, pace, speed; footing; draft (of a ship); foot (of a mountain); trace; deficit, shortage. money. be sufficient, suffice; serve, answer, will do (for something); be worth, deserve; be satisfied; qualify. add to, add up; make up for; make good; supply, supplement	3	32
+段	9	6	会意 Com. Ideographic	3	ダン	タン	dan	-	steps, stair, flight of stairs; column; paragraph; act, scene; case, question; grade, class, rank, level; degree, extent	-	15	0
+常	11	5	形声 Phonetic	3	ジョウ、つね、とこ		joo	tsune, toko	normal conditions, regular course of events; one's habit	normal conditions, regular course of events; one's habit. ever-, endless	3	5
+導	15	5	形声 Phonetic	2	ドウ、みちび-く		doo	michibi(ku)	leading	guide, lead, conduct, usher	1	4
+規	11	5	会意 Com. Ideographic	3	キ	ぶんまわし、のり、ただ	ki	-	standard; measure	-	2	0
+構	14	5	形声 Phonetic	3	コウ、かま-える、かま-う		koo	kama(eru), kama(u)	build; keep house; take a posture; assume an attitude; pose as; be ready for; feign, pretend; set up (camp)	build; keep house; take a posture; assume an attitude; pose as; be ready for; feign, pretend; set up (camp). mind, care about; pay attention to; interfere with; be hospitable; tease, molest; expel, banish	9	18
+配	10	3	会意 Com. Ideographic	3	ハイ、くば-る		hai	kuba(ru)	distribute; spouse; exile; rationing	distribute; serve (food); allocate; keep (your eyes) on	4	4
+限	9	5	会意 Com. Ideographic	3	ゲン、かぎ-る		gen	kagi(ru)	limit, restrict, confine	limit, restrict, confine	3	3
+技	7	5	形声 Phonetic	2	ギ、わざ		gi	waza	art, craft; ability, skill, feat, performance	deed, act, work, art, trick, performance	6	6
+財	10	5	形声 Phonetic	3	ザイ、[サイ]	たから	zai, [sai]	-	money, wealth, assets; property	-	4	0
+伝	6	4	会意 Com. Ideographic	3	デン、つた-わる、つた-える、つた-う	テン	den	tsuta(waru), tsuta(eru), tsuta(u)	legend, tradition; life, biography; commentary; communicating	go along, walk along, follow. be transmitted, be circulated, be introduced into. report, tell, impart, transmit, propagate, teach, bequeath	6	13
+退	9	5	会意 Com. Ideographic	3	タイ、しりぞ-く、しりぞ-ける	び	tai	shirizo(ku), shirizo(keru)	retreat, withdraw; retire, resign	retreat, withdraw; retire, resign. repel, drive away, expel; depose; keep away; reject, turn down	4	11
+額	18	5	形声 Phonetic	2	ガク、ひたい	ぬか	gaku	hitai	tablet, plaque, framed picture; sum, quantity, amount, volume; denomination	forehead, brow	8	2
+復	12	5	形声 Phonetic	2	フク		fuku	-	return to, revert to, be restored to, resume (one's duties); revenge; reward	-	6	0
+席	10	4	会意 Com. Ideographic	3	セキ	し	seki	-	seat; mat; a place, room, occasion	-	5	0
+右	5	1	会意 Com. Ideographic	5	ウ、ユウ、みぎ		u, yuu	migi	right, right hand	right, right hand	2	2
+待	9	3	形声 Phonetic	4	タイ、ま-つ		tai	ma(tsu)	waiting	wait, wait for; expect, watch for; depend on; treat, deal with	1	7
+歩	8	2	会意 Com. Ideographic	4	ホ、ブ、[フ]、ある-く、あゆ-む		ho, bu, [fu]	aru(ku), ayu(mu)	step, pace; foot soldier. rate, six feet square, tsubo; change of winning. pawn (in Japanese chess)	walk, hike, step	8	3
+返	7	3	形声 Phonetic	3	ヘン、かえ-す、かえ-る		hen	kae(su), kae(ru)	answer	go back; return to former employer; (colors) fade. return, give back; repay; put back; overturn; requite (favors); take vengeance; turn around; answer; regurgitate	1	13
+科	9	2	会意 Com. Ideographic	3	カ	しな、とが	ka	-	course, branch, department, faculty, school, college; arm (of defense); family (in biology)	-	8	0
+声	7	2	会意 Com. Ideographic	3	セイ、[ショウ]、こえ、[こわ]		sei, [shoo]	koe, [kowa]	voice; tone; alarm, cry; (bird) song, chirp	voice; tone; alarm, cry; (bird) song, chirp	6	6
+殺	10	4	会意 Com. Ideographic	3	サツ、[サイ]、[セツ]、ころ-す		satsu, [sai], [setsu]	koro(su)	kill, murder, butcher; waste (money); suppress (anger); hold (breath); put off, strike out	kill, murder, butcher; waste (money); suppress (anger); hold (breath); put off, strike out	8	8
+頭	16	2	形声 Phonetic	3	トウ、ズ、[ト]、あたま、かしら	ジュウ、かみ、がみ	too, zu, [to]	atama, kashira	head, counter for large mammals	head; brain, mind, intellect; leader; top; head (of boil); idea; hair; point of view, consideration. leader, chief	2	13
+追	9	3	会意 Com. Ideographic	3	ツイ、お-う		tsui	o(u)	drive away; chase; drive (cattle); follow, persue (pleasure)	drive away; chase; drive (cattle); follow, persue (pleasure)	5	5
+建	9	4	会意 Com. Ideographic	4	ケン、[コン]、た-てる、た-つ		ken, [kon]	ta(teru), ta(tsu)	build, raise	stand, rise; rouse oneself; be built, be established; go up (smoke); burn out; depart; take flight; run high (waves); stick into; be worked out; be maintained; save (face); establish oneself, begin life; spread (rumors); shut (door); be active; open (markets); be excited; come (seasons); makes (a total of thirty); stand something up, set up, raise; put up; set on edge; prick up (one’s ears); build, erect; close (a door); establish; institute, enact; lay (plans); map out; set forth, lay down (a proposition); formulate; render (services), perform; look up to, respect; be loyal to; do justice to; circulate (rumors); have (an aim); establish (oneself), make (a success); support (oneself), make (an oath); sharpen, set (a saw); put up (a candidate); make (tea); save (face)	2	57
+張	11	5	形声 Phonetic	2	チョウ、は-る		choo	ha(ru)	counter for bows and stringed instruments	put up (a tent); stretch, spread, string, tighten; cover, line; strain; square (elbows); give (a banquet); run (a store); stake (money); display; slap, box, spank; lay (flooring); insist on (one's own way); guard; run after (a girl); fill (with water). swell, be full; form (ice); be expensive; increase; be heavy; grow stiff; brace up	1	29
+口	3	1	象形 Pictographic	4	コウ、ク、くち		koo, ku	kuchi	mouth	mouth, lips; speech, words; one's taste, stopper, plug; nozzle, orifice, slit, aperture; door, gate, entrance; route, ascent; employment, job; call (for a doctor); share; kind, lot, brand; beginning; rumor, opening (of a boil)	1	26
+験	18	4	形声 Phonetic	4	ケン、[ゲン]	しるし	ken, [gen]	-	effect; testing. beneficial effect (of austerities)	-	3	0
+比	4	5	会意 Com. Ideographic	2	ヒ、くら-べる		hi	kura(beru)	ratio; comparison; an equal, a match	compare, balance, contrast	4	3
+質	15	5	会意 Com. Ideographic	4	シツ、シチ、[チ]	ただ	shitsu, shichi, [chi]	-	substance, matter, quality, temperament. hostage, pawn, pledge, hock	-	8	0
+和	8	3	会意 Com. Ideographic	3	ワ、[オ]、やわ-らぐ、やわ-らげる、なご-む、なご-やか	カ、あ	wa, [o]	yawa(ragu), yawa(rageru), nago(mu), nago(yaka)	sum; peace, harmony, reconciliation, unity	soften, be reconciled; lessen; calm down. moderate, ease, alleviate, mitigate, relax; appease; dilute (wine); tone down (colors); comfort; pacify, quiet. be softened; get quiet. mellow, matured, refined, genial	5	21
+象	12	4	象形 Pictographic	2	ショウ、ゾウ	に	shoo, zoo	-	image; shape; sign (of the times). elephant	-	4	2
+好	6	4	会意 Com. Ideographic	3	コウ、この-む、す-く	よしみ、よ	koo	kono(mu), su(ku)	like, be fond of	like, be fond of. Love	2	3
+想	13	3	形声 Phonetic	3	ソウ、[ソ]	おも	soo, [so]	-	idea, conception, thought	-	3	0
+族	11	3	会意 Com. Ideographic	4	ゾク		zoku	-	family, relatives, clan, tribe, race	-	5	0
+味	8	3	形声 Phonetic	4	ミ、あじ、あじ-わう		mi	aji, aji(wau)	taste, flavor, dash; touch, tinge; counter for foods and drinks	taste; appreciate, experience. flavor, aroma; zest; experience; tinge	6	8
+乗	9	3	会意 Com. Ideographic	3	ジョウ、の-る、の-せる		joo	no(ru), no(seru)	power (in math); multiplication; record; vehicle; vehicle counter	ride, board, mount; get up on; spread (paints); be taken in; share in, join; be found in (a dictionary); feel like doing; be mentioned in; be in harmony with. place, put, lay, set; let (one) take part; impose on; record, mention	5	20
+革	9	6	象形 Pictographic	2	カク、かわ		kaku	kawa	tanned leather	skin; hide; leather; fur, pelt; bark; peeling, husk, shell; film, cream	1	11
+由	5	3	象形 Pictographic	3	ユ、ユウ、[ユイ]、よし	よ	yu, yuu, [yui]	yoshi	depend on	reason, cause, significance; means, way; effect; point; intent	1	8
+去	5	3	会意 Com. Ideographic	4	キョ、コ、さ-る		kyo, ko	sa(ru)	leave, move away, quit; pass, elapse, be gone, be over; be distant from; remove, eliminate, get rid of; divorce	leave, move away, quit; pass, elapse, be gone, be over; be distant from; remove, eliminate, get rid of; divorce	12	12
+急	9	3	形声 Phonetic	4	キュウ、いそ-ぐ		kyuu	iso(gu)	emergency; suddenness; danger; haste; steep	hurry, hasten	5	2
+命	8	3	会意 Com. Ideographic	3	メイ、ミョウ、いのち		mei, myoo	inochi	command, decree; destiny, life,	life	4	1
+館	16	3	形声 Phonetic	4	カン、やかた	たち、たて、だて	kan	yakata	mansion, large building, hall	mansion; temporary residence	3	2
+白	5	1	象形 Pictographic	5	ハク、ビャク、しろ、[しら]、しろ-い		haku, byaku	shiro, [shira], shiro(i)	white	white, fair (skin); gray (hair); blank (paper); spotless; innocent. feigned ignorance	1	7
+録	16	4	形声 Phonetic	2	ロク		roku	-	record	-	1	0
+個	10	5	形声 Phonetic	2	コ	カ	ko	-	individual; article counter	-	2	0
+宅	6	6	形声 Phonetic	3	タク		taku	-	home, house, residence; our home; my husband	-	5	0
+字	6	1	会意 Com. Ideographic	4	ジ、あざ		ji	aza	character, letter, word, handwriting	section of a village	4	1
+銀	14	3	形声 Phonetic	4	ギン		gin	-	silver	-	1	0
+映	9	6	形声 Phonetic	4	エイ、うつ-る、うつ-す、は-える		ei	utsu(ru), utsu(su), ha(eru)	reflecting; projection	shine, be brilliant; look attractive; be reflected; match, harmonize, be becoming; be taken (a photo); copy, transcribe, duplicate, reproduce, trace; describe, picture, photograph	2	16
+評	12	5	形声 Phonetic	2	ヒョウ		hyoo	-	criticism, comment	-	2	0
+移	11	5	会意 Com. Ideographic	2	イ、うつ-る、うつ-す		i	utsu(ru), utsu(su)	move, change, shift, pass into, drift; soak in; be infected, catch (a cold); catch fire, spread	move, change, shift, pass into, drift; soak in; be infected, catch (a cold); catch fire, spread; transfer; pour into, divert(attention), give (a disease to someone)	10	14
+仕	5	3	形声 Phonetic	4	シ、[ジ]、つか-える		shi, [ji]	tsuka(eru)	official; civil service	serve, work for	2	2
+述	8	5	会意 Com. Ideographic	2	ジュツ、の-べる		jutsu	no(beru)	state, speak, relate	state, speak, recite, relate, mention	3	5
+観	18	4	形声 Phonetic	3	カン	み	kan	-	look, appearance; spectacle; condition; view, outlook	-	6	0
+差	10	4	形声 Phonetic	3	サ、さ-す		sa	sa(su)	difference, variation; discrepancy; margin; balance; remainder (in subtraction)	raise (the hands); stretch out( the hands in dancing); put up (an umbrella); carry (on the shoulder); build (a hut); stretch (a rope); graft (trees); carry (in the belt); lift up; offer. (the sun) shines; appear on the surface	6	12
+登	12	3	会意 Com. Ideographic	3	トウ、ト、のぼ-る	の	too, to	nobo(ru)	rise, ascend, go up, climb; go to (the capital); add up to; be promoted; advance (in price); sail up; come up (on the agenda)	rise, ascend, go up, climb; go to (the capital); add up to; be promoted; advance (in price); sail up; come up (on the agenda)	10	10
+授	11	5	形声 Phonetic	2	ジュ、さず-ける、さず-かる		ju	sazu(keru), sazu(karu)	give, grant	grant, confer, award, invest (with authority); impart, teach. be gifted with, be granted, be awarded, be accorded, be blessed with; be taught	2	12
+左	5	1	会意 Com. Ideographic	5	サ、ひだり		sa	hidari	left; the following	left; the left; leftist	2	3
+造	10	5	会意 Com. Ideographic	2	ゾウ、つく-る	な	zoo	tsuku(ru)	make, create, manufacture, prepare, draw up, write, compose; build; coin; cultivate; organize, establish; make up (a face), trim (a tree); fabricate; prepare food; commit (sin)	make, create, manufacture, prepare, draw up, write, compose; build; coin; cultivate; organize, establish; make up (a face), trim (a tree); fabricate; prepare food; commit (sin)	17	17
+域	11	6	形声 Phonetic	2	イキ		iki	-	region; limits; stage, level	-	4	0
+輪	15	4	形声 Phonetic	2	リン、わ		rin	wa	ring, circle; wheel; corolla; wheel counter	circle, ring, link, wheel, hoop, loop	5	6
+境	14	5	形声 Phonetic	2	キョウ、[ケイ]、さかい		kyoo, [kei]	sakai	boundary; region; condition; stage	boundary, border, frontier; place	4	4
+例	8	4	形声 Phonetic	3	レイ、たと-える		rei	tato(eru)	custom, usage, precedent; case, example, parallel, illustration	compare to, speak figuratively, illustrate	7	3
+量	12	4	象形 Pictographic	2	リョウ、はか-る		ryoo	haka(ru)	quantity, amount, volume; magnanimity; a measure	measure, gauge, weigh; fathom, sound; compute, estimate	5	7
+末	5	4	指事 Ideographic	3	マツ、バツ、すえ		matsu, batsu	sue	end; powder	end, close; tip, top; the future; posterity; youngest child	2	7
+療	17	7	形声 Phonetic	2	リョウ		ryoo	-	heal, cure	-	2	0
+土	3	1	象形 Pictographic	5	ド、ト、つち	ツ	do, to	tsuchi	earth, ground; Saturday; Turkey	earth, soil, ground	4	3
+競	20	4	会意 Com. Ideographic	2	キョウ、ケイ、きそ-う、せ-る		kyoo, kei	kiso(u), se(ru)	emulate, compete with	emulate, compete with; compete, vie, bid; sell at auction	2	6
+風	9	2	形声 Phonetic	4	フウ、[フ]、かぜ、[かざ]		fuu, [fu]	kaze, [kaza]	wind; air, look, appearance, bearing, mien, deportment; manners, custom; trend, tone, tendency; way, fashion, manner; style, type; disposition, turn of mind; kind; vein; state, condition	wind, storm, breeze, draft, current of air; a cold	23	6
+然	12	4	会意 Com. Ideographic	3	ゼン、ネン	しか	zen, nen	-	to decree	-	1	0
+十	2	1	指事 Ideographic	5	ジュウ、ジッ、とお、と		juu, jiQ	too, to	ten	ten	1	1
+飛	9	4	象形 Pictographic	3	ヒ、と-ぶ、と-ばす		hi	to(bu), to(basu)	fly; skip (pages)	fly; skip (pages). fly (a kite); let fly; blow away; scatter; splash; drive fast; skip over, omit; issue, send out	2	12
+商	11	3	会意 Com. Ideographic	3	ショウ、あきな-う	あきんど	shoo	akina(u)	trade, merchant, quotient	sell, handle, trade in	3	3
+課	15	4	形声 Phonetic	2	カ		ka	-	lesson; section, department; allotment, division	-	5	0
+注	8	3	形声 Phonetic	4	チュウ、そそ-ぐ	つ	chuu	soso(gu)	notes, comment; N.B.	pour into, pour on, irrigate, sprinkle; shed (tears). (rain) falls; flow into; pay attention to, concentrate on	3	9
+処	5	6	会意 Com. Ideographic	3	ショ	どころ	sho	-	manage, deal with; sentence, condemn; act, behave; conduct oneself (well)	-	7	0
+秒	9	3	会意 Com. Ideographic	2	ビョウ		byoo	-	one-sixteenth of a minute (of time, latitude, degree, etc.)	-	1	0
+読	14	2	形声 Phonetic	5	ドク、トク、[トウ]、よ-む	と、ど	doku, toku, [too]	yo(mu)	reading	read, peruse; understand, read (one's heart), guess, divine	1	6
+識	19	5	形声 Phonetic	3	シキ		shiki	-	know, discriminate, write	-	3	0
+悪	11	3	形声 Phonetic	4	アク、オ、わる-い		aku, o	waru(i)	evil, wrong, vice, wickedness, lawlessness	bad, evil, wrong; immoral; malicious; blamable; injurious; detrimental, malignant; be indisposed; inferior; homely; poor (memory); inclement; unlucy; out of order; unsavory	5	17
+門	8	2	象形 Pictographic	3	モン、かど		mon	kado	gate, gateway; private school; class; counter for cannon	gate, door	5	2
+低	7	4	形声 Phonetic	3	テイ、ひく-い、ひく-める、ひく-まる		tei	hiku(i), hiku(meru), hiku(maru)	low	low, short; humble; low (voice)	1	6
+馬	10	2	象形 Pictographic	3	バ、うま、[ま]	メ	ba	uma, [ma]	horse	horse; horseflesh	1	2
+型	9	4	形声 Phonetic	2	ケイ、かた		kei	kata	model, mold, matrix, impression; style, type, pattern, make; set form; usage	model, mold, matrix, impression; style, type, pattern, make; set form; usage	10	10
+効	8	5	会意 Com. Ideographic	2	コウ、き-く		koo	ki(ku)	efficacy, benefit; efficiency; effect, result; success	be effective	6	1
+師	10	5	会意 Com. Ideographic	3	シ		shi	-	teacher, master; exemplary person; army; war	-	5	0
+山	3	1	象形 Pictographic	5	サン、やま	セン、ゼン	san	yama	mount, mountain	mountain, hill, height, knoll; heap, pile; crown (of a hat); seam (of an obi); speculation, adventure; climax, acme, crisis; forest; mine	2	15
+守	6	3	会意 Com. Ideographic	3	シュ、[ス]、まも-る、も-り		shu, [su]	mamo(ru), mo(ri)	defend, protect; keep, observe, obey; abide by; stick to; be true to	defend, protect; keep, observe, obey; abide by; stick to; be true to. nursemaid, baby sitter; baby sitting; (lighthouse) keeper	8	12
+捕	10	7	形声 Phonetic	3	ホ、と-らえる、と-らわれる、と-る、つか-まえる、つか-まる		ho	to(raeru), to(rawareru), to(ru), tsuka(maeru), tsuka(maru)	catch, arrest, capture	catch, arrest, capture. be caught, be captured. be arrested; be a slave to; be seized with	3	8
+早	6	1	仮借 Loan	4	ソウ、[サッ]、はや-い、はや-まる、はや-める	さ	soo, [saQ]	haya(i), haya(maru), haya(meru)	quick, fast, speedy; brisk, prompt; early; premature	quick, fast, speedy; brisk, prompt; early; premature. hasten, precipitate, accelerate, expedite; advance (the date). be hasty, be rash	7	14
+母	5	2	象形 Pictographic	5	ボ、はは	モ	bo	haha	mother; cause; motive	mother; cause; motive	3	3
+室	9	2	会意 Com. Ideographic	4	シツ、むろ		shitsu	muro	room, apartment, compartment, chamber	greenhouse; (ice) house; cellar	4	3
+労	7	4	会意 Com. Ideographic	3	ロウ	いたわ、ねぎら	roo	-	labor, toil, trouble	-	3	0
+訪	11	6	形声 Phonetic	3	ホウ、おとず-れる、たず-ねる	と	hoo	otozu(reru), tazu(neru)	visit, call on	visit, call on. look up	2	3
+景	12	4	形声 Phonetic	3	ケイ	キョウ、かげ	kei	-	view, scene	-	2	0
+形	7	2	会意 Com. Ideographic	3	ケイ、ギョウ、かた、かたち		kei, gyoo	kata, katachi	shape	shape, form, make, size, format, mark; pattern, design; personal appearance	1	9
+険	11	5	形声 Phonetic	3	ケン、けわ-しい		ken	kewa(shii)	inaccessible place, impregnable pass, strategic position; steep place; sharp (eyes); sinister (look)	steep; severe, angry	6	3
+察	14	4	会意 Com. Ideographic	3	サツ		satsu	-	presume, surmise; judge; realize, understand; imaging, suppose; sympathize with	-	8	0
+故	9	5	会意 Com. Ideographic	2	コ、ゆえ	ふる	ko	yue	reason, cause; circumstances	reason, cause; circumstances	3	3
+材	7	4	形声 Phonetic	2	ザイ		zai	-	log; timber, lumber, wood; material; talent	-	6	0
+管	14	4	形声 Phonetic	2	カン、くだ		kan	kuda	pipe, tube; (brush) holder; wind instrument	pipe, tube; drunken talk	4	3
+針	10	6	形声 Phonetic	2	シン、はり		shin	hari	needle	needle, pin; staple; fishhook; stinger; spine (of a fish); thorn; stitch; (watch) hand; (phonograph) needle; (hypodermic) needle; sting; molehill; acupuncture	1	14
+様	14	3	形声 Phonetic	3	ヨウ、さま		yoo	sama	way, manner, method; kind, class; (to that) effect	situation, circumstances, condition. Mr., Mrs., Messrs., Mme., Miss, Master	6	9
+環	17	7	形声 Phonetic	2	カン	たまき	kan	-	ring	-	1	0
+天	4	1	象形 Pictographic	5	テン、あめ、[あま]		ten	ame, [ama]	sky, air, heavens, celestial sphere, firmament; heaven, Providence, God, Nature; destiny; weather; top; beginning	sky, heaven. Heavenly	13	3
+路	13	3	形声 Phonetic	3	ロ、じ	ル、みち	ro	ji	road, route, path	route, road; distance	3	3
+整	16	3	形声 Phonetic	2	セイ、ととの-える、ととの-う		sei	totono(eru), totono(u)	arranging	prepare, arrange; fill (orders); supply; raise (money); put in order, tidy up, adjust (clothes); regulate; settle; purchase. be prepared, be arranged, be in order, be adjusted, be well regulated; be settled	1	17
+歴	14	4	形声 Phonetic	2	レキ	へ	reki	-	history; continuation; passing (of time)	-	3	0
+速	10	3	形声 Phonetic	3	ソク、はや-い、はや-める、はや-まる、すみ-やか		soku	haya(i), haya(meru), haya(maru), sumi(yaka)	speedy, prompt, swift	speedy, prompt, swift. hasten, precipitate, accelerate, expedite; advance (the date)	3	8
+副	11	4	形声 Phonetic	2	フク	フ、そ、ぞ	fuku	-	duplicate, copy; assistant, associate	-	4	0
+降	10	6	会意 Com. Ideographic	3	コウ、お-りる、お-ろす、ふ-る	くだ	koo	o(riru), o(rosu), fu(ru)	going down; surrender	fall, drop, come down (rain, etc.). come down, go down, step down, descend; get off; land. take down, lower, pull down, lift down, let down, drop; launch; let off (passengers); wear (for the first time); cause (abortion); grate; invoke; exercise; borrow (in subtraction); lock	2	24
+含	7	7	会意 Com. Ideographic	2	ガン、ふく-む、ふく-める	ゴン	gan	fuku(mu), fuku(meru)	hold in the mouth; bear in mind, understand; cherish, harbor; contain, comprise, have, hold, include, embrace; be charged or loaded with, be dripping with, be full of, be suffused with	hold in the mouth; bear in mind, understand; cherish, harbor; contain, comprise, have, hold, include, embrace; be charged or loaded with, be dripping with, be full of, be suffused with; include, instruct, make one understand	15	18
+走	7	2	象形 Pictographic	4	ソウ、はし-る		soo	hashi(ru)	run, rush, flee; turn to, become; go to excess	run, rush, flee; turn to, become; go to excess	6	6
+望	11	4	形声 Phonetic	3	ボウ、モウ、のぞ-む	もち	boo, moo	nozo(mu)	full moon; hope	desire; aspire to; expect, hope for; like, choose; see, command (a view of)	2	8
+帰	10	2	会意 Com. Ideographic	4	キ、かえ-る、かえ-す		ki	kae(ru), kae(su)	return; take one's leave; come again; come around (time)	return; take one's leave; come again; come around (time); send (someone) back	4	5
+亡	3	6	象形 Pictographic	3	ボウ、[モウ]、な-い	ほろ	boo, [moo]	na(-i)	my late, the late; dying; being destroyed	the late, the deceased	4	2
+介	4	7	象形 Pictographic	2	カイ	ケ、すけ	kai	-	shell, shellfish	-	2	0
+季	8	4	会意 Com. Ideographic	2	キ	すえ	ki	-	season	-	1	0
+助	7	3	会意 Com. Ideographic	3	ジョ、たす-ける、たす-かる、すけ	ソ	jo	tasu(keru), tasu(karu), suke	help, rescue	be saved, be rescued, survive; be helpful. help; save, rescue; give relief to; spare (life); reinforce; promote; abet. assistance	2	13
+条	7	5	会意 Com. Ideographic	2	ジョウ		joo	-	article, clause, item; line, stripe, streak; column (of smoke); ray (of light)	-	8	0
+働	13	4	形声 Phonetic	3	ドウ、はたら-く		doo	hatara(ku)	work, labor; do, act, commit, practice; work on; come into play; be conjugated; reduce the price	work, labor; do, act, commit, practice; work on; come into play; be conjugated; reduce the price	10	10
+候	10	4	形声 Phonetic	3	コウ、そうろう	そうろ	koo	sooroo	season, weather	classical verbal ending equivalent to colloquial	2	1
+破	10	5	形声 Phonetic	3	ハ、やぶ-る、やぶ-れる	わ	ha	yabu(ru), yabu(reru)	tear, rip, rend; break, crush, destroy; violate, transgress; defeat; baffle, frustrate	tear, rip, rend; break, crush, destroy; violate, transgress; defeat; baffle, frustrate. be torn, rip open; be broken, burst; rupture, collapse; be worn out; be defeated; be frustrated	11	20
+週	11	2	形声 Phonetic	4	シュウ		shuu	-	week	-	1	0
+音	9	1	会意 Com. Ideographic	4	オン、イン、おと、ね		on, in	oto, ne	sound; noise; pronunciation; tone	sound, noise, roar; fame; tone, note, voice, chirping	4	8
+種	14	4	形声 Phonetic	3	シュ、たね		shu	tane	kind, class, variety; seed; species	seed, kernel; kind, species; quality, tone; material; breed; topic; cause, source; trick; data; inside story; secret; leaven	5	16
+四	5	1	指事 Ideographic	5	シ、よ、よ-つ、よっ-つ、よん		shi	yo, yo(tsu), yot(tsu), yon	four	four	1	1
+非	8	5	象形 Pictographic	3	ヒ		hi	-	mistake; misdeed; injustice; wrong; non-, un-, anti-	-	7	0
+値	10	6	形声 Phonetic	3	チ、ね、あたい	ジ	chi	ne, atai	price, cost, value	price, cost, value	3	3
+罪	13	5	会意 Com. Ideographic	3	ザイ、つみ		zai	tsumi	sin, crime, offense, guilt, blame, fault, misconduct	sin, crime, offense, guilt, blame, fault, misconduct	7	7
+突	8	7	会意 Com. Ideographic	3	トツ、つ-く		totsu	tsu(ku)	protruding, thrusting	thrust, pierce, spear, stab, prick; gore; lunge at; push, poke; strike (a bell); attack; strike (at the heart); brave (a storm); be pungent; strike against; (words) rush (to one's lips)	2	16
+専	9	6	会意 Com. Ideographic	2	セン、もっぱ-ら		sen	moppa(ra)	mainly, sorely,	mainly, sorely,	2	2
+若	8	6	象形 Pictographic	3	ジャク、[ニャク]、わか-い、も-しくは	ニャ、か、そ	jaku, [nyaku]	waka(i), mo(shikuwa)	if	young, juvenile, youthful; younger, junior; immature, inexperienced; low number. or, otherwise	1	10
+買	12	2	会意 Com. Ideographic	4	バイ、か-う		bai	ka(u)	buying	buy, invest in; incur; appreciate; call in (geisha)	1	5
+呼	8	6	形声 Phonetic	3	コ、よ-ぶ		ko	yo(bu)	call, call out to; invoke; summon; invite; attract; send for; name, designate; bring about	call, call out to; invoke; summon; invite; attract; send for; name, designate; bring about	10	10
+販	11	7	形声 Phonetic	2	ハン		han	-	sell, trade	-	2	0
+史	5	4	会意 Com. Ideographic	2	シ	ふみ	shi	-	history, chronicles; historian; book	-	4	0
+図	7	2	会意 Com. Ideographic	4	ズ、ト、はか-る		zu, to	haka(ru)	drawing, plan, figure, cut, chart, diagram, illustration, graph	measure, gauge, weigh; fathom, sound; compute, estimate; plan, devise, scheme; counsel with; have in mind; aim at; deceive, impose on	8	15
+夫	4	4	象形 Pictographic	3	フ、[フウ]、おっと	か	fu, [fuu]	otto	husband; man	husband, spouse	2	2
+神	9	3	形声 Phonetic	3	シン、ジン、かみ、[かん]、[こう]		shin, jin	kami, [kan], [koo]	god, deity; mind, soul	God, god, Allah	4	3
+給	12	4	形声 Phonetic	3	キュウ	たま	kyuu	-	wage; gift; wage grade	-	3	0
+客	9	3	会意 Com. Ideographic	3	キャク、カク		kyaku, kaku	-	visitor; guest, customer, client; passenger	-	5	0
+歌	14	2	形声 Phonetic	4	カ、うた、うた-う		ka	uta, uta(u)	sing, recite, chant, carol	sing, recite, chant, carol; poem, tanka, ballad, poetry; singing	4	9
+満	12	4	形声 Phonetic	3	マン、み-ちる、み-たす		man	mi(chiru), mi(tasu)	fullness, enough; pride. full, fully, fulfillment; a full (year); a full (five years)	be full; rise (tides); mature, expire. fill; supply, make good; satisfy, appease, answer (the need), meet (the demand)	8	11
+他	5	3	形声 Phonetic	3	タ、ほか		ta	hoka	another, the other, others, another thing; the rest; another place	some other place; outside; the rest	6	3
+火	4	1	象形 Pictographic	5	カ、ひ、[ほ]	コ	ka	hi, [ho]	fire, Tuesday	fire, flame, blaze	2	3
+除	10	6	形声 Phonetic	3	ジョ、[ジ]、のぞ-く		jo, [ji]	nozo(ku)	division (in math)	remove, abolish, cancel; exclude, except	2	5
+号	5	3	会意 Com. Ideographic	3	ゴウ		goo	-	number; item, title, pseudonym; Buddhist name	-	5	0
+程	12	5	形声 Phonetic	3	テイ、ほど		tei	hodo	degree; law; formula; distance	limits, limit, extent, degree; moderation; social status; distance; time; amount	4	9
+葉	12	3	形声 Phonetic	3	ヨウ、は		yoo	ha	leaf; plane; lobe; counter for flat things	leaf, foliage, needle, blade, spear, frond	4	6
+紙	10	2	形声 Phonetic	4	シ、かみ		shi	kami	paper	paper	1	1
+児	7	4	象形 Pictographic	2	ジ、[ニ]	こ、ご	ji, [ni]	-	child	-	1	0
+接	11	5	形声 Phonetic	2	セツ、つ-ぐ		setsu	tsu(gu)	touch, contact; adjoin; receive (visitors); be in receipt of; encounter, experience; draw near	join, piece together, splice, cement, set (broken bones); graft (trees)	8	6
+農	13	3	会意 Com. Ideographic	2	ノウ	ノ	noo	-	agriculture; farmers	-	2	0
+答	12	2	形声 Phonetic	4	トウ、こた-える、こた-え		too	kota(eru), kota(e)	answer	answer; respond; solve. solution	1	4
+責	11	5	形声 Phonetic	3	セキ、せ-める	シャク	seki	se(meru)	condemn, blame, censure, criticize, take to task; torture, persecute; urge, tease (to do something)	condemn, blame, censure, criticize, take to task; torture, persecute; urge, tease (to do something)	9	9
+捜	10	7	形声 Phonetic	2	ソウ、さが-す		soo	saga(su)	search, look for, locate; glean	search, look for, locate; glean	4	4
+存	6	6	会意 Com. Ideographic	3	ソン、ゾン		son, zon	-	know, be aware of, be acquainted with; think, believe, feel	-	6	0
+編	15	5	形声 Phonetic	2	ヘン、あ-む		hen	a(mu)	compilation, editing; completed poem; a book; a part of a book	knit, plait, braid, net, weave, twist, crochet; compile, edit, frame	5	10
+未	5	4	象形 Pictographic	3	ミ	ひつじ、いま	mi	-	not yet. un-, not	-	3	0
+深	11	3	形声 Phonetic	3	シン、ふか-い、ふか-まる、ふか-める	み	shin	fuka(i), fuka(maru), fuka(meru)	deep	deep; thick, dense; profound, intense; intimate. deepen, heighten, intensity, strengthen	1	10
+危	6	6	形声 Phonetic	3	キ、あぶ-ない、あや-うい、あや-ぶむ		ki	abu(nai), aya(ui), aya(bumu)	be afraid of, feel uneasy about, shrink from	fear, have misgivings, be doubtful, mistrust; dangerous; critical, grave; uncertain, unreliable; limping; narrow, close; watch out	3	13
+達	12	4	形声 Phonetic	3	タツ	ダチ、ダッ	tatsu	-	reach, arrive at, attain; amount to; become expert, be versed in; accomplish; notify	-	8	0
+申	5	3	象形 Pictographic	3	シン、もう-す	さる	shin	moo(su)	have the honor to; say, tell, talk, speak, declare; call, term, name	have the honor to; say, tell, talk, speak, declare; call, term, name	9	9
+将	10	6	会意 Com. Ideographic	2	ショウ	まさ、は	shoo	-	commander, general, admiral	-	3	0
+因	6	5	会意 Com. Ideographic	3	イン、よ-る	ちな	in	yo(ru)	cause, factor	depend on, be limited to	2	2
+王	4	1	象形 Pictographic	3	オウ		oo	-	king, rule, magnate, baron	-	4	0
+寄	11	5	形声 Phonetic	3	キ、よ-る、よ-せる		ki	yo(ru), yo(seru)	let approach, bring near; gather, collect, summon, muster; add up; push aside; attack; send a letter; contribute to; become dependent on, take refuge with	let approach, bring near; gather, collect, summon, muster; add up; push aside; attack; send a letter; contribute to; become dependent on, take refuge with; approach; assemble; call at; come; lean toward; obey; lean on, depend on; conclude; be possessed (by devils); present (offerings)	13	24
+階	12	3	形声 Phonetic	2	カイ	はし、しな	kai	-	stair, staircase; round; step; grade; story, floor; counter for stories (in a building)	-	8	0
+夜	8	2	会意 Com. Ideographic	4	ヤ、よ、よる		ya	yo, yoru	night	evening, night, nighttime; at night	1	4
+良	7	4	象形 Pictographic	3	リョウ、よ-い	ロウ	ryoo	yo(i)	good, fine	good, good-natured; pleasing; precious, noble; lovely, beautiful, fine; lucky; efficacious; right; suitable; justifiable; appropriate, satisfactory; better; all right; unnecessary; no objection; intimate, friendly; easy; well; desirous	2	24
+脳	11	6	会意 Com. Ideographic	2	ノウ		noo	-	brain, memory	-	2	0
+批	7	6	形声 Phonetic	2	ヒ		hi	-	strike	-	1	0
+習	11	3	会意 Com. Ideographic	4	シュウ、なら-う		shuu	nara(u)	learn, be taught, take lessons, practice	learn, be taught, take lessons, practice	4	4
+況	8	7	形声 Phonetic	2	キョウ		kyoo	-	still more, still less (neg.)	-	2	0
+抜	7	7	形声 Phonetic	3	バツ、ぬ-く、ぬ-ける、ぬ-かす、ぬ-かる		batsu	nu(ku), nu(keru), nu(kasu), nu(karu)	extract, unlock, pull out; root up; unsheathe; pilfer; quote; remove; omit; capture; outrun; shoot through	extract, unlock, pull out; root up; unsheathe; pilfer; quote; remove; omit; capture; outrun; shoot through. come off, fall out, slip out; be omitted; be missing; be rid of; pass through; escape; be captured; withdraw; be less than. skip over. be careless; slip, make a mistake	12	27
+村	7	1	形声 Phonetic	3	ソン、むら		son	mura	village, hamlet	village, hamlet	2	2
+震	15	7	形声 Phonetic	2	シン、ふる-う、ふる-える		shin	furu(u), furu(eru)	shake, tremble, quiver, shiver, shudder; vibrate	shake, tremble, quiver, shiver, shudder; vibrate	6	6
+爆	19	7	形声 Phonetic	2	バク		baku	-	burst open, pop, split	-	3	0
+光	6	2	会意 Com. Ideographic	3	コウ、ひか-る、ひかり		koo	hika(ru), hikari	light	shine, glitter, sparkle, twinkle, flash. light, beam, glare, gleam, glimmer, glow, brightness, radiance, glitter, luster; influence (of parents)	1	16
+否	7	6	会意 Com. Ideographic	3	ヒ、いな		hi	ina	no, noes	no, nay	2	2
+周	8	4	会意 Com. Ideographic	2	シュウ、まわ-り	ス、ズ、あまね	shuu	mawa(ri)	circuit, lap, circumference, vicinity; Chou (dynasty)	rotation; circumference, girth; surroundings, border; detour; tour; efficacy or effect (of something taken); spread (of flames)	5	9
+超	12	7	形声 Phonetic	2	チョウ、こ-える、こ-す		choo	ko(eru), ko(su)	super-, ultra-	cross; go beyond; exceed; clear (an obstacle); overstep (authority)	2	5
+帯	10	4	象形 Pictographic	2	タイ、お-びる、おび		tai	o(biru), obi	belt; zone	belt, sash, girdle, band; belting. wear (at the belt), carry, be armed with; be entrusted with; assume, take on (the character of), be tinged with; gird up (one’s loins)	2	13
+北	5	2	会意 Com. Ideographic	5	ホク、きた		hoku	kita	north	north	1	1
+略	11	5	形声 Phonetic	2	リャク	ほぼ	ryaku	-	abbreviation, abridgment; omission; outline	-	4	0
+顔	18	2	形声 Phonetic	3	ガン、かお		gan	kao	face, countenance	face, countenance, expression; honor, prestige	2	5
+修	10	5	会意 Com. Ideographic	2	シュウ、[シュ]、おさ-める、おさ-まる		shuu, [shu]	osa(meru), osa(maru)	govern oneself, conduct oneself well	govern oneself, conduct oneself well. study, complete (a course); cultivate; master; order (one's life); repair	2	8
+極	12	4	形声 Phonetic	2	キョク、ゴク、きわ-める、きわ-まる、きわ-み		kyoku, goku	kiwa(meru), kiwa(maru), kiwa(mi)	end; highest rank; the poles; (electric) poles	terminate; reach an extreme; be in a dilemma; investigate thoroughly, master; carry to extremes; height, acme, extremity	4	9
+苦	8	3	形声 Phonetic	3	ク、くる-しい、くる-しむ、くる-しめる、にが-い、にが-る	コ	ku	kuru(shii), kuru(shimu), kuru(shimeru), niga(i), niga(ru)	suffering, trial, worry, trouble, hardship, difficulty, toil	suffer; groan; be troubled, be worried, be perplexed; strive, try hard; torment; harass, worry; persecute, inflict pain; feel bitter; scowl; painful; distressing, embarrassing, difficult, bitter; straitened; farfetched; still (climb); agony, trouble, distress; mortification	7	26
+黒	11	2	会意 Com. Ideographic	4	コク、くろ、くろ-い		koku	kuro, kuro(i)	black; dark	black; dark, swarthy, browned; dirty	2	5
+標	15	4	形声 Phonetic	2	ヒョウ		hyoo	-	signpost; mark; target; designate	-	4	0
+覚	12	4	形声 Phonetic	3	カク、おぼ-える、さ-ます、さ-める		kaku	obo(eru), sa(masu), sa(meru)	remember, memorize; learn, perceive; feel, experience, know; expect	remember, memorize; learn, perceive; feel, experience, know; expect; awake, wake up; be disillusioned; sober up	8	12
+装	12	6	形声 Phonetic	2	ソウ、ショウ、よそお-う		soo, shoo	yosoo(u)	dress; spruce up; pretend, disguise; profess	dress; spruce up; pretend, disguise; profess	5	5
+父	4	2	会意 Com. Ideographic	5	フ、ちち		fu	chichi	father	father	1	1
+単	9	4	象形 Pictographic	3	タン	ひとえ	tan	-	one, single, simple, singular, individual	-	5	0
+兵	7	4	会意 Com. Ideographic	2	ヘイ、ヒョウ	つわもの	hei, hyoo	-	soldier, private; troops, army; warfare; arms; strategy, tactics	-	8	0
+輸	16	5	形声 Phonetic	2	ユ		yu	-	send, transport	-	2	0
+適	14	5	形声 Phonetic	3	テキ	かな	teki	-	suitable	-	1	0
+春	9	2	形声 Phonetic	4	シュン、はる		shun	haru	spring	spring, springtime	1	2
+屋	9	3	会意 Com. Ideographic	4	オク、や		oku	ya	house, roof	shop, store; seller, dealer; business	2	5
+異	11	6	象形 Pictographic	2	イ、こと	あや	i	koto(naru)	uncommonness, strangeness, queerness; difference	differ, vary; be unusual	4	3
+完	7	4	会意 Com. Ideographic	3	カン		kan	-	comletion, end	-	2	0
+積	16	4	形声 Phonetic	3	セキ、つ-む、つ-もる	シャク	seki	tsu(mu), tsu(moru)	product (in math); acreage, contents, measurement	pile up, stack, lay; load, ship, take on; accumulate, amass, save. be piled up, be amassed; lie on, be covered (with snow); amount to; estimate, calculate, measure	4	17
+園	13	2	形声 Phonetic	3	エン、その	オン	en	sono	garden, yard, plantation, farm	garden, park	4	2
+色	6	2	会意 Com. Ideographic	4	ショク、シキ、いろ		shoku, shiki	iro	color	color, tint, tinge; complexion; countenance, look; sensual pleasure; sweetheart; charms; fall colors; embellishment; slight concession; kind	1	13
+健	11	4	形声 Phonetic	2	ケン、すこ-やか	たけ	ken	suko(yaka)	health, strength; stick-to-itiveness	vigorous, healthy, sound	3	3
+石	5	1	会意 Com. Ideographic	3	セキ、[シャク]、[コク]、いし		seki, [shaku], [koku]	ishi	stone, pebble, rock; jewel; the go playing stones. 4.96 bushels; 10 cubic feet (of lumber)	stone, pebble, rock; jewel; the go playing stones	7	5
+座	10	6	形声 Phonetic	3	ザ、すわ-る	サ、くら、ぐら	za	suwa(ru)	seat, cushion; throne; a gathering; stand, pedestal, platform; (metal) washer; theater; troupe; constellation	squat down, sit down, (eyes) are fixed on	11	3
+南	9	2	象形 Pictographic	5	ナン、[ナ]、みなみ		nan, [na]	minami	south	south	1	1
+東	8	2	仮借 Loan	5	トウ、ひがし	あずま	too	higashi	east	east	1	1
+拡	8	6	形声 Phonetic	2	カク	ひろ	kaku	-	expand, enlarge, widen; unfurl; open (arms or a package), stretch, spread	-	7	0
+美	9	3	象形 Pictographic	3	ビ、うつく-しい	ミ、うま、よ	bi	utsuku(shii)	beauty, grace, charm	beautiful, lovely, fine, good-looking; picturesque; sweet (voice), noble, pure	3	8
+囲	7	4	形声 Phonetic	2	イ、かこ-む、かこ-う		i	kako(mu), kako(u)	enclosure	enclose, surround, encircle; besiege; preserve, store; keep	1	7
+署	13	6	形声 Phonetic	2	ショ		sho	-	government office, (police) station	-	2	0
+圧	5	5	会意 Com. Ideographic	2	アツ	おさ	atsu	-	press, oppress, dominate, overwhelm	-	4	0
+温	12	3	形声 Phonetic	2	オン、あたた-か、あたた-かい、あたた-まる、あたた-める	ウン	on	atata(ka), atata(kai), atata(maru), atata(meru)	warm, heat	warm, heat; warm oneself, sun oneself, get warm; mild, genial, cordial	2	8
+薬	16	3	形声 Phonetic	3	ヤク、くすり		yaku	kusuri	medicine	medicine; glaze, enamel; chemical; gunpower; benefit	1	6
+犯	5	5	形声 Phonetic	3	ハン、おか-す	ボン	han	oka(su)	offense, crime; counter for criminal offenses	commit, sin against; violate, break; defy, disregard; attack, assault; seduce, rape	3	10
+板	8	3	形声 Phonetic	2	ハン、バン、いた		han, ban	ita	board, plank; planking; plate, sheet; the stage	board, plank; planking; plate, sheet; the stage	6	6
+績	17	5	形声 Phonetic	2	セキ	う	seki	-	exploits, unreeling cocoons	-	3	0
+休	6	1	会意 Com. Ideographic	5	キュウ、やす-む、やす-まる、やす-める		kyuu	yasu(mu), yasu(maru), yasu(meru)	rest; take a day off; be absent; retire, sleep	rest; take a day off; be absent; retire, sleep; rest (oneself); let idle; suspend; have (someone) rest; set at ease, give relief to; fallow (land); be rested, feel at ease, repose, be relieved	5	16
+齢	17	7	形声 Phonetic	2	レイ	よわい	rei	-	age	-	1	0
+八	2	1	指事 Ideographic	5	ハチ、や、や-つ、やっ-つ、[よう]	ハツ	hachi	ya, ya(tsu), yat(tsu), [yoo]	eight	eight	1	1
+毎	6	2	象形 Pictographic	5	マイ	ごと	mai	-	each, every, at an interval of, whenever. Apiece	-	5	0
+背	9	6	形声 Phonetic	3	ハイ、せ、せい、そむ-く、そむ-ける		hai	se, sei, somu(ku), somu(keru)	back, behind	act contrary to, go back on, disobey, defy, rebel against, turn one's back on. look away from, avert. back, back side; stature, height; ridge. stature	2	14
+駅	14	3	形声 Phonetic	4	エキ		eki	-	post town; stage; station	-	3	0
+禁	13	5	会意 Com. Ideographic	2	キン		kin	-	prohibition, ban, embargo; law	-	4	0
+具	8	3	会意 Com. Ideographic	3	グ	ク、つぶさ、そな、とも	gu	-	tool; vessel; means; ingredients (in a dish); counter for armor, suits, sets of furniture	-	7	0
+夏	10	2	象形 Pictographic	4	カ、[ゲ]、なつ		ka, [ge]	natsu	summer	summer	1	1
+採	11	5	形声 Phonetic	2	サイ、と-る		sai	to(ru)	take, hold, seize, catch, capture; fetch; receive, procure, obtain; adopt (a measure); engage (graduates); choose; order (foodstuffs); pick, pluck; make, produce; eat, set up (camp); charge; administer; transact; take (pains); make out (the meaning); remove; take off (one's hat); take out (spots); strike out (words); weed, catch (fish); deprive of; steal; capture (territory), annex; need, require; reserve (rooms); subscribe to; press (a point home); take (a picture); possess	take, hold, seize, catch, capture; fetch; receive, procure, obtain; adopt (a measure); engage (graduates); choose; order (foodstuffs); pick, pluck; make, produce; eat, set up (camp); charge; administer; transact; take (pains); make out (the meaning); remove; take off (one's hat); take out (spots); strike out (words); weed, catch (fish); deprive of; steal; capture (territory), annex; need, require; reserve (rooms); subscribe to; press (a point home); take (a picture); possess	41	41
+類	18	4	会意 Com. Ideographic	3	ルイ、たぐ-い		rui	tagu(i)	kind, variety, class, genus; description; parallel case, an equal. resembling	kind, sort, class; match, equal	8	5
+順	12	4	形声 Phonetic	2	ジュン	したが	jun	-	order; turn; right; docility, obedience; occasion	-	6	0
+朝	12	2	会意 Com. Ideographic	4	チョウ、あさ		choo	asa	dynasty; reign, regime; period, epoch; the court	morning, forenoon	6	2
+幅	12	7	形声 Phonetic	2	フク、はば		fuku	haba	hanging scroll, picture; width; counter for scrolls	width, breadth, range; difference (in price); power, influence	4	6
+州	6	3	象形 Pictographic	2	シュウ、す		shuu	su	province, state; continent	sandbar, shallows	3	2
+油	8	3	形声 Phonetic	2	ユ、あぶら		yu	abura	oil	oil	1	1
+西	6	2	仮借 Loan	5	セイ、サイ、にし		sei, sai	nishi	west	west	1	1
+迎	7	7	形声 Phonetic	3	ゲイ、むか-える		gei	muka(eru)	meet, greet, welcome; invite, engage	meet, greet, welcome; invite, engage	5	5
+旧	5	5	会意 Com. Ideographic	2	キュウ	ふる	kyuu	-	old things; old times; old friend; old calendar; former, ex-	-	6	0
+等	12	3	形声 Phonetic	3	トウ、ひと-しい	ら、ま	too	hito(shii)	class, grade, degree	equal, similar, alike, equivalent	3	4
+笑	10	4	象形 Pictographic	3	ショウ、わら-う、え-む		shoo	wara(u), e(mu)	laughter	laugh, smile; ridicule; be in full bloom. smile, bloom; split, open, crack	1	9
+払	5	7	形声 Phonetic	3	フツ、はら-う		futsu	hara(u)	clear out, sweep away, wipe off, brush off, drive away, banish; prune; parry; pay; dispose of; wield (a sword) sideways; show interest in	clear out, sweep away, wipe off, brush off, drive away, banish; prune; parry; pay; dispose of; wield (a sword) sideways; show interest in	12	12
+舞	15	7	会意 Com. Ideographic	3	ブ、ま-う、まい		bu	ma(u), mai	dance; flutter about, flit; circle, wheel	dance; flutter about, flit; circle, wheel. dancing	5	6
+練	14	3	形声 Phonetic	2	レン、ね-る		ren	ne(ru)	gloss, soften; train, drill; polish; refine	gloss, soften; train, drill; polish; refine	6	6
+延	8	6	会意 Com. Ideographic	2	エン、の-びる、の-べる、の-ばす	び	en	no(biru), no(beru), no(basu)	stretching	extend, lengthen, stretch, spread; be postponed; increase; grow; progress, develop; be straightened, be flattened, be smoothed; be exhausted; let (nails) grow; straighten; uncoil; spread out; reach out; postpone; dilute; smooth out; develop (talents); amass (riches); make (a bed); widen	1	25
+渡	12	7	形声 Phonetic	3	ト、わた-る、わた-す		to	wata(ru), wata(su)	cross, ford, ferry; be imported; change hands; make one's way through life; sweep across; migrate; be provided	cross, ford, ferry; be imported; change hands; make one's way through life; sweep across; migrate; be provided. carry across, ferry over, bring over; hand over, deliver; deal (cards); transfer (a business); pay (wages); bridge; stretch (something) across; lay across	9	20
+逆	9	5	形声 Phonetic	2	ギャク、さか、さか-らう	ゲキ	gyaku	saka, saka(rau)	reverse, inverse, opposite, unnatural; wicked; traitorous	oppose, act contrary to; offend; reverse, inversion, upside down	6	6
+精	14	5	形声 Phonetic	3	セイ、[ショウ]	くわ	sei, [shoo]	-	spirit, ghost, fairy; energy, vitality; white rice; details; excellence; purity; skill	-	10	0
+押	8	7	形声 Phonetic	3	オウ、お-す、お-さえる		oo	o(su), o(saeru)	push, shove; press, squash, compress; stamp, seal; do in spite of	push, shove; press, squash, compress; stamp, seal; do in spite of; stop, check, restrain, pin down; suppress, subdue, control; catch, arrest; govern; stop (the ears); withhold; attach, seize; secure (evidence), estimate conservatively	8	24
+妻	8	5	象形 Pictographic	3	サイ、つま	め	sai	tsuma	(my) wife	wife, spouse	1	2
+米	6	2	象形 Pictographic	3	ベイ、マイ、こめ	よね	bei, mai	kome	rice, U.S.A.	rice	2	1
+換	12	7	形声 Phonetic	2	カン、か-える、か-わる		kan	ka(eru), ka(waru)	change, turn, convert, exchange, renew, substitute, replace	change, turn, convert, exchange, renew, substitute, replace; relieve	7	8
+七	2	1	仮借 Loan	5	シチ、なな、なな-つ、[なの]	シツ	shichi	nana, nana(tsu), [nano]	seven	seven	1	1
+券	8	5	会意 Com. Ideographic	2	ケン		ken	-	ticket, coupon, bond, certificate	-	4	0
+倒	10	7	形声 Phonetic	3	トウ、たお-れる、たお-す		too	tao(reru), tao(su)	fall, collapse, drop; break down, die, succumb to; fall senseless; be ruined; have a bad debt	fall, collapse, drop; break down, die, succumb to; fall senseless; be ruined; have a bad debt. bring down, throw down, blow down, fell, knock down, trip up; defeat; ruin, overthrow; kill; leave unpaid; cheat	9	21
+熱	15	4	会意 Com. Ideographic	3	ネツ、あつ-い		netsu	atsu(i)	heat, warmth; temperature; fever; mania, fad; enthusiasm; passion	hot	8	1
+百	6	1	指事 Ideographic	5	ヒャク	もも	hyaku	-	hundred; a great number; all	-	3	0
+戻	7	7	会意 Com. Ideographic	3	レイ、もど-す、もど-る		rei	modo(ru), modo(su)	return, turn back; revert to, resume, return to; be returned; go backward	return, turn back; revert to, resume, return to; be returned; go backward. restore; turn back (a clock); reject; vomit	7	11
+船	11	2	形声 Phonetic	3	セン、ふね、[ふな]		sen	fune, [funa]	ship	boat, ship, vessel, steamer, liner, barge; shipping; tank, trough, cistern, vat	1	11
+講	17	5	形声 Phonetic	2	コウ		koo	-	lecture, club, association	-	3	0
+兆	6	4	象形 Pictographic	2	チョウ、きざ-す、きざ-し		choo	kiza(su), kiza(shi)	sign, omen, indication, portent; trillion	show a signs or symptoms of. signs, omen, symptoms	5	4
+愛	13	4	会意 Com. Ideographic	3	アイ	オ、いと、め	ai	-	love, affection, favorite	-	3	0
+頼	16	7	形声 Phonetic	3	ライ、たの-む、たの-もしい、たよ-る		rai	tano(mu), tano(moshii), tayo(ru)	ask, request, entreat, appeal; entrust to, commission; employ, call in; depend on, have recourse to, trust in	ask, request, entreat, appeal; entrust to, commission; employ, call in; depend on, have recourse to, trust in. rely on, have recourse to. reliable, trustworthy; hopeful	11	16
+辞	13	4	会意 Com. Ideographic	3	ジ、や-める		ji	ya(meru)	word, term, expression; sentence; an address	resign	5	1
+木	4	1	象形 Pictographic	5	ボク、モク、き、[こ]		boku, moku	ki, [ko]	tree, Thursday	tree; wood; timber; lumber; wooden clappers	2	6
+古	5	2	会意 Com. Ideographic	4	コ、ふる-い、ふる-す	いにしえ	ko	furu(i), furu(su)	old	old, aged, ancient, antiquated; stale, threadbare; outmoded, obsolete article	1	8
+六	4	1	仮借 Loan	5	ロク、む、む-つ、むっ-つ、[むい]	リク	roku	mu, mu(tsu), mut(tsu), [mui]	six	six	1	1
+像	14	5	形声 Phonetic	2	ゾウ	かた	zoo	-	image, statue, figure, picture, portrait	-	5	0
+根	10	3	形声 Phonetic	2	コン、ね		kon	ne	root (of a plant); root, radical (in science and math); stamina	root; base (of a hill); head (of a boil); origin; foundation; peak	4	6
+印	6	4	会意 Com. Ideographic	2	イン、しるし		in	shirushi	seal, stamp, mark	sign, mark; symbol, emblem; badge; evidence; souvenir; token; brand, trademark; signs, indications; omen; seal	3	14
+花	7	1	形声 Phonetic	4	カ、はな	ケ、ゲ、あや	ka	hana	flower	flower, blossom; cherry blossoms; essence, spirit, pride; pearl; youth; best days; beautiful woman, flower arrangement; flower-card game	1	12
+越	12	7	形声 Phonetic	3	エツ、こ-す、こ-える	オチ、エチ、オッ	etsu	ko(su), ko(eru)	cross; pass; spend; tide over; outrun; exceed; surpass; move; go; come	cross; pass; spend; tide over; outrun; exceed; surpass; move; go; come; go beyond; exceed; clear (an obstacle); overstep (authority)	10	14
+版	8	5	形声 Phonetic	2	ハン		han	-	printing block or plate; printing; edition, impression; board; label	-	6	0
+細	11	2	形声 Phonetic	2	サイ、ほそ-い、ほそ-る、こま-か、こま-かい	ささ	sai	hoso(i), hoso(ru), koma(ka), koma(kai)	get thin; taper off	get thin; taper off. fine (line); thin (voice); slender; narrow (trousers). small, fine; detailed; minor, trifling; elaborate, delicate; stingy, frugal; small (change)	2	16
+郵	11	6	会意 Com. Ideographic	2	ユウ		yuu	-	stagecoach stop; mail	-	2	0
+彼	8	7	仮借 Loan	3	ヒ、かれ、[かの]	か	hi	kare, [kano]	he; that	he. that, the	2	3
+欠	4	4	形声 Phonetic	3	ケツ、か-ける、か-く	あくび	ketsu	ka(keru), ka(ku)	lack, gap	lack; break, crack, chip; neglect; fail in; omit; be broken (off), be chipped; lack, be missing; wane; be vacant (a position)	2	13
+損	13	5	会意 Com. Ideographic	2	ソン、そこ-なう、そこ-ねる		son	soko(nau), soko(neru)	loss; disadvantage, handicap	harm, hurt, injure, damage, mar; lose, oppress	3	7
+更	7	7	会意 Com. Ideographic	3	コウ、さら、ふ-ける、ふ-かす	が	koo	sara, fu(keru), fu(kasu)	a watch of the night	sit up late. get late; grow old; reach the height of the season. again; after all; more and more	1	7
+便	9	4	会意 Com. Ideographic	3	ベン、ビン、たよ-り		ben, bin	tayo(ri)	convenience, facility; excreta, stools; evacuation. chance; mail, letter	news, tidings; connection	8	3
+厚	9	5	会意 Com. Ideographic	2	コウ、あつ-い		koo	atsu(i)	very thick; heavy	thick; kind, cordial	2	3
+赤	7	1	会意 Com. Ideographic	4	セキ、[シャク]、あか、あか-い、あか-らむ、あか-らめる		seki, [shaku]	aka, aka(i), aka(ramu), aka(rameru)	red, crimson, scarlet	red, crimson, scarlet, Communist, Red. become red. blush, redden	3	8
+余	7	5	形声 Phonetic	3	ヨ、あま-る、あま-す		yo	ama(ru), ama(su)	I, myself, the writer; surplus, other; remainder. over, more than	remain, be in excess, be too many. leave, spare, save	8	6
+並	8	6	会意 Com. Ideographic	2	ヘイ、なみ、なら-べる、なら-ぶ、なら-びに	な	hei	nami, mara(beru), nara(bu), nara(bini)	line up, be in a row; rank with, rival, equal	line up, be in a row; rank with, rival, equal. arrange, place in order, marshal, put side by side, display, serve (food); enumerate; compare with. common, ordinary, average. and, besides, as well as	5	19
+婦	11	5	形声 Phonetic	3	フ		fu	-	woman; wife; bride	-	3	0
+募	12	7	形声 Phonetic	2	ボ、つの-る		bo	tsuno(ru)	gather (contributions); campaign (for students); float (a loan); enlist (troops); grow violent	gather (contributions); campaign (for students); float (a loan); enlist (troops); grow violent	5	5
+了	2	7	象形 Pictographic	2	リョウ		ryoo	-	finish, complete; understand	-	3	0
+軽	12	3	形声 Phonetic	3	ケイ、かる-い、かろ-やか	キン	kei	karu(i), karo(yaka)	light; trifling, unimportant; simple, easy; plain or light (meal); undignified	light; trifling, unimportant; simple, easy; plain or light (meal); undignified	7	7
+劇	15	6	会意 Com. Ideographic	2	ゲキ	はげ	geki	-	drama, play	-	2	0
+島	10	3	会意 Com. Ideographic	2	トウ、しま		too	shima	island	island	1	1
+刊	5	5	形声 Phonetic	2	カン		kan	-	publishig; carve, engrave	-	3	0
+央	5	3	象形 Pictographic	2	オウ	ヨウ、つ	oo	-	middle	-	1	0
+武	8	5	会意 Com. Ideographic	2	ブ、ム		bu, mu	-	military affairs, military arts, chivalry, military glory, military power, arms	-	6	0
+絶	12	5	形声 Phonetic	3	ゼツ、た-える、た-やす、た-つ		zetsu	ta(eru), ta(yasu), ta(tsu)	be beyond (words)	become extinct, die out, discontinue, end, fail, peter out. exterminate, root out; run out of (stock); let (a fire) go out. sever, cut off; shut off, interrupt; abstain from; eradicate; suppress	1	17
+横	15	3	形声 Phonetic	3	オウ、よこ		oo	yoko	horizontal	side, flank; horizontal direction; width, breadth, beam; woof	1	7
+許	11	5	形声 Phonetic	3	キョ、ゆる-す	コ、もと	kyo	yuru(su)	permit, approve; authorize; acknowledge; confide in; forgive, pardon; release, acquit; overlook	permit, approve; authorize; acknowledge; confide in; forgive, pardon; release, acquit; overlook	10	10
+庁	5	6	形声 Phonetic	2	チョウ		choo	-	government office	-	1	0
+途	10	7	形声 Phonetic	3	ト	ズ	to	-	way, road	-	2	0
+層	14	6	形声 Phonetic	2	ソウ		soo	-	(social) class; stratum, layer, seam, bed, formation; story, floor; course (of stones)	-	9	0
+善	12	6	会意 Com. Ideographic	2	ゼン、よ-い		zen	yo(i)	good, goodness, right, virtue	good, good-natured; pleasing; precious; noble; lovely, beautiful, fine; lucky; efficacious; right; suitable; justifiable; appropriate, satisfactory; better; all right; unnecessary; no objection; intimate, friendly; easy; well; desirous	4	24
+停	11	4	形声 Phonetic	2	テイ		tei	-	stopping	-	1	0
+留	10	5	会意 Com. Ideographic	3	リュウ、[ル]、と-める、と-まる		ryuu, [ru]	to(meru), to(maru)	stop, halt, stand still, pull up; cease, be interrupted, be discontinued; be choked; alight on, perch, roost; be held in position	stop, halt, stand still, pull up; cease, be interrupted, be discontinued; be choked; alight on, perch, roost; be held in position. check; allay (pain); fasten; turn off; detain; forbid to do; dissuade	12	19
+九	2	1	象形 Pictographic	5	キュウ、ク、ここの、ここの-つ		kyuu, ku	kokono, kokono(tsu)	nine	nine	1	1
+星	9	2	形声 Phonetic	2	セイ、[ショウ]、ほし		sei, [shoo]	hoshi	star	star; spot, dot, mark; bull's eye; one's fortune; point, score	1	8
+航	10	4	形声 Phonetic	2	コウ		koo	-	navigation; cross over	-	2	0
+陸	11	4	形声 Phonetic	2	リク	ロク、おか、くが	riku	-	land	-	1	0
+散	12	4	会意 Com. Ideographic	3	サン、ち-る、ち-らす、ち-らかす、ち-らかる		san	chi(ru), chi(rasu), chi(rakasu), chi(rakaru)	scatter, disperse; spend, squander; dispel, dissipate, chase away	fall, scatter, be scattered, be shed; disperse; (rumor) spreads; run, spread, blur. dissipate (fog); dispel; take down or loosen (the hair); rout; distribute (handbills); distract (attention); splash on (a pattern). scatter (around), disarrange, leave untidy. lie scattered around, be in disorder	7	21
+浮	10	7	形声 Phonetic	3	フ、う-く、う-かれる、う-かぶ、う-かべる		fu	u(ku), u(kareru), u(kabu), u(kaberu)	float, be floated, rise to the surface; be cheered up; be set on edge, feel loose (teeth); be left over, be saved	float, be floated, rise to the surface; be cheered up; be set on edge, feel loose (teeth); be left over, be saved. launch, sail (a toy ship), refloat; waft; express (feelings in the face); recall. surface; flit across (the face), occur to; play (about the lips, as a smile); rise in the world; rest in peace. be in high spirits, go on a spree	8	22
+替	12	7	会意 Com. Ideographic	2	タイ、か-える、か-わる		tai	ka(eru), ka(waru)	change, turn, convert, exchange, renew, substitute, replace	change, turn, convert, exchange, renew, substitute, replace. relieve	7	8
+暴	15	5	会意 Com. Ideographic	2	ボウ、[バク]、あば-く、あば-れる		boo, [baku]	aba(ku), aba(reru)	violence, force, outrage, cruelty	rage, rave, fret; buck. unearth, disclose, rave, divulge, reveal; open (a grave)	4	10
+芸	7	4	会意 Com. Ideographic	2	ゲイ	ゲ	gei	-	art, craft; artistic accomplishment; performance, acting; trick, stunt, feat	-	8	0
+角	7	2	象形 Pictographic	2	カク、かど、つの	すみ、ずみ	kaku	kado, tsuno	angle; corner; square; squared timber; target	corner, angle; edge; angularity; harshness; horn, feeler, tentacle	5	8
+曲	6	3	象形 Pictographic	3	キョク、ま-がる、ま-げる	くせ	kyoku	ma(garu), ma(geru)	music, tone, melody, composition; fault	bend, curve, swerve; be crooked; turn; be awry; be perverse; lean; decline; bow; distort; depart from (principles); pawn	5	13
+般	10	7	会意 Com. Ideographic	2	ハン		han	-	carry; all	-	2	0
+逃	9	7	形声 Phonetic	3	トウ、に-げる、に-がす、のが-す、のが-れる		too	ni(geru), ni(gasu), noga(su), noga(reru)	flee, run away, escape; shirk, evade, back out	flee, run away, escape; shirk, evade, back out. let go, set free, let escape, miss (a chance). avoid	6	11
+乱	7	6	会意 Com. Ideographic	2	ラン、みだ-れる、みだ-す		ran	mida(reru), mida(su)	riot, rebellion, war	put in disorder; disturb, agitate; corrupt; derange (the mind). be out of order, be confused; be disturbed, be disorganized; be demoralized, be lax; be disheveled	3	12
+短	12	3	形声 Phonetic	3	タン、みじか-い		tan	mijika(i)	shortness, brevity; fault, defect, demerit, weak point	short, brief	6	2
+居	8	5	会意 Com. Ideographic	3	キョ、い-る	コ、ゴ、お	kyo	i(ru)	residence	be, exist; be found in, stay in; inhabit; live with, reside; be present; remain (sitting)	1	9
+鉄	13	3	形声 Phonetic	2	テツ	くろがね	tetsu	-	iron, steel; reddish black, iron blue	-	4	0
+昇	8	7	形声 Phonetic	2	ショウ、のぼ-る		shoo	nobo(ru)	rise, ascend, go up, climb; go to (the capital); add up to; be promoted; advance (in price); sail up; come up (on the agenda)	rise, ascend, go up, climb; go to (the capital); add up to; be promoted; advance (in price); sail up; come up (on the agenda)	10	10
+友	4	2	会意 Com. Ideographic	5	ユウ、とも	ウ	yuu	tomo	friend, companion, pal	friend, companion, pal	3	3
+秋	9	2	会意 Com. Ideographic	4	シュウ、あき		shuu	aki	autumn	autumn	1	1
+固	8	4	会意 Com. Ideographic	2	コ、かた-める、かた-まる、かた-い		ko	kata(meru), kata(maru), kata(i)	harden, stiffen, solidify, set, settle, congeal, clot, curdle, conglomerate; get together; be devoted to; settle down (weather)	harden; tighten; freeze; curdle; strengthen; stabilize; defend, fortify; collect, amass; settle down, locate. stiffen, solidify, set, settle, congeal, clot, conglomerate; get together; be devoted to; hard, solid; tough, rigid; tight; steady, firm; strict; safe, reliable, upright; chaste, sonstant; stiff; bookish; classical; stubborn	12	38
+血	6	3	会意 Com. Ideographic	2	ケツ、ち		ketsu	chi	blood	blood, consanguinity	1	2
+旅	10	3	会意 Com. Ideographic	4	リョ、たび		ryo	tabi	journey; go around	journey	2	1
+占	5	7	会意 Com. Ideographic	2	セン、し-める、うらな-う		sen	shi(meru), urana(u)	occupy, hold, have, get, take (a seat)	occupy, hold, have, get, take (a seat). divine, forecast, augur	5	8
+息	10	3	会意 Com. Ideographic	3	ソク、いき	むすこ、やす	soku	iki	son; interest (on money)	breath, respiration	2	2
+肉	6	2	象形 Pictographic	4	ニク		niku	-	flesh, muscles; meat; the flesh; seal pad, ink pad; thickness, succulence	-	8	0
+測	12	5	形声 Phonetic	2	ソク、はか-る		soku	haka(ru)	measure, gauge, weigh; fathom, sound; compute, estimate	measure, gauge, weigh; fathom, sound; compute, estimate	7	7
+冷	7	4	形声 Phonetic	3	レイ、つめ-たい、ひ-える、ひ-や、ひ-やす、ひ-やかす、さ-める、さ-ます		rei	tsume(tai), hi(eru), hi(ya), hi(yasu), hi(yakasu), sa(meru), sa(masu)	cold, cool	cool down, grow cold; feel chilly. cool, refrigerate. cool (in water or ice); banter, make fun, speak playfully, tease; window-shop, look in at a shop. get cold; abate, subside; dampen, cool down (interest); come down (interest, enthusiasm, etc.), let cool; throw a damper on, spoil. cold drinking water. cold, chilly, icy, freezing; cold hearted	2	27
+痛	12	6	形声 Phonetic	3	ツウ、いた-い、いた-む、いた-める		tsuu	ita(i), ita(mu), ita(meru)	pain	feel a pain, hurt; be hurt, be damaged, be spoiled, be bruised, wear out, be worn out. injure, impair, spoil, worry, bother, afflict, cause pain. painful, sore; trying	1	18
+均	7	5	形声 Phonetic	2	キン	ひと	kin	-	to level, to average	-	2	0
+川	3	1	象形 Pictographic	5	セン、かわ		sen	kawa	river, stream, brook	river, stream, brook	3	3
+司	5	4	会意 Com. Ideographic	2	シ	ス、ズ、つかさど、つかさ	shi	-	official; government office	-	2	0
+複	14	5	形声 Phonetic	2	フク		fuku	-	double, compound, composite, multiple	-	4	0
+節	13	4	形声 Phonetic	2	セツ、[セチ]、ふし		setsu, [sechi]	fushi	season, period, occasion, time; verse, clause, paragraph, section, stanza; integrity, honor	joint, knuckle; knob, lump, knot; tune, melody; point (in a talk)	11	8
+抱	8	7	形声 Phonetic	3	ホウ、だ-く、いだ-く、かか-える		hoo	da(ku), ida(ku), kaka(eru)	hug, embrace, hold in the arms; sit (on eggs)	hug, embrace, hold in the arms; sit (on eggs). entertain (hope); cherish (a desire); harbor (malice); hold, have. hold or carry under or in the arms	4	10
+辺	5	4	形声 Phonetic	2	ヘン、あた-り、べ	ふち、は、へ	hen	ata(ri), be	side; boundary, border; beach; region, district, rural areas; vicinity; approximation	vicinity	9	1
+令	5	4	象形 Pictographic	2	レイ	リョウ	rei	-	order, command; ordinance, law, decree	-	5	0
+波	8	3	形声 Phonetic	2	ハ、なみ		ha	nami	wave	wave, billows	1	2
+築	16	5	形声 Phonetic	2	チク、きず-く		chiku	kizu(ku)	build, construct	build, construct	2	2
+普	12	7	会意 Com. Ideographic	2	フ	あまね	fu	-	widely, generally	-	2	0
+遅	12	7	形声 Phonetic	3	チ、おく-れる、おく-らす、おそ-い		chi	oku(reru), oku(rasu), oso(i)	be late, be delayed, be overdue; lag behind; (clocks) lose	be late, be delayed, be overdue; lag behind; (clocks) lose. retard, delay, defer. late; slow	5	10
+招	8	5	形声 Phonetic	3	ショウ、まね-く		shoo	mane(ku)	beckon to, invite, summon; engage (someone), call (a doctor); incur, cause	beckon to, invite, summon; engage (someone), call (a doctor); incur, cause	7	7
+裏	13	6	形声 Phonetic	2	リ、うら		ri	ura	inside	reverse, wrong side; undersurface, inside; palm, sole; opposite; back, rear; lining, last half (of an inning)	1	11
+曜	18	2	形声 Phonetic	4	ヨウ		yoo	-	day of the week; light; shining	-	3	0
+植	12	3	形声 Phonetic	2	ショク、う-える、う-わる		shoku	u(eru), u(waru)	planting	plant, set out, raise, sow; set type. be planted	1	6
+徒	10	4	形声 Phonetic	3	ト	いたず、かち	to	-	party, set, gang, companions; people	-	5	0
+倍	10	3	形声 Phonetic	2	バイ	ベ	bai	-	double, twice; times, -fold	-	4	0
+混	11	5	形声 Phonetic	2	コン、ま-じる、ま-ざる、ま-ぜる、こ-む		kon	ma(jiru), ma(zaru), ma(zeru), ko(mu)	mix; blend; adulterate; confound, confuse	mix, blend, mingle; include, let in on. be mixed, be blended; mingle with	5	8
+千	3	1	形声 Phonetic	5	セン、ち		sen	chi	thousand, many	thousand, many	2	2
+底	8	4	形声 Phonetic	2	テイ、そこ		tei	soko	bottom, base; kind, sort	bottom; sole; depth, bowels (of the earth); bottom price	4	5
+卒	8	4	象形 Pictographic	2	ソツ		sotsu	-	graduate, soldier, private	-	3	0
+恐	10	7	形声 Phonetic	3	キョウ、おそ-れる、おそ-ろしい		kyoo	oso(reru), oso(roshii)	fear, dread, be afraid; be overawed; be apprehensive	fear, dread, be afraid; be overawed; be apprehensive; terrible, awful, fierce; tremendous, marvelous	5	10
+困	7	6	象形 Pictographic	3	コン、こま-る		kon	koma(ru)	be distressed be in trouble, be destitute, be embarrassed, be perplexed, be annoyed	be distressed be in trouble, be destitute, be embarrassed, be perplexed, be annoyed	5	5
+服	8	3	形声 Phonetic	4	フク		fuku	-	dress, costume, clothes, garment, suit, uniform	-	6	0
+賛	15	5	会意 Com. Ideographic	3	サン		san	-	praise; title or brief inscription on picture; agreement	-	3	0
+暮	14	6	形声 Phonetic	3	ボ、く-れる、く-らす		bo	ku(reru), ku(rasu)	live, make a living; spend (one's time)	live, make a living; spend (one's time). get dark; (the sun) sets; (the season) ends; (time) passes; be overwhelmed	3	8
+伸	7	7	形声 Phonetic	2	シン、の-びる、の-ばす、の-べる		shin	no(biru), no(basu), no(beru)	stretching	extend, lengthen, stretch, spread; be postponed; increase; grow; progress, develop; be straightened, be flattened, be smoothed; be exhausted. let (nails) grow; straighten; uncoil; spread out; reach out; postpone; dilute; smooth out; develop (talents); amass (riches). make (a bed); widen	1	25
+束	7	4	象形 Pictographic	3	ソク、たば	つか、づか	soku	taba	bundle, sheaf, ream (of paper)	bundle, bunch, sheaf, coil	3	4
+絡	12	7	形声 Phonetic	2	ラク、から-む、から-まる、から-める		raku	kara(mu), kara(maru), kara(meru)	coil around, get twisted; stick to; pick a quarrel	coil around, get twisted; stick to; pick a quarrel. twine around. get caught in; be urged on by	4	7
+遊	12	3	形声 Phonetic	3	ユウ、[ユ]、あそ-ぶ		yuu, [yu]	aso(bu)	play; enjoy oneself; visit; take a holiday; be out of use, be unemployed, be idle; study under; go on a spree	play; enjoy oneself; visit; take a holiday; be out of use, be unemployed, be idle; study under; go on a spree	9	9
+雑	14	5	形声 Phonetic	3	ザツ、ゾウ		zatsu, zoo	-	miscellany; miscellaneous	-	2	0
+承	8	5	会意 Com. Ideographic	2	ショウ、うけたまわ-る	う	shoo	uketamawa(ru)	receive, accept, take, get, obtain; catch (a ball); stop (a blow), parry; answer (the phone); undergo (an operation); take (an exam); sustain (a loss); be exposed to (ridicule); face, front of; inherit; catch the public fancy	hear, listen to, be informed	17	3
+福	13	3	形声 Phonetic	3	フク		fuku	-	fortune, blessing, luck, wealth; food which has been offered to gods	-	5	0
+婚	11	7	形声 Phonetic	3	コン		kon	-	marriage	-	1	0
+絵	12	2	形声 Phonetic	3	カイ、エ		kai, e	-	picture, drawing, painting, sketch, illustration, cut, print	-	7	0
+届	8	6	会意 Com. Ideographic	2	とど-ける、とど-く		-	todo(keru), todo(ku)	-	reach, arrive, be received; be attentive, be realized. report, notice; forwarding, delivery	0	9
+港	12	3	形声 Phonetic	3	コウ、みなと		koo	minato	port, harbor	port, harbor	2	2
+骨	10	6	会意 Com. Ideographic	2	コツ、ほね		kotsu	hone	bone; remains; knack	bone; skeleton; frame; rib (of an umbrella); grit, backbone; effort, pains	3	8
+夢	13	5	会意 Com. Ideographic	3	ム、ゆめ		mu	yume	dream, vision; illusion, delusion; reverie	dream, vision; illusion, delusion; reverie	5	5
+刻	8	6	形声 Phonetic	3	コク、きざ-む		koku	kiza(mu)	time; carving, engraving, cutting	cut fine, chop up; mince, hash; carve (images); engrave (seals); chisel, cut, notch	4	8
+遠	13	2	形声 Phonetic	3	エン、[オン]、とお-い		en, [on]	too(i)	far, distant, remote; hard (of hearing)	far, distant, remote; hard (of hearing)	4	4
+則	9	5	会意 Com. Ideographic	2	ソク	のっと、すなわ、のり	soku	-	follow (precedent), be based on, go by; live up to; model after; be in accordance with	-	6	0
+探	11	6	形声 Phonetic	3	タン、さぐ-る、さが-す		tan	sagu(ru), saga(su)	search, look for; explore; spy upon, sound out; probe (a wound)	search, look for; explore; spy upon, sound out; probe (a wound)	6	6
+飲	12	3	会意 Com. Ideographic	4	イン、の-む		in	no(mu)	drinking; feast	drink, taste, take; swallow, devour; smoke; conceal (a weapon); accept (an idea); despise	2	9
+太	4	2	形声 Phonetic	3	タイ、タ、ふと-い、ふと-る		tai, ta	futo(i), futo(ru)	get fat, gain, fill out	get fat, gain, fill out. big, thick, burly, fat; deep, sonorous (voice); shameless, audacious, insolent	3	12
+青	8	1	形声 Phonetic	4	セイ、[ショウ]、あお、あお-い		sei, [shoo]	ao, ao(i)	blue, green; green light	blue, green; green light, pale; unripe, green	3	6
+庭	10	3	形声 Phonetic	3	テイ、にわ		tei	niwa	yard, courtyard, garden	yard, courtyard, garden	3	3
+易	8	5	会意 Com. Ideographic	3	エキ、イ、やさ-しい	やす	i, eki	yasa(shii)	easiness; divination, augury, fortunetelling	easy, simple, light; habitual	4	4
+勤	12	6	形声 Phonetic	3	キン、[ゴン]、つと-める、つと-まる		kin, [gon]	tsuto(meru), tsuto(maru)	be fit for, be equal to, function properly	be fit for, be equal to, function properly; serve, fill a post, serve under; exert oneself, endeavor, work, be diligent; play (the part of)	3	11
+触	13	7	形声 Phonetic	2	ショク、ふ-れる、さわ-る		shoku	fu(reru), sawa(ru)	touching	touch, feel, hit, strike, graze; announce, proclaim, mention, refer to; conflict with, be contrary to	1	11
+希	7	4	象形 Pictographic	2	キ	ケ、こいねが、まれ	ki	-	Greece	-	1	0
+雇	12	7	形声 Phonetic	2	コ、やと-う		ko	yato(u)	employ, hire	employ, hire	2	2
+巻	9	6	会意 Com. Ideographic	2	カン、ま-く、まき	ケン	kan	ma(ku), maki	volume, book, part; reel	roll up; wind, coil; tie around; wind up; roll (of silk); volume, book; winding (of a clock)	4	9
+牛	4	2	象形 Pictographic	4	ギュウ、うし	ゴ	gyuu	ushi	beef, cow	cattle, cow, bull, ox	2	4
+盗	11	7	会意 Com. Ideographic	3	トウ、ぬす-む		too	nusu(mu)	thief	steal, rob, pilfer	1	3
+燃	16	5	形声 Phonetic	2	ネン、も-える、も-やす、も-す		nen	mo(eru), mo(yasu), mo(su)	burn	burn, blaze, glow	1	3
+願	19	4	形声 Phonetic	3	ガン、ねが-う		gan	nega(u)	prayer, petition, vow	desire, wish, hope; beg, implore	3	5
+喜	12	4	会意 Com. Ideographic	3	キ、よろこ-ぶ		ki	yoroko(bu)	rejoice, be glad, be pleased	rejoice, be glad, be pleased	3	3
+誌	14	6	形声 Phonetic	2	シ		shi	-	records; document; magazine	-	3	0
+努	7	4	形声 Phonetic	3	ド、つと-める		do	tsuto(meru)	serve, fill a post, serve under; exert oneself, endeavor, work, be diligent; play (the part of)	serve, fill a post, serve under; exert oneself, endeavor, work, be diligent; play (the part of)	8	8
+玉	5	1	象形 Pictographic	2	ギョク、たま		gyoku	tama	gem, jewel, precious stone, jade	ball, bowl, sphere, bulb; lens; gem, jewel, bullet, shot, shell; billiards; tool, cat’s paw; pretty girl; person; margin (in stocks); testicles	4	17
+焼	12	4	形声 Phonetic	2	ショウ、や-く、や-ける		shoo	ya(ku), ya(keru)	burning	set fire to, burn, fire; bake, roast (over a fire), toast, broil, parch; char, scorch, singe; cremate; print (photos); be envious of. be burnt, be burnt down; be roasted, be toasted, be grilled, be broiled; be scorched; be sunburnt; warm up, heat up (as a motor); be tarnished, fade; have heartburn; be jealous of; glow, be illuminated	1	30
+田	5	1	象形 Pictographic	4	デン、た	かり、がり	den	ta	rice field, paddy field	rice field, paddy field	2	2
+弱	10	2	会意 Com. Ideographic	3	ジャク、よわ-い、よわ-る、よわ-まる、よわ-める		jaku	yowa(i), yowa(ru), yowa(maru), yowa(meru)	weakness; the weak	weaken, be emaciated; be dejected; be perplexed. impair, enfeeble. weak, feeble, frail, tender; unskilled; weak (alcoholic beverage)	2	12
+紹	11	7	形声 Phonetic	2	ショウ		shoo	-	inherit, help	-	2	0
+康	11	4	会意 Com. Ideographic	2	コウ	やす	koo	-	peace	-	1	0
+閉	11	6	会意 Com. Ideographic	3	ヘイ、と-じる、と-ざす、し-める、し-まる		hei	to(jiru), to(zasu), shi(meru), shi(maru)	shut, close	shut, close. lock, fasten; plunge (in grief)	2	5
+諸	15	6	形声 Phonetic	2	ショ	もろもろ	sho	-	many, several, various, all	-	4	0
+戸	4	2	象形 Pictographic	2	コ、と		ko	to	house; door; family; counter for houses	door	4	1
+詰	13	7	形声 Phonetic	2	キツ、つ-める、つ-まる、つ-む	なじ	kitsu	tsu(meru), tsu(maru), tsu(mu)	be pressed in, be packed, become close; be checkmated	be pressed in, be packed, become close; be checkmated; stuff, fill, pack, plug; place closely; write closely; sit closely; shorten; curtail; checkmate; keep doing; hold (one’s breath); attend (office); be stopped up, be blocked; be full, be stuffed; be shortened, contract; be hard up; be held up, be deadlocked	4	26
+老	6	4	会意 Com. Ideographic	3	ロウ、お-いる、ふ-ける		roo	o(iru), fu(keru)	aging, old age, old people	grow old	3	1
+酒	10	3	形声 Phonetic	3	シュ、さけ、[さか]		shu	sake, [saka]	sake, rice wine, alcoholic liquor	sake, rice wine, alcoholic liquor	3	3
+快	7	5	形声 Phonetic	2	カイ、こころよ-い		kai	kokoroyo(i)	pleasure, enjoyment	pleasant, agreeable, comfortable, refreshing, delightful; well (from illness)	2	6
+志	7	5	形声 Phonetic	2	シ、こころざ-す、こころざし		shi	kokoroza(su), kokorozashi	record; shilling; will, intention, motive; determination; aim; ambition, hopes; gift; kindness; offering (Buddhist)	plan, intend, aim at, aspire to, resolve, determine. will, intention, motive; determination; aim; ambition, hopes; gift; kindness; offering (Buddhist)	12	16
+列	6	3	会意 Com. Ideographic	3	レツ	つら	retsu	-	row, rank, tier, file, column, line; procession; queue	-	8	0
+迷	9	5	形声 Phonetic	3	メイ、まよ-う	マイ	mei	mayo(u)	be perplexed, be in doubt, hesitate, vacillate, go astray, err; be tempted; be infatuated; be misguided	be perplexed, be in doubt, hesitate, vacillate, go astray, err; be tempted; be infatuated; be misguided	9	9
+童	12	3	形声 Phonetic	2	ドウ、わらべ	わらわ	doo	warabe	child	child	1	1
+枚	8	6	会意 Com. Ideographic	2	マイ		mai	-	counter for thin flat things, page, leaf (of a book), sheet	-	4	0
+宿	11	3	会意 Com. Ideographic	3	シュク、やど、やど-る、やど-す	スク、シュ	shuku	yado, yado(ru), yado(su)	lodging, inn, post town, relay station, stage	lodge, dwell, live in; roost, be pregnant. keep (a guest); carry (a virus); conceive (a child). house, home, dwelling; address; inn, lodgings, shelter	5	15
+駐	15	7	形声 Phonetic	2	チュウ		chuu	-	stop, reside in	-	2	0
+仲	6	4	形声 Phonetic	2	チュウ、なか		chuu	naka	relation, relationship	relation, relationship	2	2
+欲	11	6	形声 Phonetic	3	ヨク、ほっ-する、ほ-しい		yoku	hos(suru), ho(shii)	covetousness; greed, passion, desire, craving, appetite	desire, want	6	2
+庫	10	3	会意 Com. Ideographic	2	コ、[ク]		ko, [ku]	-	storehouse	-	1	0
+緒	14	7	形声 Phonetic	3	ショ、[チョ]、お	いとぐち	sho, [cho]	o	beginning, inception; end	cord, strap, thong; clog cord; string	3	5
+刺	8	7	形声 Phonetic	2	シ、さ-す、さ-さる	とげ	shi	sa(su), sa(saru)	calling card	pierce, thrust, stab, prick; bite, sting; pin down; sew, stitch; put (a runner) out; pole (a boat); stick. be stuck	1	13
+折	7	4	会意 Com. Ideographic	3	セツ、お-る、おり、お-れる		setsu	o(ru), ori, o(reru)	break, snap, fracture, knock out (teeth); fold, turn down; bend; make (a paper toy); yield (oneself), give in	break, snap, fracture, knock out (teeth); fold, turn down; bend; make (a paper toy); yield (oneself), give in. breaking; small food box; time, occasion, juncture; opportunity. snap, break; be folded; submit; turn (to the left or right)	10	21
+誤	14	6	形声 Phonetic	3	ゴ、あやま-る		go	ayama(ru)	err, be mistaken; do wrong, mislead	err, be mistaken; do wrong; mislead	4	4
+雨	8	1	象形 Pictographic	5	ウ、あめ、[あま]		u	ame, [ama]	rain, fainfall	rain, rainfall	2	2
+借	10	4	形声 Phonetic	4	シャク、か-りる		shaku	ka(riru)	borrowing	borrow; have a loan; hire, rent	1	4
+依	8	7	会意 Com. Ideographic	2	イ、[エ]	よ	i, [e ]	-	depend on	-	1	0
+布	5	5	形声 Phonetic	2	フ、ぬの	ホ、し	fu	nuno	cloth	cloth	1	1
+冬	5	2	象形 Pictographic	4	トウ、ふゆ		too	fuyu	winter	winter	1	1
+悲	12	3	形声 Phonetic	3	ヒ、かな-しい、かな-しむ		hi	kana(shii), kana(shimu)	grieve, be sad, deplore, mourn for, regret	grieve, be sad, deplore, mourn for, regret. sad, pathetic, plaintive	5	8
+英	8	4	形声 Phonetic	4	エイ	はなぶさ、はな	ei	-	England, Britain; gifted person; wit	-	4	0
+筆	12	3	会意 Com. Ideographic	2	ヒツ、ふで		hitsu	fude	writing brush, paintbrush; writing, drawing, painting; the pen; handwriting, penmanship; literary work	writing brush, paintbrush; writing, drawing, painting; the pen; handwriting, penmanship; literary work	9	9
+夕	3	1	象形 Pictographic	4	セキ、ゆう		seki	yuu	evening	evening	1	1
+静	14	4	会意 Com. Ideographic	3	セイ、[ジョウ]、しず、しず-か、しず-まる、しず-める		sei, [joo]	shizu, shizu(ka), shizu(maru), shizu(meru)	quiet, peace, inactivity	get quiet, calm down, grow still; subside, die down, be suppressed. calm, pacify; soothe, alleviate; appease; suppress, quell. quiet, still, silent; placid; serene, peaceful; soft (rain); gentle (voice); graceful; slow (walk); deserted	3	24
+巨	5	7	象形 Pictographic	2	キョ	コ	kyo	-	big, large, great	-	3	0
+娘	10	7	形声 Phonetic	3	むすめ		-	musume	-	daughter, girl, young woman	0	3
+傾	13	7	形声 Phonetic	2	ケイ、かたむ-く、かたむ-ける		kei	katamu(ku), katamu(keru)	lean, incline, tilt, list, tip, careen, lurch	incline toward, tilt, slant, slope, lurch, heel over; be disposed to; trend toward, be prone to; go down (sun); wane, sink, decline; incline, list, bend, lean, tip, concentrate on; devote to; ruin; squander; empty	7	23
+洋	9	3	形声 Phonetic	4	ヨウ		yoo	-	ocean, sea, channel. foreign, Western, European	-	6	0
+簡	18	6	形声 Phonetic	2	カン	ケン	kan	-	brevity, simplicity	-	2	0
+律	9	6	形声 Phonetic	2	リツ、[リチ]		ritsu, [richi]	-	law, regulation; rhythm. Buddhist sect originating in the eighth century	-	4	0
+宝	8	6	形声 Phonetic	2	ホウ、たから	ホ、ボ	hoo	takara	treasure	treasure, valuables; wealth; jewels; mammon	1	5
+腕	12	7	形声 Phonetic	2	ワン、うで		wan	ude	arm	arm; ability, talent	1	3
+貨	11	4	形声 Phonetic	2	カ		ka	-	property, freight, goods	-	3	0
+札	5	4	会意 Com. Ideographic	2	サツ、ふだ		satsu	fuda	paper money, counter for bonds, etc	tag, placard; name plate; check; charm, (playing) card; tender, bid	2	8
+壁	16	7	形声 Phonetic	2	ヘキ、かべ		heki	kabe	wall; lining (of the stomach); fence; partition	wall	4	1
+君	7	3	会意 Com. Ideographic	3	クン、きみ		kun	kimi	mister (familiar)	you (familiar); ruler	1	2
+林	8	1	会意 Com. Ideographic	3	リン、はやし		rin	hayashi	forest	forest	1	1
+雪	11	2	象形 Pictographic	3	セツ、ゆき	そそ	setsu	yuki	snow, snowfall	snow, snowfall	2	2
+岸	8	3	形声 Phonetic	2	ガン、きし		gan	kishi	bank, shore, coast, brink	bank, shore, coast, brink	4	4
+封	9	7	会意 Com. Ideographic	2	フウ、ホウ		fuu, hoo	-	seal; sealing; closing. fief	-	4	0
+互	4	7	象形 Pictographic	3	ゴ、たが-い		go	taga(i)	mutually, reciprocally, together	mutually, reciprocally, together	3	3
+祭	11	3	会意 Com. Ideographic	2	サイ、まつ-る、まつ-り		sai	matsu(ru), matsu(ri)	offer prayers; celebrate; deify; enshrine; worship	offer prayers; celebrate; deify; enshrine; worship. festival, feast	5	7
+幸	8	3	象形 Pictographic	3	コウ、さいわ-い、さち、しあわ-せ	みゆき	koo	saiwa(i), sachi, shiawa(se)	happiness, fortune	happiness; blessing; good fortune. mercy	2	4
+章	11	3	象形 Pictographic	2	ショウ	あき	shoo	-	chapter; composition; poem; badge, mark, sign; design	-	7	0
+訓	10	4	形声 Phonetic	2	クン	キン	kun	-	Japanese reading (of a character); explanation of a character; lesson; regulation; rule	-	5	0
+悩	10	7	形声 Phonetic	2	ノウ、なや-む、なや-ます		noo	naya(mu), naya(masu)	distress, illness	worry, be troubled, be afflicted, be in pain. annoy, embarrass, afflict, worry, oppress, torment	2	10
+操	16	6	形声 Phonetic	2	ソウ、みさお、あやつ-る		soo	misao, ayatsu(ru)	manipulate, operate, steer; pull strings	manipulate, operate, steer; pull strings. chastity, virginity, constancy, fidelity, honor	4	9
+忘	7	6	形声 Phonetic	3	ボウ、わす-れる		boo	wasu(reru)	forget; be forgetful of; forget about; forget (an article)	forget; be forgetful of; forget about; forget (an article)	4	4
+包	5	4	象形 Pictographic	2	ホウ、つつ-む		hoo	tsutsu(mu)	wrap, pack up; cover with; dress in; conceal	wrap, pack up; cover with; dress in; conceal	5	5
+宇	6	6	形声 Phonetic	2	ウ		u	-	eaves; roof; house; heaven	-	4	0
+鳥	11	2	象形 Pictographic	4	チョウ、とり		choo	tori	bird	bird, chicken, fowl	1	3
+杯	8	7	形声 Phonetic	3	ハイ、さかずき		hai	sakazuki	cup, glass; toast, congratulatory cup; counter for cupfuls	wine glass, sake cup; chalice, cup	5	4
+薄	16	7	形声 Phonetic	2	ハク、うす-い、うす-める、うす-まる、うす-らぐ、うす-れる	すすき	haku	usu(i), usu(meru), usu(maru), usu(ragu), usu(reru)	thin, weak (tea), light, pale, faint, scanty, ungenerous	thin, weak (tea), light, pale, faint, scanty, ungenerous. dilute, weaken. thin out, fade, grow pale, be toned down, get dim, cool (emotions), abate, lessen, decline	7	18
+歯	12	3	形声 Phonetic	3	シ、は		shi	ha	tooth; age	tooth, cog, dent	2	3
+草	9	1	形声 Phonetic	3	ソウ、くさ		soo	kusa	grass; grass hand (writing); weeds; herbs, plants, pasture	grass; grass hand (writing); weeds; herbs, plants, pasture	6	6
+栄	9	4	形声 Phonetic	2	エイ、さか-える、は-え、は-える	ヨウ	ei	saka(eru), ha(e), ha(eru)	prosperity, glory, splendor, honor	prosper, flourish, thrive; glory; shine, be brilliant; look attractive	4	7
+吸	6	6	形声 Phonetic	3	キュウ、す-う		kyuu	su(u)	inhale; imbibe, sip; suck, suck out	inhale; imbibe, sip; suck, suck out	5	5
+貿	12	5	形声 Phonetic	2	ボウ		boo	-	exchange	-	1	0
+貸	12	5	形声 Phonetic	4	タイ、か-す		tai	ka(su)	lend; hire out, rent, lease; give credit to	lend; hire out, rent, lease; give credit to	5	5
+照	13	4	形声 Phonetic	2	ショウ、て-る、て-らす、て-れる		shoo	te(ru), te(rasu), te(reru)	shine	shine. shine on, shed light on, illuminate; compare with, be bashful	1	6
+臓	19	6	形声 Phonetic	2	ゾウ		zoo	-	viscera, bowels	-	2	0
+到	8	7	会意 Com. Ideographic	3	トウ	いた	too	-	go, proceed, come; arrive, reach, attain; result in, lead to	-	8	0
+弟	7	2	象形 Pictographic	4	テイ、[ダイ]、[デ]、おとうと		tei, [dai], [de]	otooto	younger brother, faithful service to those older; brotherly affection	younger brother	3	1
+汚	6	7	形声 Phonetic	2	オ、けが-す、けが-れる、けが-らわしい、よご-す、よご-れる、きたな-い		o	kega(su), kega(reru), kega(rawashii), yogo(su), yogo(reru), kitana(i)	make dirty, stain, pollute, defile, contaminate; disgrace, dishonor; rape	make dirty, stain, pollute, defile, contaminate; disgrace, dishonor; rape; get dirty; be defiled; be contaminated; filthy; unfair; soil; debauch; be stained, tarnish; dirty, filthy, unclean, soiled; shabby; indecent, obscene; base, sordid; stingy; foul	8	28
+暗	13	3	形声 Phonetic	3	アン、くら-い		an	kura(i)	dark	dark, gloomy, somber; dim, faint; ignorant	1	6
+賃	13	6	形声 Phonetic	2	チン		chin	-	hire, rent, wages, fare, freight, charge, fee	-	7	0
+丸	3	2	象形 Pictographic	2	ガン、まる、まる-い、まる-める		gan	maru, maru(i), maru(meru)	full (month); perfection; purity; the ship-name suffix anciently used after the name of a sword or a child	full (month); perfection; purity; the ship-name suffix anciently used after the name of a sword or a child; make round, round off, roll up, curl up; seduce; cajole; explain away; round, circular, spherical	4	14
+漁	14	4	形声 Phonetic	2	ギョ、リョウ	すなど、あさ	gyo, ryoo	-	fishing; fishery; catch, haul	-	4	0
+豊	13	5	象形 Pictographic	2	ホウ、ゆた-か	ブ	hoo	yuta(ka)	abundant, rich, fruitful	abundant, rich, fruitful	3	3
+贈	18	7	形声 Phonetic	2	ゾウ、[ソウ]、おく-る		zoo, [soo]	oku(ru)	present (something)	send, give to, award to, confer on	1	4
+蔵	15	6	形声 Phonetic	2	ゾウ、くら		zoo	kura	storehoure, warehouse, godown; cellar; depository, treasury; granary, elevator	storehoure, warehouse, godown; cellar; depository, treasury; granary, elevator	8	8
+仮	6	5	形声 Phonetic	2	カ、[ケ]、かり	たと	ka, [ke]	kari	(Buddhist) vanity	tempory, provisional; informal, unauthorized; fleeting; assumed (name); interim; acting; temporarily, provisionally; for example; for argument's sake; even for an instant; even as a joke	1	14
+森	12	1	会意 Com. Ideographic	3	シン、もり		shin	mori	woods, grove	woods, grove	2	2
+胸	10	6	形声 Phonetic	2	キョウ、むね、[むな]		kyoo	mune, [muna]	chest, breast, bosom; heart, mind, feelings	chest, breast, bosom; heart, mind, feelings	6	6
+浴	10	4	形声 Phonetic	2	ヨク、あ-びる、あ-びせる		yoku	a(biru), a(biseru)	bathe, be favored with; bask in	bathe in, pour on oneself, bask in, be flooded with, be under (fire); be accused of, be charged with, expose oneself to, be subjected to, receive (applause). pour on; subject to, impute to, deluge with	3	14
+預	13	5	形声 Phonetic	2	ヨ、あず-ける、あず-かる		yo	azu(keru), azu(karu)	place in custody, deposit, leave with, entrust with, commit to, give	place in custody, deposit, leave with, entrust with, commit to, give. take charge of; receive on deposit; undertake to do; call off (as a tie); refrain from; receive, enjoy	6	13
+翌	11	6	形声 Phonetic	2	ヨク		yoku	-	next, following	-	2	0
+柔	9	7	会意 Com. Ideographic	2	ジュウ、ニュウ、やわ-らか、やわ-らかい		juu, nyuu	yawa(raka), yawa(rakai)	weakness; gentleness; softness	soft, tender, plastic; limp; gentle; mellow	3	6
+埋	10	7	形声 Phonetic	2	マイ、う-める、う-まる、う-もれる		mai	u(meru), u(maru), u(moreru)	be filled up, be buried, be imbedded in	be filled up, be buried, be imbedded in. bury, inter, fill up, pour in, plug up, inlay; make up for. be covered; live in obscruity	3	12
+群	13	5	形声 Phonetic	2	グン、む-れる、む-れ、[むら]		gun	mu(reru), mu(re), [mura]	group, crowd, gang, herd, swarm, flock; common run	crowd, flock, swarm; group, herd, bevy, school; cluster (of stars); clump; swarming	7	10
+硬	12	7	形声 Phonetic	2	コウ、かた-い		koo	kata(i)	hard, solid; tough, rigid; tight; steady, firm; strict; safe, reliable, upright; chaste, constant; stiff; bookish; classical; stubborn	hard, solid; tough, rigid; tight; steady, firm; strict; safe, reliable, upright; chaste, constant; stiff; bookish; classical; stubborn	17	17
+泳	8	3	形声 Phonetic	3	エイ、およ-ぐ		ei	oyo(gu)	swim; totter; keep afloat, get along	swim; totter; keep afloat, get along	4	4
+捨	11	6	形声 Phonetic	2	シャ、す-てる		sha	su(teru)	throw away, discard, abandon, desert, give up; renounce, relinquish; resign; lay down (one's life); part with; sacrifice; reject, condemn	throw away, discard, abandon, desert, give up; renounce, relinquish; resign; lay down (one's life); part with; sacrifice; reject, condemn	13	13
+濃	16	7	形声 Phonetic	2	ノウ、こ-い		noo	ko(i)	dark, thick, undiluted	dark, deep; saturated; strong (drink); intimate; thick	3	6
+堂	11	4	形声 Phonetic	4	ドウ		doo	-	temple; shrine; hall; reception room; firm; state chamber. shop, store	-	8	0
+看	9	6	会意 Com. Ideographic	2	カン	み	kan	-	see	-	1	0
+茶	9	2	形声 Phonetic	4	チャ、サ	タ	cha, sa	-	tea; tea plant; tea leaves, light brown	-	4	0
+御	12	7	形声 Phonetic	3	ギョ、ゴ、おん	おさ、お、み	gyo, go	on	imperial honorary prefix; honorific prefix	honorific prefixes	2	1
+橋	16	3	形声 Phonetic	2	キョウ、はし		kyoo	hashi	bridge	bridge	1	1
+窓	11	6	形声 Phonetic	3	ソウ、まど		soo	mado	window	window	1	1
+床	7	7	形声 Phonetic	2	ショウ、とこ、ゆか		shoo	toko, yuka	bed, floor	bed; sickbed; floor; alcove; padding	2	5
+幼	5	6	象形 Pictographic	2	ヨウ、おさな-い		yoo	osana(i)	infancy, childhood; infants, children	infant	4	1
+陽	12	3	形声 Phonetic	3	ヨウ	あき、ひ、び	yoo	-	young principle, positive; male; heaven; daytime; sun; top; movement; facing the sun; sunshine; south face of a mountain; north side of a river; pride; positive electrode	-	14	0
+香	9	7	会意 Com. Ideographic	2	コウ、[キョウ]、か、かお-り、かお-る		koo, [kyoo]	ka, kao(ri), kao(ru)	incense, fragrance	smell, scent, odor; aroma, perfume, fragrance, flavor. be fragrant	2	8
+片	4	6	象形 Pictographic	2	ヘン、かた		hen	kata	leaf, sheet, petal, flake	one (eye, etc.); single (shift, etc.); one-way; one-sided	4	4
+似	7	5	形声 Phonetic	3	ジ、に-る		ji	ni(ru)	resemble	resemble	1	1
+洗	9	6	形声 Phonetic	3	セン、あら-う		sen	ara(u)	wash; inquire into, probe	wash, inquire into, probe	3	3
+乳	8	6	会意 Com. Ideographic	2	ニュウ、ちち、ち		nyuu	chichi, chi	milk; the breasts; loop	milk; the breasts; loop	3	3
+菜	11	4	形声 Phonetic	3	サイ、な		sai	na	side dish; greens; vegetables	greens; vegetables; the rape or mustard plant	3	3
+兄	5	2	会意 Com. Ideographic	4	ケイ、[キョウ]、あに		kei, [kyoo]	ani	brother; you; elder brother	elder brother	3	1
+寝	13	7	会意 Com. Ideographic	3	シン、ね-る、ね-かす		shin	ne(ru), ne(kasu)	sleeping; resting; bed	sleep; retire; be bedridden; lie down; lie idle; remain unsold. put to sleep; send to bed; lay down, let lie idle	3	10
+犬	4	1	象形 Pictographic	4	ケン、いぬ		ken	inu	dog	dog, spy	1	2
+拝	8	6	会意 Com. Ideographic	2	ハイ、おが-む		hai	oga(mu)	worship	worship, pray to, adore, reverence; look at (with reverence)	1	5
+肩	8	7	象形 Pictographic	2	ケン、かた		ken	kata	shoulder	shoulder	1	1
+荷	10	3	形声 Phonetic	2	カ、に		ka	ni	shoulder-pole load	load, baggage, freight, cargo; burden	1	5
+甘	5	7	象形 Pictographic	2	カン、あま-い、あま-える、あま-やかす	うま	kan	ama(i), ama(eru), ama(yakasu)	presume upon, take advantage of; coax	presume upon, take advantage of; coax; pamper, be indulgent, coddle; sweet; honeyed (words); lenient; half-witted; easy-going; soft, mild; loose; trashy, sentimental	3	16
+皮	5	3	象形 Pictographic	2	ヒ、かわ		hi	kawa	skin; hide; leather; fur, pelt; bark; peeling, husk, shell; film, cream	skin; hide; leather; fur, pelt; bark; peeling, husk, shell; film, cream	11	11
+敬	12	6	会意 Com. Ideographic	2	ケイ、うやま-う	キョウ	kei	uyama(u)	respect, honor, revere	respect, honor, revere, venerate	3	4
+双	4	7	会意 Com. Ideographic	2	ソウ、ふた		soo	futa	a pair; a set; comparison; counter for pairs		4	1
+液	11	5	形声 Phonetic	2	エキ		eki	-	liquid, fluid, juice, sap, secretion	-	5	0
+柱	9	3	形声 Phonetic	2	チュウ、はしら		chuu	hashira	cylinder, supports for strings on a lute; pillar, post	pillar, column, post, pole; support, prop, stay; sole support; counter for Shinto gods	4	9
+恋	10	7	形声 Phonetic	2	レン、こ-う、こい、こい-しい		ren	ko(u), koi, koi(shii)	be in love	be in love. love, tender sentiment. dear, beloved, darling	1	6
+祖	9	5	形声 Phonetic	3	ソ		so	-	ancestor, founder, originator, pioneer	-	4	0
+貧	11	5	会意 Com. Ideographic	3	ヒン、ビン、まず-しい		hin, bin	mazu(shii)	poverty	poor, destitute; meager	1	3
+富	12	5	形声 Phonetic	3	フ、[フウ]、と-む、とみ		fu, [fuu]	to(mu), tomi	enrich	be rich, become wealthy; teem with, abound in; be fruitful; be rife; be replete. wealth, mammon, fortune; resources; lottery	1	12
+久	3	5	象形 Pictographic	2	キュウ、[ク]、ひさ-しい		kyuu, [ku]	hisa(shii)	long, long continued, an old (story)	long, long continued, an old (story)	3	3
+怒	9	7	形声 Phonetic	3	ド、いか-る、おこ-る	ヌ	do	ika(ru), oko(ru)	become angry, be offended, become excited	become angry, be offended, become excited	3	3
+祝	9	4	会意 Com. Ideographic	2	シュク、[シュウ]、いわ-う	のりと、ほ	shuku, [shuu]	iwa(u)	celebration, congratulations,	celebration, festival, congratulations	2	3
+凍	10	7	形声 Phonetic	2	トウ、こお-る、こご-える		too	koo(ru), kogo(eru)	freeze, be frozen over; congeal	freeze, be frozen over; congeal. freeze, be chilled, be frozen	3	6
+鳴	14	2	会意 Com. Ideographic	3	メイ、な-く、な-る、な-らす		mei	na(ku), na(ru), na(rasu)	(animals and birds) cry, bark, chirp, etc,	(animals and birds) cry, bark, chirp, etc. sound, ring, roar; (thunder) rumbles; (clocks) strike; boom; resound, echo; be famous; (fingers) itch for; sonorous, ringing, squeaky. blow (a whistle), beat (drums), clank, clink, clap, crack (a whip), smack (lips), cluck (one's tongue), honk; air (grievances); attain (celebrity)	1	25
+皆	9	7	会意 Com. Ideographic	3	カイ、みな	みんな	kai	mina	all, everybody, everything	all, everybody, everything	3	3
+慣	14	5	形声 Phonetic	3	カン、な-れる、な-らす		kan	na(reru), na(rasu)	experience; become a habit	tame, charm (animals); train, exercise, drill; habituate, accustom to; get used to, become experienced; be tamed; get too familiar, mature	2	12
+炭	9	3	会意 Com. Ideographic	2	タン、すみ		tan	sumi	charcoal; coal	charcoal	2	1
+勉	10	3	形声 Phonetic	4	ベン	つと	ben	-	serve, fill a post, serve under; exert oneself, endeavor, work, be diligent; play (the part of)	-	8	0
+泊	8	7	形声 Phonetic	2	ハク、と-まる、と-める		haku	to(maru), to(meru)	(three-day) stay	stay at, put up at; ride at anchor. lodge a person	1	4
+臣	7	4	象形 Pictographic	2	シン、ジン	おみ	shin, jin	-	retainer, subject	-	2	0
+沈	7	7	形声 Phonetic	2	チン、しず-む、しず-める	ジン	chin	shizu(mu), shizu(meru)	aloes	sink, be submerged; subside, cave in; feel depressed, be overcome with. submerge, immerse	1	8
+毒	8	4	象形 Pictographic	2	ドク		doku	-	poison; virus, venom, germ, toxin; harm, injury; malice, spite	-	9	0
+砂	9	6	形声 Phonetic	2	サ、シャ、すな		sa, sha	suna	sand	sand	1	1
+純	10	6	形声 Phonetic	2	ジュン		jun	-	purity, innocence; net (profit)	-	3	0
+昼	9	2	会意 Com. Ideographic	4	チュウ、ひる		chuu	hiru	daytime, midday	daytime, midday, noon	2	3
+晴	12	2	形声 Phonetic	3	セイ、は-れる、は-らす		sei	ha(reru), ha(rasu)	clear up, (doubts) vanish, be refreshed	clear up; (doubts) vanish; be refreshed. dispel, clear away (gloom); refresh (oneself)	3	6
+昔	8	3	仮借 Loan	3	セキ、[シャク]、むかし		seki, [shaku]	mukashi	antiquity, old times	antiquity, old times	2	2
+孫	10	4	会意 Com. Ideographic	2	ソン、まご		son	mago	descendants	grandchild	1	1
+腹	13	6	形声 Phonetic	3	フク、はら		fuku	hara	belly, stomach	abdomen, belly, bowels, stomach; heart, mind; intention; courage, spirit, pluck; anger; womb; thickest or widest part	2	13
+煙	13	7	形声 Phonetic	3	エン、けむ-る、けむり、けむ-い		en	kemu(ru), kemuri, kemu(i)	smoke	smoke, smolder, be smoky; smoky; fumes; spray	1	6
+魚	11	2	象形 Pictographic	4	ギョ、うお、さかな		gyo	uo, sakana	fish	fish	1	1
+恵	10	7	形声 Phonetic	2	ケイ、エ、めぐ-む		kei, e	megu(mu)	blessing, grace, favor; kindness, mercy, benevolence, charity	bless; show mercy to, render benevolence to	7	3
+怖	8	7	形声 Phonetic	3	フ、こわ-い		fu	kowa(i)	fear, be frightened; be timid; get nervous	fearful, frightful, terrible, weird	4	4
+冊	5	6	象形 Pictographic	2	サツ、サク		satsu, saku	-	volume, book, letter; book counter	-	4	0
+衣	6	4	象形 Pictographic	2	イ、ころも	エ、きぬ、き、ぎぬ、ぎ	i	koromo	garment	clothes, robe; dressing; frosting; coating	1	5
+涙	10	7	形声 Phonetic	2	ルイ、なみだ		rui	namida	tear, sympathy	tear, sympathy	2	2
+疲	10	7	形声 Phonetic	3	ヒ、つか-れる		hi	tsuka(reru)	get tired, grow weary	get tired, grow weary	2	2
+礼	5	3	形声 Phonetic	3	レイ、ライ	あや	rei, rai	-	salutation, salute, bow, courtesy, propriety, ceremony, thanks, appreciation, remuneration, return present	-	10	0
+箱	15	3	形声 Phonetic	3	はこ		-	hako	-	box, case, chest, bin, coffer, railway car	0	6
+尊	12	6	会意 Com. Ideographic	2	ソン、たっと-い、とうと-い、たっと-ぶ、とうと-ぶ	みこと	son	tatto(i), tooto(i), tatto(bu), tooto(bu)	value, prize, esteem; respect, honor, revere	value, prize, esteem; respect, honor, revere; valuable, precious; noble, exalted, priceless, sacred	6	12
+眠	10	7	形声 Phonetic	3	ミン、ねむ-る、ねむ-い		min	nemu(ru), nemu(i)	sleep	sleep, die. sleepy, drowsy, lethargic	1	5
+粉	10	4	形声 Phonetic	2	フン、こ、こな		fun	ko,kona	dust, powder	flour, meal, powder	2	3
+掘	11	7	形声 Phonetic	2	クツ、ほ-る		kutsu	ho(ru)	dig, delve; core; excavate; sink (wells); dig up; scoop out; pick (the ear); probe	dig, delve; core; excavate; sink (wells); dig up; scoop out; pick (the ear); probe	9	9
+吹	7	7	会意 Com. Ideographic	3	スイ、ふ-く		sui	fu(ku)	breathe, blow; play (a wind instrument); emit; smelt; mint; brag	breathe, blow; play (a wind instrument); emit; smelt; mint; brag	7	7
+較	13	7	形声 Phonetic	2	カク	コウ、くら	kaku	-	compare, balance, contrast	-	3	0
+耳	6	1	象形 Pictographic	4	ジ、みみ		ji	mimi	ear	ear; edge, border; loop; selvage; bread crusts	1	6
+泉	9	6	象形 Pictographic	2	セン、いずみ		sen	izumi	spring, fountain (head), source	spring, fountain (head), source	3	3
+城	9	6	形声 Phonetic	2	ジョウ、しろ	セイ	joo	shiro	castle	castle, citadel	1	2
+河	8	5	形声 Phonetic	2	カ、かわ		ka	kawa	river, stream	river, stream	2	2
+腰	13	7	形声 Phonetic	2	ヨウ、こし		yoo	koshi	hips, waist, loins, pelvic region; small of the back; haunch; lower-panel wainscoting (lower wall only); stem (of a wine glass)	hips, waist, loins, pelvic region; small of the back; haunch; lower-panel wainscoting (lower wall only); stem (of a wine glass)	8	8
+軟	11	7	形声 Phonetic	2	ナン、やわ-らか、やわ-らかい		nan	yawa(raka), yawa(rakai)	soft	soft	1	1
+貯	12	4	形声 Phonetic	2	チョ	たくわ	cho	-	store, lay in stock, save, keep, wear (a mustache)	-	5	0
+奥	12	7	会意 Com. Ideographic	2	オウ、おく		oo	oku	heart, interior	heart, interior	2	2
+緑	14	3	形声 Phonetic	2	リョク、[ロク]、みどり		ryoku, [roku]	midori	green, verdure	green, verdure	2	2
+頂	11	6	形声 Phonetic	3	チョウ、いただ-く、いただき		choo	itada(ku), itadaki	head; top of the head; top, summit, peak; spire	be crowned with, wear; live under (a ruler); install (a president); receive, accept; buy; take, eat, drink	6	10
+喫	12	7	形声 Phonetic	2	キツ		kitsu	-	eat, drink, smoke; receive (a blow, etc.)	-	4	0
+卵	7	6	象形 Pictographic	2	ラン、たまご		ran	tamago	ovum	egg, spawn, roe; (an expert) in the making	1	4
+黄	11	2	象形 Pictographic	2	コウ、オウ、き、[こ]		koo, oo	ki, [ko]	yellow	yellow. turn yellow. yellow tint	1	3
+清	11	4	形声 Phonetic	2	セイ、[ショウ]、きよ-い、きよ-まる、きよ-める	シン、すず、す	sei, [shoo]	kiyo(i), kiyo(maru), kiyo(meru)	China, Manchu (dynasty)	purify, cleanse; consecrate; exorcise. be purified, be cleaned. clean, clear; pure, innocent; noble	2	11
+荒	9	7	形声 Phonetic	2	コウ、あら-い、あ-れる、あ-らす	すさ	koo	ara(i), a(reru), a(rasu)	rough, rude, wild, harsh, violent, gruff, fierce	rough, rude, wild, harsh, violent, gruff, fierce. be ruined, become stormy; tear around; get chapped. lay waste	7	12
+掃	11	7	形声 Phonetic	2	ソウ、は-く		soo	ha(ku)	sweep; brush; gather up	sweep; brush; gather up	3	3
+漢	13	3	形声 Phonetic	4	カン		kan	-	Han (Dynasty); (old name for China), masculine suffix	-	3	0
+羽	6	2	象形 Pictographic	2	ウ、は、はね	わ	u	ha, hane	feather	feather; plumage, wing; blade, paddle, fan	1	6
+袋	11	7	形声 Phonetic	2	タイ、ふくろ		tai	fukuro	bag; bag counter	bag, sack, pouch	2	3
+郊	9	7	形声 Phonetic	2	コウ		koo	-	suburbs; rural area	-	2	0
+姉	8	2	形声 Phonetic	4	シ、あね		shi	ane	elder sister	elder sister	1	1
+妹	8	2	形声 Phonetic	4	マイ、いもうと		mai	imooto	younger sister	younger sister	1	1
+鋭	15	7	形声 Phonetic	2	エイ、するど-い		ei	surudo(i)	sharpness; edge; (sharp) weapon; picked men (soldiers), the pick	pointed, sharp; violent, scathing; keen (sense); sharp (ear); penetrating (eye); shrewd	5	8
+湯	12	3	形声 Phonetic	2	トウ、ゆ	タン	too	yu	hot water	hot water, hot bath, hot spring	1	3
+干	3	6	象形 Pictographic	2	カン、ほ-す、ひ-る		kan	ho(su), hi(ru)	parch, get dry; ebb, recede	parch, get dry; ebb, recede; dry; desiccate; drain (off); drink up; dry up	4	6
+虫	6	1	会意 Com. Ideographic	2	チュウ、むし		chuu	mushi	worm, vermin, bug, insect; temper; nervousness, peevishness; bad company	worm, vermin, bug, insect; temper; nervousness, peevishness; bad company	8	8
+塩	13	4	形声 Phonetic	2	エン、しお		en	shio	salt	salt, seasoning	1	2
+珍	9	7	形声 Phonetic	2	チン、めずら-しい		chin	mezura(shii)	rare, curious, strange	new, novel, rare, strange, curious, unusual; nice (gift)	3	7
+毛	4	2	象形 Pictographic	2	モウ、け	モ	moo	ke	hair, tenth of a rin	hair, fur, feather, down	2	4
+銅	14	5	形声 Phonetic	2	ドウ		doo	-	copper	-	1	0
+猫	11	7	形声 Phonetic	3	ビョウ、ねこ	ミョウ	byoo	neko	cat	cat	1	1
+髪	14	7	形声 Phonetic	3	ハツ、かみ		hatsu	kami	the hair	the hair	1	1
+谷	7	2	象形 Pictographic	2	コク、たに	きわ	koku	tani	valley, dale, ravine; trough (of a wave); trough (in atmospheric pressure)	valley, dale, ravine; trough (of a wave); trough (in atmospheric pressure)	5	5
+踊	14	7	形声 Phonetic	2	ヨウ、おど-る、おど-り		yoo	odo(ru), odo(ri)	dance; leap, skip; throb (the heart); act as a cat's-paw; double (the interest on a debt)	dance; leap, skip; throb (the heart); act as a cat's-paw; double (the interest on a debt). dancing; step	6	8
+才	3	2	象形 Pictographic	3	サイ		sai	-	ability, talent, aptitude, genius, acumen, intelligence, wit; cubic foot; year, age; time; occasion; opportunity; limit; vicinity	-	15	0
+湾	12	7	形声 Phonetic	2	ワン	ま	wan	-	gulf, bay, inlet	-	3	0
+刷	8	4	会意 Com. Ideographic	2	サツ、す-る	はけ、ばけ	satsu	su(ru)	print	print	1	1
+寺	6	2	形声 Phonetic	2	ジ、てら	シ	ji	tera	temple	temple	1	1
+棒	12	6	形声 Phonetic	2	ボウ		boo	-	stick, cane, rod, pole, stake, pile, club, bar; line, dash	-	10	0
+池	6	2	形声 Phonetic	3	チ、いけ		chi	ike	pond, pool, cistern, basin, reservoir	pond, pool, cistern, basin, reservoir	5	5
+寒	12	3	会意 Com. Ideographic	3	カン、さむ-い		kan	samu(i)	midwinter, coldest season	cold, chilly	2	2
+勇	9	4	形声 Phonetic	2	ユウ、いさ-む	ユ	yuu	isa(mu)	bravery,courage, heroism	cheer up, be in high spirits	3	2
+祈	8	7	形声 Phonetic	2	キ、いの-る		ki	ino(ru)	pray; wish	pray; wish	2	2
+雲	12	2	形声 Phonetic	2	ウン、くも		un	kumo	cloud	cloud	1	1
+殿	13	7	会意 Com. Ideographic	2	デン、テン、との、どの	しんがり	den, ten	tono, dono	hall, mansion, palace, temple, rear guard	mister. lord; mansion, place. Mr.	5	5
+綿	14	5	会意 Com. Ideographic	2	メン、わた		men	wata	cotton; cotton thread; cotton cloth	cotton, cotton wool	3	2
+紅	9	6	形声 Phonetic	2	コウ、[ク]、べに、くれない		koo, [ku]	beni, kurenai	red, crimson	red, crimson; rouge, lipstick. deep red, crimson	1	6
+氷	5	3	象形 Pictographic	2	ヒョウ、こおり、ひ	こお	hyoo	koori, hi	freeze; be frozen over; congeal	ice; shaved ice. hail	3	3
+永	5	5	象形 Pictographic	2	エイ、なが-い		ei	naga(i)	long, lengthy	long, lengthy	2	2
+暑	12	3	形声 Phonetic	3	ショ、あつ-い		sho	atsu(i)	summer heat	hot, warm, sultry	1	3
+咲	9	7	形声 Phonetic	2	さ-く		-	sa(ku)	-	bloom, blossom	0	2
+脂	10	7	形声 Phonetic	2	シ、あぶら		shi	abura	fat, rouge	fat, grease, tallow, blubber, lard, suet	2	6
+灯	6	4	形声 Phonetic	2	トウ、ひ	ドン、ともしび、あかし	too	hi	lamp, light; counter for lights	a light	3	1
+叫	6	7	形声 Phonetic	2	キョウ、さけ-ぶ		kyoo	sake(bu)	shout, exclaim, cry, yell, roar, howl; cry for, clamor for, advocate	shout, exclaim, cry, yell, roar, howl; cry for, clamor for, advocate	9	9
+辛	7	7	象形 Pictographic	2	シン、から-い	つら、づら	shin	kara(i)	H, eighth	hot, acrid, sharp; salty; bitter, trying; harsh, severe	2	8
+械	11	4	形声 Phonetic	2	カイ		kai	-	fetters; machine; instrument	-	3	0
+竹	6	1	象形 Pictographic	2	チク、たけ		chiku	take	bamboo	bamboo; bamboo wind instrument	1	2
+匹	4	7	象形 Pictographic	2	ヒツ、ひき	ピキ	hitsu	hiki	head, counter (small animals); roll of cloth	head, counter (small animals); roll of cloth	3	3
+鉱	13	5	形声 Phonetic	2	コウ	あらがね	koo	-	ore	-	1	0
+晩	12	6	形声 Phonetic	3	バン		ban	-	evening, night; the end of all things; late	-	4	0
+岩	8	2	象形 Pictographic	2	ガン、いわ		gan	iwa	rock, crag; reef	rock, crag; reef	3	3
+乾	11	7	会意 Com. Ideographic	2	カン、かわ-く、かわ-かす	いぬい、ほ、ぼ	kan	kawa(ku), kawa(kasu)	heaven; emperor	dry, dry up; be dry; desiccate	2	4
+飯	12	4	形声 Phonetic	4	ハン、めし	いい	han	meshi	cooked rice; meal; food	cooked rice; meal; food, livelihood	3	4
+塗	13	7	形声 Phonetic	2	ト、ぬ-る	まみ	to	nu(ru)	paint; plaster; daub, lacquer	paint; plaster; daub, lacquer	4	4
+肌	6	7	形声 Phonetic	2	はだ	キ	-	hada	-	skin, body; grain, texture; disposition	0	5
+詞	12	6	形声 Phonetic	2	シ	ことば	shi	-	words; poetry	-	2	0
+拾	9	3	形声 Phonetic	2	シュウ、ジュウ、ひろ-う		shuu, juu	hiro(u)	ten	pick up, gather; find; set (type); go on foot	1	5
+仏	4	5	形声 Phonetic	2	ブツ、ほとけ	フツ	butsu	hotoke	Buddha, Buddhism	Buddha; merciful person; Buddhist image; the dead	2	4
+溶	13	7	形声 Phonetic	2	ヨウ、と-ける、と-かす、と-く		yoo	to(keru), to(kasu), to(ku)	melt, dissolve, thaw	melt, dissolve, thaw. liquefy, melt	3	5
+偉	12	7	形声 Phonetic	3	イ、えら-い		i	era(i)	greatness	great, famous, excellent, remarkable	1	4
+軒	10	7	形声 Phonetic	2	ケン、のき		ken	noki	house counter	eaves	1	1
+汗	6	7	形声 Phonetic	2	カン、あせ		kan	ase	be sweaty	perspiration	1	1
+磨	16	7	形声 Phonetic	2	マ、みが-く		ma	miga(ku)	polish, scour; shine (shoes); brush (teeth); improve (skill), cultivate (character), train (the mind)	polish, scour; shine (shoes); brush (teeth); improve (skill), cultivate (character), train (the mind)	7	7
+靴	13	7	形声 Phonetic	3	カ、くつ		ka	kutsu	shoes	shoes, boots	1	2
+菓	11	7	形声 Phonetic	2	カ		ka	-	cakes; fruit	-	2	0
+泥	8	7	形声 Phonetic	2	デイ、どろ	なず	dei	doro	mud, mire	mud, mire, dirt, slush; disgrace	2	5
+鼻	14	3	形声 Phonetic	2	ビ、はな		bi	hana	nasal	nose; snout, muzzle	1	3
+忙	6	7	形声 Phonetic	3	ボウ、いそが-しい		boo	isoga(shii)	busy, occupied	busy, occupied	2	2
+偶	11	7	形声 Phonetic	3	グウ		guu	-	even number; couple, man and wife; friend; same kind; doll	-	6	0
+粒	11	7	形声 Phonetic	2	リュウ、つぶ		ryuu	tsubu	grain, drop	grain, drop; counter for tiny particles	2	3
+京	8	2	象形 Pictographic	4	キョウ、ケイ	キン	kyoo, kei	-	ten quadrillion; captital, metropolis; Kyoto	-	4	0
+湖	12	3	形声 Phonetic	2	コ、みずうみ		ko	mizuumi	lake	lake	1	1
+恥	10	7	会意 Com. Ideographic	3	チ、は-じる、はじ、は-じらう、は-ずかしい		chi	ha(jiru), haji, ha(jirau), ha(zukashii)	shame, dishonor, disgrace, humiliation, insult	shame, dishonor, disgrace, humiliation, insult. feel ashamed. feel shy, be coy, be bashful, blush. bashful, ashamed, coy; disgraceful, shameful	5	15
+隅	12	7	形声 Phonetic	2	グウ、すみ		guu	sumi	corner	corner, nook	1	2
+皿	5	3	象形 Pictographic	2	さら		-	sara	-	dish; a helping; a course	0	3
+湿	12	7	会意 Com. Ideographic	2	シツ、しめ-る、しめ-す		shitsu	shime(ru), shime(su)	dampness, moisture; itch	get damp, get moist, get wet. wet, moisten, dampen	3	6
+麦	7	2	会意 Com. Ideographic	2	バク、むぎ		baku	mugi	wheat, barley, oats, rye	wheat, barley, oats, rye	4	4
+塔	12	7	形声 Phonetic	2	トウ		too	-	tower, pagoda, steeple, obelisk, monument	-	5	0
+糸	6	1	会意 Com. Ideographic	2	シ、いと		shi	ito	thread; one ten-thousandth of a hair	thread, yarn; gut; string (of a violin); (fish) line	2	5
+枝	8	5	形声 Phonetic	2	シ、えだ		shi	eda	branch, bow, twig, limb	branch, bow, twig, limb	4	4
+符	11	7	形声 Phonetic	2	フ		fu	-	sign, mark, tally; charm, amulet	-	5	0
+沸	8	7	形声 Phonetic	2	フツ、わ-く、わ-かす		futsu	wa(ku), wa(kasu)	boil, get hot; ferment; seethe; be in an uproar; gush out; grow, breed, be hatched	boil, get hot; ferment; seethe; be in an uproar; gush out; grow, breed, be hatched. heat up (the bath); melt	9	11
+胃	9	4	会意 Com. Ideographic	2	イ		i	-	stomach; paunch, crop, craw	-	4	0
+鈍	12	7	形声 Phonetic	2	ドン、にぶ-い、にぶ-る		don	nibu(i), nibu(ru)	dullness, slowness, foolishness	dull, slow; blunt (tool); dim (light); thick (voice). become dull, weaken	3	7
+蒸	13	6	形声 Phonetic	2	ジョウ、む-す、む-れる、む-らす		joo	mu(su), mu(reru), mu(rasu)	steam, heat up (with steam); be close, be sultry; foment, poultice	steam, heat up (with steam); be close, be sultry; foment, poultice. be stuffy, get musty; moulder, heat. cook by steam	6	11
+畜	10	7	会意 Com. Ideographic	2	チク		chiku	-	domesticated fowl and animals	-	1	0
+帽	12	7	形声 Phonetic	2	ボウ		boo	-	cap, headgear	-	2	0
+坂	7	3	形声 Phonetic	2	ハン、さか		han	saka	incline, slope, hill	incline, slope, hill	3	3
+挟	9	7	形声 Phonetic	2	キョウ、はさ-む、はさ-まる	さしはさ	kyoo	hasa(mu), hasa(maru)	put between, hold between; insert, jam into; nip; interpose	put between, hold between; insert, jam into; nip; interpose; get between, be caught in, be jammed in, be hemmed in, be sandwiched between, be pinned under, lie between	6	13
+畳	12	7	会意 Com. Ideographic	2	ジョウ、たた-む、たたみ		joo	tata(mu), tatami	mat counter	fold, fold up, furl, shut up, shut; wind up (affairs); do away with, kill; bear in mind. folding, collapsible	1	11
+浅	9	4	形声 Phonetic	2	セン、あさ-い		sen	asa(i)	shallow; superficial; short (time); slight (connection); pale, light (color)	shallow; superficial; short (time); slight (connection); pale, light (color)	6	6
+憎	14	7	形声 Phonetic	2	ゾウ、にく-む、にく-い、にく-らしい、にく-しみ		zoo	niku(mu), niku(i), niku(rashii), niku(shimi)	hate, detest	hate, detest. hateful, abominable; poor-looking. horrible, provoking. hatred, enmity	2	9
+濯	17	7	形声 Phonetic	2	タク	あら	taku	-	wash, pour on, rinse	-	3	0
+燥	17	7	形声 Phonetic	2	ソウ		soo	-	dry up	-	1	0
+膚	15	7	形声 Phonetic	2	フ	はだ	fu	-	skin, body; grain, texture; disposition	-	5	0
+灰	6	6	会意 Com. Ideographic	2	カイ、はい		kai	hai	ashes	ashes	1	1
+涼	11	7	形声 Phonetic	2	リョウ、すず-しい、すず-む		ryoo	suzu(shii), suzu(mu)	cool	cool oneself, enjoy the evening air. cool, refreshing	1	4
+筒	12	7	形声 Phonetic	2	トウ、つつ		too	tsutsu	pipette, tube	pipe, tube, case, gun barrel, sleeve, well curb	2	6
+召	5	7	会意 Com. Ideographic	2	ショウ、め-す		shoo	me(su)	call, send for; wear, put on; take (a bath); ride in; buy; eat, drink; catch (a cold)	call, send for; wear, put on; take (a bath); ride in; buy; eat, drink; catch (a cold)	10	10
+枯	9	7	形声 Phonetic	2	コ、か-れる、か-らす		ko	ka(reru), ka(rasu)	wither, die, be dead; age; be seasoned; fog up	wither, die, be dead; age; be seasoned; fog up. kill (vegetation); let dry; season (lumber)	6	9
+耕	10	5	形声 Phonetic	2	コウ、たがや-す		koo	tagaya(su)	plow, cultivate	plow, cultivate	2	2
+舟	6	7	象形 Pictographic	2	シュウ、ふね、[ふな]		shuu	fune, [funa]	boat	boat, ship, vessel, steamer, liner, barge; shipping; tank, trough, cistern, vat	1	11
+零	13	7	形声 Phonetic	2	レイ		rei	-	zero, nothing, cipher; fall	-	4	0
