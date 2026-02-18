@@ -10,6 +10,7 @@ def load_images(image_dir: Path) -> tuple[np.ndarray, np.ndarray]:
         img = Image.open(img_path)
         img = np.array(img)
         images.append(img)
+        # assumes images named "kid_fid_kanji.png" (kid=kanji id, fid=font id)
         label = img_path.name.split("_")[2].split(".")[0]
         labels.append(label)
     return np.array(images), np.array(labels)
