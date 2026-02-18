@@ -54,7 +54,7 @@ Trainable parameters: 1,818,184
 ```
 
 ### Best model
-The best model was [trained](model/src/training.py) for 8 epochs (manually stopped) and achieved validation accuracy of `0.966` and loss of `0.3865`.
+The best model was [trained](model/src/training.py) for `8` epochs (manually stopped) and achieved validation accuracy of `0.966` and loss of `0.3865`.
 
 ## Application
 You can run the application in `main.py`.
