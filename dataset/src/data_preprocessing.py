@@ -4,7 +4,7 @@ from dataclasses import dataclass
 from enum import Enum
 from typing import Optional, Literal
 
-from data_loading import load_images_and_labels
+from dataset.src.data_loading import load_images_and_labels
 
 
 class PaddingMode(Enum):
@@ -62,6 +62,20 @@ class PreprocessingSettings:
     # Output dtype
     output_dtype: Literal["float32", "float64", "uint8"] = "float32"
 
+
+DEFAULT_SETTINGS = PreprocessingSettings(
+            grayscale_enabled=True,
+            resize_enabled=True,
+            target_size=(64, 64),
+            preserve_aspect_ratio=True,
+            padding_mode=PaddingMode.CONSTANT,
+            padding_value=1.0,          # white background after normalization
+            normalization_mode=NormalizationMode.UNIT,
+            invert_enabled=False,
+            add_channel_dim=True,
+            channel_first=False,        # TensorFlow-style (N, H, W, 1)
+            output_dtype="float32"
+        )
 
 class DataPreprocessor:
     """
@@ -328,6 +342,46 @@ class DataPreprocessor:
             processed = processed.astype(output_dtype)
         
         return processed, labels
+    
+    def process_single(self, image: np.ndarray) -> np.ndarray:
+        """
+        Preprocess a single image for model inference.
+        :param image: Array of single image with shape (H, W), (H, W, C), or (C, H, W)
+        :return: processed_input (float32, normalized, with channel dim if needed)
+        """
+        # Process image
+        processed = self._process_single(image)
+        processed = np.expand_dims(processed, axis=0)  # Add batch dimension
+
+        # Apply normalization
+        processed = self._normalize(processed)
+
+        # Add channel dimension if requested
+        if self._settings.add_channel_dim and processed.ndim == 3:
+            if self._settings.channel_first:
+                processed = processed[:, np.newaxis, :, :]  # (N, 1, H, W)
+            else:
+                processed = processed[..., np.newaxis]  # (N, H, W, 1)
+
+        # Convert to output dtype
+        dtype_map = {
+            "float32": np.float32,
+            "float64": np.float64,
+            "uint8": np.uint8,
+        }
+        output_dtype = dtype_map[self._settings.output_dtype]
+        if output_dtype == np.uint8:
+            if processed.max() <= 1.0 and processed.min() >= 0:
+                processed = (processed * 255).astype(np.uint8)
+            elif processed.min() >= -1.0 and processed.max() <= 1.0:
+                processed = ((processed + 1) * 127.5).astype(np.uint8)
+            else:
+                processed = np.clip(processed, -3, 3)
+                processed = ((processed + 3) / 6 * 255).astype(np.uint8)
+        else:
+            processed = processed.astype(output_dtype)
+
+        return processed
 
 
 if __name__ == "__main__":
@@ -338,21 +392,7 @@ if __name__ == "__main__":
     import json
     from PIL import Image
 
-    data_preprocessor = DataPreprocessor(
-        PreprocessingSettings(
-            grayscale_enabled=True,
-            resize_enabled=True,
-            target_size=(64, 64),
-            preserve_aspect_ratio=True,
-            padding_mode=PaddingMode.CONSTANT,
-            padding_value=1.0,          # white background after normalization
-            normalization_mode=NormalizationMode.UNIT,
-            invert_enabled=False,
-            add_channel_dim=True,
-            channel_first=False,        # TensorFlow-style (N, H, W, 1)
-            output_dtype="float32"
-        )
-    )
+    data_preprocessor = DataPreprocessor(DEFAULT_SETTINGS)
 
     DATA_DIR = os.path.join("dataset", "data")
     RAW_IMAGES_DIR = os.path.join(DATA_DIR, "raw_images")
