@@ -1,5 +1,4 @@
-# Kanji-Classification-CNN
-A CNN model pretrained to label pictures of arbitrary size to the 1000 most used japanese kanji characters implemented in PyTorch.
+# Kanji Classification CNN
 
 ## Dataset
 [Generated](dataset/src/data_generation.py) using these free fonts:
@@ -38,7 +37,16 @@ The dataset is [augmented](dataset/src/data_augmentation.py) dynamically during 
 
 
 ## Model
-The CNN model was built using PyTorch.
+The CNN model was built using PyTorch and trained to label images to the 1000 most used japanese kanji characters.
+
+### Architecture
+Standard deep convolutional neural network for batch of grayscale 64x64 images (B, 1, 64, 64).
+- 4 Convolutional blocks
+  - 2 x (Conv2d, BatchNorm2d, ReLU)
+  - MaxPool2d
+  - Dropou2d
+- Global average pooling
+- Classifier
 
 Output at start of training:
 ```bash
