@@ -4,7 +4,7 @@ from dataset.src.data_loading import load_kanji_data as _load_kanji_data, load_o
 import numpy as np
 from PIL.Image import Image
 from model.src.cnn_model import create_model as _create_model, load_checkpoint as _load_checkpoint
-from model.src.cuda import get_device as _get_device
+from utils.src.cuda.cuda_device import get_device as _get_device
 from model.src.evaluation import evaluate as _evaluate
 
 class KanjiController:
