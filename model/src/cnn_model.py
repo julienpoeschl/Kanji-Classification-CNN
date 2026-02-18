@@ -2,6 +2,7 @@ import torch
 import torch.nn as nn
 from typing import Optional
 
+from model.src.paths import BEST_MODEL_PATH
 
 class KanjiCNN(nn.Module):
     """
@@ -158,3 +159,9 @@ def get_scheduler(
 def get_criterion() -> nn.Module:
     """Return cross entropy loss for classification."""
     return nn.CrossEntropyLoss()
+
+
+def load_checkpoint():
+    model_path = BEST_MODEL_PATH
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    return torch.load(model_path, map_location=device)
