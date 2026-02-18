@@ -2,11 +2,11 @@
 A CNN model pretrained to label pictures of arbitrary size to the 1000 most used japanese kanji characters implemented in PyTorch.
 
 ### Dataset
-[Generated](https://github.com/julienpoeschl/Kanji-Classification_CNN/dataset/src/data_generation.py) using these free fonts:
+[Generated](dataset/src/data_generation.py) using these free fonts:
 | Font | Found / Downloaded | License |
 |------|--------------------|---------|
 | `AoyagiSosekiFont2` | [Found and downloaded](https://www.freekanjifonts.com/japanesefont-aoyagisoseki-download/) | Commercial use OK |
-| `ipamjm` | [Found and downloaded](https://github.com/ken1row/IPSJ-techrep-xelatex) | [License](https://github.com/julienpoeschl/Kanji-Classification_CNN/dataset/data/fonts/licenses/IPAフォントライセンスv1.0.txt) |
+| `ipamjm` | [Found and downloaded](https://github.com/ken1row/IPSJ-techrep-xelatex) | [License](dataset/data/fonts/licenses/IPAフォントライセンスv1.0.txt) |
 | `JiyunoTsubasa` | [Found and downloaded](https://www.freekanjifonts.com/japanesefont-jiyuno-tsubasa/) | You can use it for both personal and commercial use |
 | `KikaiChokokuJISTTF` | [Found](https://www.freejapanesefont.com/kikai-chokoku-jis-font-download/) [Downloaded](https://font.kim) | Free for personal and commercial use |
 | `KouzanMouhituFontOTF` | [Found and downloaded](https://www.freekanjifonts.com/japanesefont-kozan-mohitsu-download/) | Commercial-use OK |
@@ -34,7 +34,7 @@ ORDER BY `Kanji Frequency without Proper Nouns` DESC
 LIMIT 1000
 ```
 
-The dataset is [augmented](https://github.com/julienpoeschl/Kanji-Classification_CNN/dataset/src/data_augmentation.py) dynamically during training (slight rotation, shifts, color inversion, ...).
+The dataset is [augmented](dataset/src/data_augmentation.py) dynamically during training (slight rotation, shifts, color inversion, ...).
 
 
 ### Model
@@ -52,10 +52,14 @@ Creating model...
 Total parameters: 1,818,184
 Trainable parameters: 1,818,184
 
-### Application
-- Send screenshot to evaluate
-- Read result + confidence level
-
-### Evaluation
 - Accuracy during training + validation
-- 
+
+### Application
+You can run the application in `main.py`.
+Either 
+- load an image from your device or
+- paste a screenshot.
+You can read the top 3 predictions and the models confidence level and their descriptions.
+
+|------|-------|
+|![](.media/preview_nothing_selected.png)|![](.media/preview_kanji_selected.png)|
