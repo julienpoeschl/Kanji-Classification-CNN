@@ -5,11 +5,11 @@ A CNN model pretrained to label pictures of arbitrary size to the 1000 most used
 [Generated](https://github.com/julienpoeschl/Kanji-Classification_CNN/dataset/src/data_generation.py) using these free fonts:
 | Font | Found / Downloaded | License |
 |------|--------------------|---------|
-| `AoyagiSosekiFont2` | [Found and downloaded](https://www.freekanjifonts.com/japanesefont-aoyagisoseki-download/) | - |
+| `AoyagiSosekiFont2` | [Found and downloaded](https://www.freekanjifonts.com/japanesefont-aoyagisoseki-download/) | Commercial use OK |
 | `ipamjm` | [Found and downloaded](https://github.com/ken1row/IPSJ-techrep-xelatex) | [License](https://github.com/julienpoeschl/Kanji-Classification_CNN/dataset/data/fonts/licenses/IPAフォントライセンスv1.0.txt) |
-| `JiyunoTsubasa` | [Found and downloaded](https://www.freekanjifonts.com/japanesefont-jiyuno-tsubasa/) | - |
-| `KikaiChokokuJISTTF` | [Found](https://www.freejapanesefont.com/kikai-chokoku-jis-font-download/) [Downloaded](https://font.kim) | - |
-| `KouzanMouhituFontOTF` | [Found and downloaded](https://www.freekanjifonts.com/japanesefont-kozan-mohitsu-download/) | - |
+| `JiyunoTsubasa` | [Found and downloaded](https://www.freekanjifonts.com/japanesefont-jiyuno-tsubasa/) | You can use it for both personal and commercial use |
+| `KikaiChokokuJISTTF` | [Found](https://www.freejapanesefont.com/kikai-chokoku-jis-font-download/) [Downloaded](https://font.kim) | Free for personal and commercial use |
+| `KouzanMouhituFontOTF` | [Found and downloaded](https://www.freekanjifonts.com/japanesefont-kozan-mohitsu-download/) | Commercial-use OK |
 
 and a list of the 1000 most used kanji from [https://www.kanjidatabase.com/index.php](https://www.kanjidatabase.com/index.php) (and additional data per kanji) using this query:
 ```sql
