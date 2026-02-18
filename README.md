@@ -1,16 +1,32 @@
 # Kanji-Classification-CNN
-A CNN model pretrained to label pictures of arbitrary size to japanese kanji characters implemented in PyTorch.
+A CNN model pretrained to label pictures of arbitrary size to the 1000 most used japanese kanji characters implemented in PyTorch.
 
 ### Dataset
 [Generated](https://github.com/julienpoeschl/Kanji-Classification_CNN/dataset/src/data_generation.py) using these free fonts:
-- AoyagiSosekiFont2 found [here](https://www.freekanjifonts.com/japanesefont-aoyagisoseki-download/) 
-- ipamjm found [here](https://github.com/ken1row/IPSJ-techrep-xelatex) with [license](https://github.com/julienpoeschl/Kanji-Classification_CNN/dataset/data/fonts/licenses/IPAフォントライセンスv1.0.txt)
-- JiyunoTsubasa found [here](https://www.freekanjifonts.com/japanesefont-jiyuno-tsubasa/)
-- [KikaiChokokuJISTTF](https://font.kim) found [here](https://www.freejapanesefont.com/kikai-chokoku-jis-font-download/)
-- KouzanMouhituFontOTF found [here](https://www.freekanjifonts.com/japanesefont-kozan-mohitsu-download/)
+| Font | Found / Downloaded | License |
+|------|--------------------|---------|
+| `AoyagiSosekiFont2` | [Found and downloaded](https://www.freekanjifonts.com/japanesefont-aoyagisoseki-download/) | - |
+| `ipamjm` | [Found and downloaded](https://github.com/ken1row/IPSJ-techrep-xelatex) | [License](https://github.com/julienpoeschl/Kanji-Classification_CNN/dataset/data/fonts/licenses/IPAフォントライセンスv1.0.txt) |
+| `JiyunoTsubasa` | [Found and downloaded](https://www.freekanjifonts.com/japanesefont-jiyuno-tsubasa/) | - |
+| `KikaiChokokuJISTTF` | [Found](https://www.freejapanesefont.com/kikai-chokoku-jis-font-download/) [Downloaded](https://font.kim) | - |
+| `KouzanMouhituFontOTF` | [Found and downloaded](https://www.freekanjifonts.com/japanesefont-kozan-mohitsu-download/) | - |
+
 and a list of the 1000 most used kanji from [https://www.kanjidatabase.com/index.php](https://www.kanjidatabase.com/index.php) (and additional data per kanji) using this query:
 ```sql
-SELECT `Kanji`, `Strokes`, `Grade`, `Kanji Classification`, `JLPT-test`, `Reading within Joyo`, `Reading beyond Joyo`, `On within Joyo`, `Kun within Joyo`, `Translation of On`, `Translation of Kun`,`# of Meanings of On`, `# of Meanings of Kun`
+SELECT
+  `Kanji`,
+  `Strokes`,
+  `Grade`,
+  `Kanji Classification`,
+  `JLPT-test`,
+  `Reading within Joyo`,
+  `Reading beyond Joyo`,
+  `On within Joyo`,
+  `Kun within Joyo`,
+  `Translation of On`,
+  `Translation of Kun`,
+  `# of Meanings of On`,
+  `# of Meanings of Kun`
 FROM KANJI6654
 WHERE Grade IS NOT NULL
   AND `JLPT-test` IN ('5','4','3','2')
@@ -18,7 +34,7 @@ ORDER BY `Kanji Frequency without Proper Nouns` DESC
 LIMIT 1000
 ```
 
-The dataset is augmented dynamically during training (slight rotation, shifts, color inversion, ...).
+The dataset is [augmented](https://github.com/julienpoeschl/Kanji-Classification_CNN/dataset/src/data_augmentation.py) dynamically during training (slight rotation, shifts, color inversion, ...).
 
 
 ### Model
