@@ -1,7 +1,7 @@
 # Kanji-Classification-CNN
 A CNN model pretrained to label pictures of arbitrary size to the 1000 most used japanese kanji characters implemented in PyTorch.
 
-### Dataset
+## Dataset
 [Generated](dataset/src/data_generation.py) using these free fonts:
 | Font | Found / Downloaded | License |
 |------|--------------------|---------|
@@ -37,11 +37,11 @@ LIMIT 1000
 The dataset is [augmented](dataset/src/data_augmentation.py) dynamically during training (slight rotation, shifts, color inversion, ...).
 
 
-### Model
-- PyTorch
-- CNN
-- Classification
+## Model
+The CNN model was built using PyTorch.
 
+Output at start of training:
+```bash
 Using device: cpu
 Loading processed data...
 Loaded 5000 samples with 1000 classes
@@ -51,15 +51,16 @@ Train batches: 7032, Val batches: 8
 Creating model...
 Total parameters: 1,818,184
 Trainable parameters: 1,818,184
+```
 
-- Accuracy during training + validation
+### Best model
+The best model was [trained](model/src/training.py) for `8` epochs (manually stopped) and achieved validation accuracy of `0.966` and loss of `0.3865`.
 
-### Application
+## Application
 You can run the application in `main.py`.
 Either 
 - load an image from your device or
 - paste a screenshot.
 You can read the top 3 predictions and the models confidence level and their descriptions.
 
-|------|-------|
-|![](.media/preview_nothing_selected.png)|![](.media/preview_kanji_selected.png)|
+ ![](.media/preview_nothing_selected.png)  ![](.media/preview_kanji_selected.png)
