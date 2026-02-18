@@ -4,7 +4,7 @@ from dataclasses import dataclass
 from enum import Enum
 from typing import Optional, Literal
 
-from data_loading import load_images
+from data_loading import load_images_and_labels
 
 
 class PaddingMode(Enum):
@@ -356,7 +356,7 @@ if __name__ == "__main__":
 
     DATA_DIR = os.path.join("dataset", "data")
     RAW_IMAGES_DIR = os.path.join(DATA_DIR, "raw_images")
-    images, labels = load_images(Path(RAW_IMAGES_DIR))
+    images, labels = load_images_and_labels(Path(RAW_IMAGES_DIR))
     
     unique_labels = list(dict.fromkeys(labels))
     output_map = {val: i for i, val in enumerate(unique_labels)}
