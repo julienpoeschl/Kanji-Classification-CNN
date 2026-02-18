@@ -8,7 +8,7 @@ class KanjiWindow(QWidget):
 
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Kanji Classification Screenshot")
+        self.setWindowTitle("Kanji Classification App")
         self.setGeometry(100, 100, 400, 600)
         layout = QVBoxLayout()
 
