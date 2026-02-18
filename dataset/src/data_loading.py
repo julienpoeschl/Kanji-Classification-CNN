@@ -1,6 +1,9 @@
+import json
 from pathlib import Path
 from PIL import Image
 import numpy as np
+
+from dataset.src.paths import KANJI_DATA_PATH, LABEL_MAP_PATH
 
 
 def load_images_and_labels(image_dir: Path) -> tuple[np.ndarray, np.ndarray]:
@@ -23,3 +26,12 @@ def load_images_and_labels(image_dir: Path) -> tuple[np.ndarray, np.ndarray]:
         label = img_path.name.split("_")[2].split(".")[0]
         labels.append(label)
     return np.array(images), np.array(labels)
+
+
+def load_kanji_data() -> dict:
+    with open(KANJI_DATA_PATH, "r", encoding="utf-8") as f:
+        return json.load(f)
+    
+def load_output_map() -> dict:
+    with open(LABEL_MAP_PATH, "r", encoding="utf-8") as f:
+        return json.load(f)
