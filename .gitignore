@@ -207,6 +207,6 @@ marimo/_lsp/
 __marimo__/
 
 # Remove generated raw images
-dataset/data/raw_images/*
-*.png
+dataset/data/*
+
 sample*
