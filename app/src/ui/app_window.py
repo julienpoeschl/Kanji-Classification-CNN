@@ -1,15 +1,18 @@
 from PyQt6.QtWidgets import QApplication, QWidget, QVBoxLayout, QPushButton, QLabel, QFileDialog, QHBoxLayout
-from PyQt6.QtGui import QPixmap
+from PyQt6.QtGui import QPixmap, QIcon
 from PyQt6.QtCore import Qt
 from PIL import Image
 from controller import KanjiController, get_kanji_data
+from app.src.paths import ICON_PATH
 
 class KanjiWindow(QWidget):
 
-    def __init__(self):
+    def __init__(self, app : QApplication):
         super().__init__()
         self.setWindowTitle("Kanji Classification App")
         self.setGeometry(100, 100, 400, 600)
+        app.setWindowIcon(QIcon(ICON_PATH))
+
         layout = QVBoxLayout()
 
         self.img_label = QLabel("No image loaded")

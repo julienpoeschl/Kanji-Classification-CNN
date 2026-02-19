@@ -7,7 +7,7 @@ def main() -> None:
     import sys
     from PyQt6.QtWidgets import QApplication
     app = QApplication(sys.argv)
-    window = KanjiWindow()
+    window = KanjiWindow(app)
     window.show()
     sys.exit(app.exec())
 
