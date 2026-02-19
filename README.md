@@ -33,11 +33,12 @@ ORDER BY `Kanji Frequency without Proper Nouns` DESC
 LIMIT 1000
 ```
 
-The dataset is [augmented](dataset/src/data_augmentation.py) dynamically during training (slight rotation, shifts, color inversion, ...).
+### Augmentation
+Since the dataset only consists of `1000` kanji * `5` fonts (`5000` total), it is [augmented](dataset/src/data_augmentation.py) dynamically during training (slight rotation, shifts, color inversion, ...). This is done by virtually increasing the dataset by a factor of `100` (`500000` total), meaning each sample from the dataset gets randomly augmented `100` times.
 
 
 ## Model
-The CNN model was built using PyTorch and trained to label images to the 1000 most used japanese kanji characters.
+The CNN model was built using PyTorch and trained to label images to the 1000 most used japanese kanji characters (digital, not hand drawn).
 
 ### Architecture
 Standard deep convolutional neural network for batch of grayscale 64x64 images (B, 1, 64, 64).
@@ -65,7 +66,7 @@ Trainable parameters: 1,818,184
 The best model was [trained](model/src/training.py) for `8` epochs (manually stopped) and achieved validation accuracy of `0.966` and loss of `0.3865`.
 
 ## Application
-You can run the application in `main.py`. The application window is done with PyQt6.
+You can run the application in `main.py`. The application window uses PyQt6.
 Either 
 - load an image from your device or
 - paste a screenshot.
