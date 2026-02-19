@@ -1,4 +1,4 @@
-# torch import necessary
+# torch import necessary (otherwise causes OSError: [WinError 1114])
 import torch
 from ui.app_window import KanjiWindow
 
