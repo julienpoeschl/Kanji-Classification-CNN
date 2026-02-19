@@ -10,6 +10,9 @@ from typing import Optional
 from cnn_model import create_model, get_optimizer, get_scheduler, get_criterion
 
 from dataset.src.data_augmentation import DataAugmenter, AugmentationSettings
+from utils.src.cuda import cuda_device
+from model.src.paths import BEST_MODEL_PATH, FINAL_MODEL_PATH, CHECKPOINT_DIR
+from dataset.src.paths import PROCESSED_INPUTS_PATH, PROCESSED_OUTPUTS_PATH, LABEL_MAP_PATH
 
 
 class AugmentedKanjiDataset(Dataset):
@@ -17,7 +20,13 @@ class AugmentedKanjiDataset(Dataset):
     Custom Dataset for Kanji images with on-the-fly augmentation and virtual expansion.
     Each original image appears 'virtual_factor' times per epoch, each time with a new augmentation.
     """
-    def __init__(self, images: np.ndarray, labels: np.ndarray, augmenter: Optional[DataAugmenter] = None, virtual_factor: int = 1):
+    def __init__(
+        self, 
+        images: np.ndarray, 
+        labels: np.ndarray, 
+        augmenter: Optional[DataAugmenter] = None, 
+        virtual_factor: int = 1
+    ) -> None:
         self.images = images
         self.labels = labels
         self.augmenter = augmenter
@@ -30,15 +39,15 @@ class AugmentedKanjiDataset(Dataset):
         else:
             raise ValueError("Images must have shape (N, H, W) or (N, H, W, 1)")
 
-    def __len__(self):
+    def __len__(self) -> int:
+        """Returns virtual length."""
         return len(self.images) * self.virtual_factor
 
-    def __getitem__(self, idx):
-        # Map idx to original image
+    def __getitem__(self, idx: int) -> tuple[torch.Tensor, torch.Tensor]:
+        """Gets (augmented) item at given index."""
         real_idx = idx % len(self.images)
         img = self.images[real_idx]
         label = self.labels[real_idx]
-        # Apply augmentation
         if self.augmenter:
             img = self.augmenter.augment_single(img)
         # Add channel dimension for PyTorch
@@ -56,12 +65,14 @@ class KanjiTrainer:
         model: nn.Module,
         device: torch.device,
         learning_rate: float = 1e-3,
-        weight_decay: float = 1e-4
+        weight_decay: float = 1e-4,
+        verbose: bool = True
     ) -> None:
         self.model = model
         self.device = device
         self.criterion = get_criterion()
         self.optimizer = get_optimizer(model, learning_rate, weight_decay)
+        self.verbose = verbose
         self.scheduler: Optional[torch.optim.lr_scheduler.LRScheduler] = None
         
         self.train_losses: list[float] = []
@@ -93,12 +104,14 @@ class KanjiTrainer:
             total += labels.size(0)
             correct += predicted.eq(labels).sum().item()
 
-            percent = 100 * (batch_idx + 1) / len(train_loader)
-            if percent != previous_percent:
-                print(f"Epoch {self.current_epoch+1}, Progress: {percent:.1f}%", end="\r")
-            previous_percent = percent
+            if self.verbose:
+                percent = 100 * (batch_idx + 1) / len(train_loader)
+                if percent != previous_percent:
+                    print(f"Epoch {self.current_epoch+1}, Progress: {percent:.1f}%", end="\r")
+                previous_percent = percent
         
-        print("")
+        if self.verbose:
+            print("")
         avg_loss = total_loss / total
         accuracy = correct / total
         return avg_loss, accuracy
@@ -135,7 +148,6 @@ class KanjiTrainer:
         train_loader: DataLoader,
         val_loader: DataLoader,
         epochs: int,
-        save_dir: str,
         patience: int = 10
     ) -> None:
         """
@@ -147,7 +159,7 @@ class KanjiTrainer:
         :param save_dir: Directory to save checkpoints
         :param patience: Early stopping patience
         """
-        os.makedirs(save_dir, exist_ok=True)
+        os.makedirs(CHECKPOINT_DIR, exist_ok=True)
         best_val_loss = float('inf')
         patience_counter = 0
         self.current_epoch = 0
@@ -182,7 +194,7 @@ class KanjiTrainer:
                     'optimizer_state_dict': self.optimizer.state_dict(),
                     'val_loss': val_loss,
                     'val_acc': val_acc,
-                }, os.path.join(save_dir, 'best_model.pt'))
+                }, BEST_MODEL_PATH)
                 print(f"  -> Saved best model (val_loss: {val_loss:.4f})")
             else:
                 patience_counter += 1
@@ -200,29 +212,12 @@ class KanjiTrainer:
             'val_losses': self.val_losses,
             'train_accuracies': self.train_accuracies,
             'val_accuracies': self.val_accuracies,
-        }, os.path.join(save_dir, 'final_model.pt'))
-        print(f"Saved final model to {save_dir}")
+        }, FINAL_MODEL_PATH)
+        print(f"Saved final model to {CHECKPOINT_DIR}")
         print(f"Train losses per epoch: {self.train_losses}.")
         print(f"Train accuracy per epoch: {self.train_accuracies}.")
         print(f"Validation losses per epoch: {self.val_losses}.")
         print(f"Validation accuracy per epoch: {self.val_accuracies}.")
-
-
-def load_augmented_data(data_dir: str) -> tuple[np.ndarray, np.ndarray, dict]:
-    """
-    Load augmented dataset from disk.
-    
-    :param data_dir: Path to augmented data directory
-    :return: Tuple of (inputs, outputs, output_map)
-    """
-    inputs = np.load(os.path.join(data_dir, "augmented_inputs.npz"))["arr"]
-    outputs = np.load(os.path.join(data_dir, "augmented_outputs.npz"))["arr"]
-    
-    with open(os.path.join(data_dir, "augmented_output_map.json"), "r", encoding="utf-8") as f:
-        output_map = json.load(f)
-    
-    return inputs, outputs, output_map
-
 
 
 def prepare_data_loaders(
@@ -295,33 +290,30 @@ def prepare_data_loaders(
 
 
 if __name__ == "__main__":
-    # Configuration
-    DATA_DIR = os.path.join("dataset", "data", "processed_data")
-    SAVE_DIR = os.path.join("model", "checkpoints")
 
+    # --- Settings ---
     BATCH_SIZE = 64
     EPOCHS = 50
     LEARNING_RATE = 1e-3
     WEIGHT_DECAY = 1e-4
     VAL_SPLIT = 0.1
     PATIENCE = 10
-    VIRTUAL_FACTOR = 100  # Each image appears 10x per epoch with different augmentations
+    VIRTUAL_FACTOR = 100
 
-    # Set device
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    # --- Set device ---
+    device = cuda_device.get_device()
     print(f"Using device: {device}")
 
-    # Load processed data (not augmented)
+    # --- Building training/validation set ---
     print("Loading processed data...")
-    inputs = np.load(os.path.join(DATA_DIR, "processed_inputs.npz"))["arr"]
-    outputs = np.load(os.path.join(DATA_DIR, "processed_outputs.npz"))["arr"]
-    with open(os.path.join(DATA_DIR, "processed_output_map.json"), "r", encoding="utf-8") as f:
+    inputs = np.load(PROCESSED_INPUTS_PATH)["arr"]
+    outputs = np.load(PROCESSED_OUTPUTS_PATH)["arr"]
+    with open(LABEL_MAP_PATH, "r", encoding="utf-8") as f:
         output_map = json.load(f)
     num_classes = len(output_map)
     print(f"Loaded {len(inputs)} samples with {num_classes} classes")
     print(f"Input shape: {inputs.shape}")
 
-    # Prepare data loaders with on-the-fly augmentation and virtual expansion
     print("Preparing data loaders...")
     train_loader, val_loader = prepare_data_loaders(
         inputs, outputs,
@@ -331,7 +323,7 @@ if __name__ == "__main__":
     )
     print(f"Train batches: {len(train_loader)}, Val batches: {len(val_loader)}")
 
-    # Create model
+    # --- Model creation ---
     print("Creating model...")
     model = create_model(num_classes=num_classes, device=device)
     total_params = sum(p.numel() for p in model.parameters())
@@ -339,7 +331,7 @@ if __name__ == "__main__":
     print(f"Total parameters: {total_params:,}")
     print(f"Trainable parameters: {trainable_params:,}")
 
-    # Create trainer and train
+    # --- Trainer creation ---
     trainer = KanjiTrainer(
         model=model,
         device=device,
@@ -347,6 +339,7 @@ if __name__ == "__main__":
         weight_decay=WEIGHT_DECAY
     )
 
+    # --- Training epochs ---
     print(f"\nStarting training for {EPOCHS} epochs...")
     print("-" * 80)
 
@@ -354,7 +347,6 @@ if __name__ == "__main__":
         train_loader=train_loader,
         val_loader=val_loader,
         epochs=EPOCHS,
-        save_dir=SAVE_DIR,
         patience=PATIENCE
     )
 
