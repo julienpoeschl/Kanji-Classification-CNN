@@ -3,6 +3,7 @@ import torch.nn as nn
 from typing import Optional
 
 from model.src.paths import BEST_MODEL_PATH
+from utils.src.cuda import cuda_device
 
 class KanjiCNN(nn.Module):
     """
@@ -129,7 +130,7 @@ def create_model(
     :return: Initialized KanjiCNN model
     """
     if device is None:
-        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        device = cuda_device.get_device()
     
     model = KanjiCNN(num_classes=num_classes, dropout_rate=dropout_rate)
     model = model.to(device)
@@ -163,5 +164,5 @@ def get_criterion() -> nn.Module:
 
 def load_checkpoint():
     model_path = BEST_MODEL_PATH
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    device = cuda_device.get_device()
     return torch.load(model_path, map_location=device)
